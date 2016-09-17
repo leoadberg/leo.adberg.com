@@ -133,7 +133,7 @@ figcaption {
 }
 
 button {
-    margin-left: 20px;
+    margin-left: 0px;
 }
 
 canvas {
@@ -180,7 +180,7 @@ hr {
 }
 
 #printoutput {
-    margin-left: 20px;
+    margin-left: 0px;
     color: #ff6a00;
 }
 

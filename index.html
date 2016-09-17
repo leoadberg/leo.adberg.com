@@ -41,14 +41,14 @@
                         </p>
                     </th>
                     <th> 
-                    <select multiple style="height: 100px; width:160px">
+                    <select multiple style="width:100%;">
                     <option value="54">Professional, Scientific, and Technical Services</option>
-                    <option value="541110">Offices of Lawyers</option>
-                    <option value="541330">Engineering Services</option>
-                    <option value="541430">Graphic Design Services</option>
-                    <option value="541511">Custom Computer Programming Services</option>
-                    <option value="541512">Computer Systems Design Services</option>
-                    <option value="541513">Computer Facilities Management Services</option>
+                    <option value="541110">*     Offices of Lawyers</option>
+                    <option value="541330">*     Engineering Services</option>
+                    <option value="541430">*     Graphic Design Services</option>
+                    <option value="541511">*     Custom Computer Programming Services</option>
+                    <option value="541512">*     Computer Systems Design Services</option>
+                    <option value="541513">*     Computer Facilities Management Services</option>
                     <option value="61">Educational Services</option>
                     <option value="62">Health Care and Social Assistance</option>
                     <option value="71">Arts, Entertainment, and Recreation</option>
@@ -64,7 +64,7 @@
                         </p>
                     </td>
                     <td>
-                <select multiple style="height: 100px; width:160px">
+                <select multiple style="width:100%;">
                     <option value="Alabama">Alabama</option>
                     <option value="Alaska">Alaska</option>
                     <option value="Arizona">Arizona</option>
@@ -138,25 +138,22 @@
                     <td>
                         <input id="sizeinput" type="text">  
                     </td>
-                    </tr> 
+                    </tr>
+                  <tr>
+                    <td>
+                    Shift click to select multiple
+                    </td>
+                    <td>
+                     <button style="height: 100%; width:100%;" type="button" onclick="print(document.getElementById('industryinput').value, document.getElementById('stateinput').value, document.getElementById('incomeinput').value, document.getElementById('sizeinput').value)"><h3>Submit</h3></button>
+                    </td>
+                  </tr> 
                 </table>
                 </th>
-                <th>
-                <table>
-                <tr>        
-                <th>
-                <section class = "Outputs">
-                    <div id="printoutput">Output: <br></div>
+               <th style="height:100%;">
+                <section style="height:100%; width:100%;" class = "Outputs">
+                    <div style="height:100%; width:100%;" id="printoutput">Output: <br></div>
                 </section>
                 </th>
-                </tr>
-                <tr>
-                <th>
-                <button style="height: 70px; width:160px;" type="button" onclick="print(document.getElementById('industryinput').value, document.getElementById('stateinput').value, document.getElementById('incomeinput').value, document.getElementById('sizeinput').value)"><h3>Submit</h3></button>
-                </th>
-                </tr>
-                </table>
-                </tr>
                 </table>
                  </article>
        </section>   
