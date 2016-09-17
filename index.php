@@ -134,7 +134,7 @@
                         </p>
                     </td>
                     <td>
-                        <input id="incomeinput" type="text">
+                        <input id="incomeinput" type="text" />
                     </td>
                   </tr>
                   <tr>
