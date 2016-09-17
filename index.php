@@ -151,7 +151,7 @@
                     <div style="height:100%; width:100%;" id="printoutput">Output: <br>
                     
                     <?php
-					exec('source python/3.4.3/venv/python343/bin/activate')
+					exec('source python/3.4.3/venv/python343/bin/activate');
                     $states = "";
                     $industries = "";
                     $minsalary = $_GET['minSalary'];
