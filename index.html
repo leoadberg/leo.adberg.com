@@ -1,1 +1,58 @@
-Will this work???
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="index.css">
+    <script src="Script.js"></script>
+    <title>Home</title>
+</head>
+
+<body onload ="init();">
+
+    <header>
+        <hgroup>
+            <h1>site</h1>
+        </hgroup>
+        
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a id = "contact" href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+        
+    </header>
+    
+    <section>
+        <article>
+
+            <h2>Home</h2>
+            <p>
+            welcome text
+            </p>
+            <br>
+            <h3> Test </h3>
+            <p>Enter text
+                <input id="input" type="text">
+                <button type="button" onclick="print(document.getElementById('input').value)">Submit</button>
+            </p> 
+            <div id="printoutput">Output: <br></div>
+
+        </article>
+       </section>
+    
+    <footer>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+            
+        <small>&copy; thanatcha</small>
+    </footer>
+</body>
+</html>
