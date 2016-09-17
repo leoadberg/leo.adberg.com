@@ -37,13 +37,24 @@
             </p>
             <br>
             <h3> Test </h3>
-            <p>Enter text
-                <input id="input" type="text">
-                <button type="button" onclick="print(document.getElementById('input').value)">Submit</button>
-            </p> 
+             <p>Industry
+                <input id="industryinput" type="text">
+                <hr>
+                State
+                <input id="stateinput" type="text">
+                <hr>
+                Income minimum
+                <input id="incomeinput" type="text">
+                <hr>
+                Company Size
+                <input id="sizeinput" type="text">
+                <button type="button" onclick="print(document.getElementById('industryinput').value,
+                                                     document.getElementById('stateinput').value,
+                                                     document.getElementById('incomeinput').value,
+                                                     document.getElementById('sizeinput').value)">Submit</button>
+            </p>  
             <div id="printoutput">Output: <br></div>
-
-        </article>
+                  </article>
        </section>
     
     <footer>

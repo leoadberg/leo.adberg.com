@@ -2,13 +2,13 @@
 body {
     font-family: Arial, Helvettica, sans-serif;
     /*background-color: #333333;*/
-    background: url(blue.png) fixed;
+    background: url(gray.jpg) fixed;
     background-size: cover;
 }
 
 header {
     width: 80%;
-    background-image: url(blue.png);
+    background-image: url(gray.jpg);
     color: black;
     margin-right: auto;
     margin-left: auto;
@@ -32,7 +32,7 @@ section {
 
 footer {
     width: 80%;
-    background-color: black;
+    background-color: rgba(200, 200, 200, 0.7);
     color: white;
     margin-right: auto;
     margin-left: auto;
@@ -124,7 +124,7 @@ canvas {
 }
 
 header a {
-    color: black;
+    color: white;
     text-decoration: none;
     cursor: pointer;
     background-color: #FFFFFF;
@@ -162,7 +162,7 @@ hr {
     border: 2px solid white;
 }
 
-#numbersplitoutput {
+#printoutput {
     margin-left: 20px;
     color: #ff6a00;
 }

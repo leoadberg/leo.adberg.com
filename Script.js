@@ -1,4 +1,3 @@
-function print(x) {
-    document.getElementById("printoutput").innerHTML = "Output: <br>";
-    document.getElementById("printoutput").innerHTML = x;
+function print(industry, state, income, size) {
+    document.getElementById("printoutput").innerHTML = "Output: " + industry, state, income, size;
 }
