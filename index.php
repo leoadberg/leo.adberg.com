@@ -160,7 +160,7 @@
                     foreach ($_GET['industry'] as $selectedOption)
     					$industries = $industries . $selectedOption . " ";
 						
-					echo echo exec('python GetData.py -state '.$states.' -industry '.$industries.' -minsalary '.$minsalary);
+					echo exec('python GetData.py -state '.$states.' -industry '.$industries.' -minsalary '.$minsalary);
                     ?>
                     </div>
                 </section>
