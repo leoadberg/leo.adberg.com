@@ -31,6 +31,9 @@
             Salary projection for college students using predictive model based on US Census data.
             Fill in your industry, state, income minimum and prefered company size.
             </p>
+            
+            <form id="form" name="form" method="get" action="index.php">
+            
             <table>
             
             <colgroup>
@@ -127,7 +130,7 @@
                   <tr>
                      <td>
                         <p>
-                        <h3>Income minimum</h3>
+                        <h3>Minimum Salary</h3>
                         </p>
                     </td>
                     <td>
@@ -136,19 +139,9 @@
                   </tr>
                   <tr>
                     <td>
-                    <p>    
-                        <h3>Company Size</h3>
-                    </p>
                     </td>
                     <td>
-                        <input id="sizeinput" type="text">  
-                    </td>
-                    </tr>
-                  <tr>
-                    <td>
-                    </td>
-                    <td>
-                     <button style="height: 100%; width:100%;" type="button" onclick="print(document.getElementById('industryinput').value, document.getElementById('stateinput').value, document.getElementById('incomeinput').value, document.getElementById('sizeinput').value)"><h3>Submit</h3></button>
+                     <input type="submit" name="Submit" value="Submit"/>
                     </td>
                   </tr> 
                 </table>
@@ -159,6 +152,7 @@
                 </section>
                 </th>
                 </table>
+                </form>
                  </article>
        </section>   
     <footer>
