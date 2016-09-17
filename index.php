@@ -49,7 +49,7 @@
                    		<h4>Shift click to select multiple</h4>
                     </th>
                     <th> 
-                    <select multiple style="width:100%;">
+                    <select multiple style="width:100%;" name="industries">
                     <option value="54">Professional, Scientific, and Technical Services</option>
                     <option value="541110">*     Offices of Lawyers</option>
                     <option value="541330">*     Engineering Services</option>
@@ -72,7 +72,7 @@
                         </p>
                     </td>
                     <td>
-                <select multiple style="width:100%;">
+                <select multiple style="width:100%;" name="state">
                     <option value="Alabama">Alabama</option>
                     <option value="Alaska">Alaska</option>
                     <option value="Arizona">Arizona</option>
