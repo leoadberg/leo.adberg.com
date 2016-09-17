@@ -49,7 +49,7 @@
                    		<h4>Shift click to select multiple</h4>
                     </th>
                     <th> 
-                    <select multiple style="width:100%;" name="industries">
+                    <select multiple style="width:100%;" name="industry">
                     <option value="54">Professional, Scientific, and Technical Services</option>
                     <option value="541110">*     Offices of Lawyers</option>
                     <option value="541330">*     Engineering Services</option>
@@ -148,7 +148,21 @@
                 </th>
                <th style="height:100%;" valign="top">
                 <section style="height:100%; width:100%;" class = "Outputs">
-                    <div style="height:100%; width:100%;" id="printoutput">Output: <br></div>
+                    <div style="height:100%; width:100%;" id="printoutput">Output: <br>
+                    
+                    <?php
+                    $states = "";
+                    $industries = "";
+                    $minsalary = $_GET['minSalary'];
+                    foreach ($_GET['state'] as $selectedOption)
+    					$states = $states . $selectedOption . " ";
+					
+                    foreach ($_GET['industry'] as $selectedOption)
+    					$industries = $industries . $selectedOption . " ";
+						
+					echo echo exec('python GetData.py -state '.$states.' -industry '.$industries.' -minsalary '.$minsalary);
+                    ?>
+                    </div>
                 </section>
                 </th>
                 </table>
