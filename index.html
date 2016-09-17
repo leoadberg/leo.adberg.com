@@ -14,7 +14,7 @@
         <hgroup>
             <h1>Job Predictor</h1>
             <h2></h2>
-            <h3>How is your career? </h3>
+            <h3>The future of your career </h3>
             <h3></h3>
         </hgroup>
         
@@ -34,48 +34,121 @@
             <h2>Data Display</h2>
             <p>
             Salary projection for college students using predictive model based on US Census data.
+            Fill in your industry, state, income minimum and prefered company size.
             </p>
-            <br>
-            <h3> Enter your info </h3>
+            <h3> Enter your preferences </h3>
             <table><tr><th>
             <table>
                   <tr>
                     <th>
                         <p>Industry
-                        <input id="industryinput" type="text">
                         </p>
-                                            </th>
+                    </th>
+                    <th> 
+                        <input id="industryinput" type="text">
+                    </th>
                   </tr>
                   <tr>
                     <td>
                         <p>
                         State
-                        <input id="stateinput" type="text">
                         </p>
+                    </td>
+                    <td>
+                    <select multiple style="height: 100px; width:160px">
+                    <option value="AL">Alabama</option>
+                    <option value="AK">Alaska</option>
+                    <option value="AZ">Arizona</option>
+                    <option value="AR">Arkansas</option>
+                    <option value="CA">California</option>
+                    <option value="CO">Colorado</option>
+                    <option value="CT">Connecticut</option>
+                    <option value="DE">Delaware</option>
+                    <option value="DC">District Of Columbia</option>
+                    <option value="FL">Florida</option>
+                    <option value="GA">Georgia</option>
+                    <option value="HI">Hawaii</option>
+                    <option value="ID">Idaho</option>
+                    <option value="IL">Illinois</option>
+                    <option value="IN">Indiana</option>
+                    <option value="IA">Iowa</option>
+                    <option value="KS">Kansas</option>
+                    <option value="KY">Kentucky</option>
+                    <option value="LA">Louisiana</option>
+                    <option value="ME">Maine</option>
+                    <option value="MD">Maryland</option>
+                    <option value="MA">Massachusetts</option>
+                    <option value="MI">Michigan</option>
+                    <option value="MN">Minnesota</option>
+                    <option value="MS">Mississippi</option>
+                    <option value="MO">Missouri</option>
+                    <option value="MT">Montana</option>
+                    <option value="NE">Nebraska</option>
+                    <option value="NV">Nevada</option>
+                    <option value="NH">New Hampshire</option>
+                    <option value="NJ">New Jersey</option>
+                    <option value="NM">New Mexico</option>
+                    <option value="NY">New York</option>
+                    <option value="NC">North Carolina</option>
+                    <option value="ND">North Dakota</option>
+                    <option value="OH">Ohio</option>
+                    <option value="OK">Oklahoma</option>
+                    <option value="OR">Oregon</option>
+                    <option value="PA">Pennsylvania</option>
+                    <option value="RI">Rhode Island</option>
+                    <option value="SC">South Carolina</option>
+                    <option value="SD">South Dakota</option>
+                    <option value="TN">Tennessee</option>
+                    <option value="TX">Texas</option>
+                    <option value="UT">Utah</option>
+                    <option value="VT">Vermont</option>
+                    <option value="VA">Virginia</option>
+                    <option value="WA">Washington</option>
+                    <option value="WV">West Virginia</option>
+                    <option value="WI">Wisconsin</option>
+                    <option value="WY">Wyoming</option>
+                    </select>
                     </td>
                   </tr>
                   <tr>
                      <td>
                         <p>
                         Income minimum
-                        <input id="incomeinput" type="text">
                         </p>
+                    </td>
+                    <td>
+                        <input id="incomeinput" type="text">
                     </td>
                   </tr>
                   <tr>
                     <td>
                     <p>    
                         Company Size
-                        <input id="sizeinput" type="text">
-                        <button type="button" onclick="print(document.getElementById('industryinput').value, document.getElementById('stateinput').value, document.getElementById('incomeinput').value, document.getElementById('sizeinput').value)">Submit</button>
-                        </p>  
-                  </tr> 
+                    </p>
+                    </td>
+                    <td>
+                        <input id="sizeinput" type="text">  
+                    </td>
+                    </tr> 
                 </table>
                 </th>
-                <th>        
+                <th>
+                <table>
+                <tr>        
+                <th>
                 <section class = "Outputs">
                     <div id="printoutput">Output: <br></div>
-                </section></th></tr></table>
+                </section>
+                </th>
+                </tr>
+                <tr>
+                <th>
+                <button type="button" onclick="print(document.getElementById('industryinput').value, document.getElementById('stateinput').value, document.getElementById('incomeinput').value, document.getElementById('sizeinput').value)">Submit</button>
+                </th>
+                </tr>
+                </table>
+                </tr>
+                </table>
                  </article>
        </section>   
     <footer>

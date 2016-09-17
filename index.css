@@ -2,14 +2,15 @@
 body {
     font-family: Arial, Helvettica, sans-serif;
     /*background-color: #333333;*/
-    background: url(grayt.jpg) fixed;
-    background-size: cover;
+    /*background: url(grayt.jpg) fixed;*/
+    /*background-size: cover;*/
+    background-color: rgb(180, 180, 180);
 }
 
 header {
     width: 80%;
-    background-image: url(gray.jpg);
-    color: black;
+    /*background-image: url(gray.jpg);*/
+    background-color: rgb(200, 200, 200);
     margin-right: auto;
     margin-left: auto;
     border-color: white;
@@ -157,7 +158,7 @@ header a {
 }
 
 footer a {
-    color: white;
+    color: gray;
     text-decoration: none;
     cursor: pointer;
 }
