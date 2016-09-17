@@ -12,7 +12,7 @@
 
     <header>
         <hgroup>
-            <h1>Job Predictor</h1>
+            <h1>Jumbo Jobs</h1>
             <h2></h2>
             <h3>The future of your career </h3>
             <h3></h3>
@@ -27,18 +27,23 @@
     
     <section class = "Inputs">
         <article>
-
-            <h2>Data Display</h2>
             <p>
             Salary projection for college students using predictive model based on US Census data.
             Fill in your industry, state, income minimum and prefered company size.
             </p>
-            <table><tr><th>
+            <table>
+            
+            <colgroup>
+           <col span="1" style="width: 50%;">
+           <col span="1" style="width: 50%;">
+        </colgroup>
+            <tr><th>
             <table>
                   <tr>
                     <th>
                         <p><h3>Industry</h3>
                         </p>
+                   		<h4>Shift click to select multiple</h4>
                     </th>
                     <th> 
                     <select multiple style="width:100%;">
@@ -141,7 +146,6 @@
                     </tr>
                   <tr>
                     <td>
-                    Shift click to select multiple
                     </td>
                     <td>
                      <button style="height: 100%; width:100%;" type="button" onclick="print(document.getElementById('industryinput').value, document.getElementById('stateinput').value, document.getElementById('incomeinput').value, document.getElementById('sizeinput').value)"><h3>Submit</h3></button>
@@ -149,7 +153,7 @@
                   </tr> 
                 </table>
                 </th>
-               <th style="height:100%;">
+               <th style="height:100%;" valign="top">
                 <section style="height:100%; width:100%;" class = "Outputs">
                     <div style="height:100%; width:100%;" id="printoutput">Output: <br></div>
                 </section>

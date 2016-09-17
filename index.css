@@ -117,6 +117,13 @@ h3 {
     margin: 10px;
 }
 
+h4 {
+    font-size: 0.75em;
+    margin: 10px;
+	font-weight:300;
+	font-style:italic;
+}
+
 p {
     margin: 20px;
 }
