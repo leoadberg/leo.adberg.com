@@ -28,7 +28,7 @@
         
     </header>
     
-    <section>
+    <section class = "Inputs">
         <article>
 
             <h2>Data Display</h2>
@@ -36,23 +36,32 @@
             Salary projection for college students using predictive model based on US Census data.
             </p>
             <br>
-            <h3> Test </h3>
+            <h3> Enter your info </h3>
              <p>Industry
                 <input id="industryinput" type="text">
                 <hr>
+            </p>
+            <p>
                 State
                 <input id="stateinput" type="text">
                 <hr>
+            </p>
+            <p>
                 Income minimum
                 <input id="incomeinput" type="text">
                 <hr>
+            </p>
+            <p>
                 Company Size
                 <input id="sizeinput" type="text">
                 <button type="button" onclick="print(document.getElementById('industryinput').value, document.getElementById('stateinput').value, document.getElementById('incomeinput').value, document.getElementById('sizeinput').value)">Submit</button>
             </p>  
-            <div id="printoutput">Output: <br></div>
                  </article>
        </section>
+
+        <section class = "Outputs">
+            <div id="printoutput">Output: <br></div>
+        </section>
     
     <footer>
         <nav>
