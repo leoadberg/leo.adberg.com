@@ -134,7 +134,7 @@
                         </p>
                     </td>
                     <td>
-                        <input id="incomeinput" type="text" />
+                        <input name="minSalary" type="text" value="0">
                     </td>
                   </tr>
                   <tr>
