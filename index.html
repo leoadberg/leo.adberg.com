@@ -37,25 +37,45 @@
             </p>
             <br>
             <h3> Enter your info </h3>
-             <p>Industry
-                <input id="industryinput" type="text">
-                <hr>
-            </p>
-            <p>
-                State
-                <input id="stateinput" type="text">
-                <hr>
-            </p>
-            <p>
-                Income minimum
-                <input id="incomeinput" type="text">
-                <hr>
-            </p>
-            <p>
-                Company Size
-                <input id="sizeinput" type="text">
-                <button type="button" onclick="print(document.getElementById('industryinput').value, document.getElementById('stateinput').value, document.getElementById('incomeinput').value, document.getElementById('sizeinput').value)">Submit</button>
-            </p>  
+            <table>
+                  <tr>
+                    <th>
+                        <p>Industry
+                        <input id="industryinput" type="text">
+                        </p>
+                                            </th>
+                    <th>Results</th>
+                  </tr>
+                  <tr>
+                    <td>
+                        <p>
+                        State
+                        <input id="stateinput" type="text">
+                        </p>
+                    </td>
+                    <td>x</td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <p>
+                        Income minimum
+                        <input id="incomeinput" type="text">
+                        </p>
+                    </td>
+                    <td>x</td>
+                  </tr>
+                  <tr>
+                    <td>
+                    <p>    
+                        Company Size
+                        <input id="sizeinput" type="text">
+                        <button type="button" onclick="print(document.getElementById('industryinput').value, document.getElementById('stateinput').value, document.getElementById('incomeinput').value, document.getElementById('sizeinput').value)">Submit</button>
+                        </p>  
+
+                    <td>x</td>
+                  </tr> 
+                </table>
+
                  </article>
        </section>
 
