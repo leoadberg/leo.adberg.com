@@ -23,8 +23,17 @@ header {
 
 table {
     font-family: arial, sans-serif;
-    border-collapse: collapse;
+    border:none;
     width: 100%;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+/* remove padding */
+td, th {
+    padding: 0;
 }
 
 td, th {
