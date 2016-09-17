@@ -163,7 +163,7 @@
     					$industries = $industries . $selectedOption . " ";
 					}
 						
-					echo exec('echo GetData.py -state '.$states.' -industry '.$industries.' -minsalary '.$minsalary);
+					echo exec('python GetData.py -state '.$states.' -industry '.$industries.' -minsalary '.$minsalary);
                     ?>
                     </div>
                 </section>
