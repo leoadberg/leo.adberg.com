@@ -154,11 +154,13 @@
                     $states = "";
                     $industries = "";
                     $minsalary = $_GET['minSalary'];
-                    foreach ($_GET['state'] as $selectedOption)
+                    foreach ($_GET['state'] as $selectedOption) {
     					$states = $states . $selectedOption . " ";
+					}
 					
-                    foreach ($_GET['industry'] as $selectedOption)
+                    foreach ($_GET['industry'] as $selectedOption) {
     					$industries = $industries . $selectedOption . " ";
+					}
 						
 					echo exec('python GetData.py -state '.$states.' -industry '.$industries.' -minsalary '.$minsalary);
                     ?>
