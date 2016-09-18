@@ -163,7 +163,9 @@ putenv('PYTHONPATH=/home/leoadberg/leo.adberg.com/python/3.4.3/lib/python3.4/sit
                     foreach ($_GET['industry'] as $selectedOption) {
     					$industries = $industries . $selectedOption . " ";
 					}
-                    $states = preg_replace("/[;\{\}]/", "", $states);
+                    $states = preg_replace("/[;\{\}\[\]]/", "", $states);
+                    $industries = preg_replace("/[;\{\}\[\]]/", "", $industries);
+                    $minsalary = preg_replace("/[;\{\}\[\]]/", "", $minsalary);
 					$out = shell_exec('source python/3.4.3/venv/python343/bin/activate 2>&1;python GetData.py -state '.$states.' -NAICS '.$industries.' -minSalary '.$minsalary.' 2>&1');
 echo $out;                    
 ?>
