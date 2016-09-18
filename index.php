@@ -40,9 +40,9 @@
            <col span="1" style="width: 50%;">
            <col span="1" style="width: 50%;">
         </colgroup>
-            <tr><th>
+            <tr valign="top"><th>
             <table>
-                  <tr>
+                  <tr valign="top">
                     <th>
                         <p><h3>Industry</h3>
                         </p>
@@ -151,6 +151,7 @@
                     <div style="height:100%; width:100%;" id="printoutput">Output: <br>
                     
                     <?php
+putenv('PYTHONPATH=/home/leoadberg/leo.adberg.com/python/3.4.3/lib/python3.4/site-packages:');
 					exec('source python/3.4.3/venv/python343/bin/activate');
                     $states = "";
                     $industries = "";
@@ -163,8 +164,9 @@
     					$industries = $industries . $selectedOption . " ";
 					}
 						
-					echo exec('python GetData.py -state '.$states.' -industry '.$industries.' -minsalary '.$minsalary);
-                    ?>
+					$out = shell_exec('source python/3.4.3/venv/python343/bin/activate 2>&1;python GetData.py -state '.$states.' -NAICS '.$industries.' -minSalary '.$minsalary.' 2>&1');
+echo $out;                    
+?>
                     </div>
                 </section>
                 </th>
