@@ -1,0 +1,221 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>Leo Adberg</title>
+  <meta name="description" content="Leo Adberg">
+  <meta name="author" content="Leo Adberg">
+
+  <!-- <link rel="stylesheet" href="css/styles.css?v=1.0"> -->
+  <style>
+
+  * {
+    font-family: HelveticaNeue-Light;
+    font-style: normal;
+    font-variant-ligatures: normal;
+    font-variant-caps: normal;
+    font-variant-numeric: normal;
+    font-weight: normal;
+    font-stretch: normal;
+  }
+  /* Style the tab */
+div.tab {
+    overflow: hidden;
+    border: 0px;
+    text-align: center;
+    margin: 0;
+    margin-bottom: 30px;
+}
+
+/* Style the buttons inside the tab */
+div.tab button {
+    background-color: inherit;
+    color: #a0a0a0;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+    margin: 0 auto;
+    display: inline;
+    width: 200px;
+    font-size: 16px;
+}
+
+/* Change background color of buttons on hover */
+div.tab button:hover {
+    /*background-color: #ddd;*/
+    color: #2e2e2e;
+}
+
+svg {
+  fill: #000000;
+  transition: 0.3s;
+}
+
+svg:hover {
+  fill: #555555;
+  transition: 0.3s;
+}
+
+/* Create an active/current tablink class */
+div.tab button.active {
+    /*background-color: #ccc;*/
+    color: #2e2e2e;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 0px;
+    border-top: none;
+    text-align: center;
+    margin: 0 auto;
+    color: #5e5e5e;
+    width: 75%;
+}
+
+name {
+  font-size: 60px;
+}
+
+name:after {
+    content:"\a\a";
+    white-space:pre;
+}
+
+h {
+  font-size: 30px;
+}
+
+h:after {
+    content:"\a\a";
+    white-space:pre;
+}
+
+ti {
+  font-size: 20px;
+  line-height: 30px;
+}
+
+/*ti:after {
+    content:"\a";
+    white-space:pre;
+}*/
+
+te {
+  font-size: 14px;
+}
+
+te:after {
+    content:"\a\a";
+    white-space:pre;
+}
+
+te:before {
+    content:"\a";
+    white-space:pre;
+}
+
+div.copy {
+  margin-top: 20px;
+  font-size: 12px;
+  text-align: center;
+}
+
+a {
+  color: #212121;
+}
+
+table {
+    width: 20%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+</style>
+
+<script>
+function openTab(evt, tabName) {
+    // Declare all variables
+    var i, tabcontent, tablinks;
+
+    // Get all elements with class="tabcontent" and hide them
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+        tabcontent[i].style.display = "none";
+    }
+
+    // Get all elements with class="tablinks" and remove the class "active"
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+
+    // Show the current tab, and add an "active" class to the button that opened the tab
+    document.getElementById(tabName).style.display = "block";
+    evt.currentTarget.className += " active";
+}
+</script>
+
+</head>
+
+<body>
+
+  <div class="tab">
+    <button class="tablinks active" onclick="openTab(event, 'Home')">Home</button>
+    <button class="tablinks" onclick="openTab(event, 'Experience')">Experience</button>
+    <button class="tablinks" onclick="openTab(event, 'Portfolio')">Portfolio</button>
+    <button class="tablinks" onclick="openTab(event, 'Contact')">Contact</button>
+  </div>
+
+  <div id="Home" class="tabcontent" style="display: block;">
+    <name>LEO ADBERG</name>
+    <h>Hello! I'm a usually student at UC Berkeley, but currently working at Apple in an 8 month long internship. I'm majoring in Electrical Engineering and Computer Science (EECS) and planning on graduating in 2020.</h>
+    <table>
+      <tr>
+        <td>
+          <a href="https://github.com/leoadberg"><svg class="icon" height="32" viewBox="0 0 16 16" width="40"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"></path></svg></a>
+        </td>
+        <td>
+          <a href="LeoAdbergResume.pdf"><svg class="icon" height="32" viewBox="0 0 30 32" width="40"><path d="M27 0h-24c-1.65 0-3 1.35-3 3v26c0 1.65 1.35 3 3 3h24c1.65 0 3-1.35 3-3v-26c0-1.65-1.35-3-3-3zM26 28h-22v-24h22v24zM8 18h14v2h-14zM8 22h14v2h-14zM10 9c0-1.657 1.343-3 3-3s3 1.343 3 3c0 1.657-1.343 3-3 3s-3-1.343-3-3zM15 12h-4c-1.65 0-3 0.9-3 2v2h10v-2c0-1.1-1.35-2-3-2z"></path></svg>
+        </td>
+        <td>
+          <a href="https://www.linkedin.com/in/leoadberg/"><svg class="icon" height="32" viewBox="0 0 30 32" width="40"><path d="M29 0h-26c-1.65 0-3 1.35-3 3v26c0 1.65 1.35 3 3 3h26c1.65 0 3-1.35 3-3v-26c0-1.65-1.35-3-3-3zM12 26h-4v-14h4v14zM10 10c-1.106 0-2-0.894-2-2s0.894-2 2-2c1.106 0 2 0.894 2 2s-0.894 2-2 2zM26 26h-4v-8c0-1.106-0.894-2-2-2s-2 0.894-2 2v8h-4v-14h4v2.481c0.825-1.131 2.087-2.481 3.5-2.481 2.488 0 4.5 2.238 4.5 5v9z"></path></svg>
+        </td>
+      </tr>
+    </table>
+  </div>
+
+  <div id="Experience" class="tabcontent">
+    <h>Experience</h>
+    <ti>Software Engineering Intern at Apple, December 2016 - now</ti>
+    <te>Currently working at Apple in the Camera and Media Algorithms team. I can't talk about what I'm doing yet though...</te>
+    <ti>CS61A Lab Assistant, Fall 2016</ti>
+    <te>Helped out in office hours and labs of Berkeley's intro CS course.</te>
+    <ti>Engineering Intern at Boeing, Summer 2015</ti>
+    <te>Wrote a MATLAB program that used basic AI to automate an important part of satellite electrical design.</te>
+</div>
+
+  <div id="Portfolio" class="tabcontent">
+    <h>Portfolio</h>
+    <ti><a href="https://github.com/leoadberg/Ricochet">Ricochet</a></ti>
+    <te>A 2D physics-based iOS game developed with <a href="http://brandontai.com/">Brandon Tai</a>. It is nearly finished but I am not allowed to work on it while at Apple.</te>
+    <ti><a href="http://1eo.me">CalCentral.me</a></ti>
+    <te>A work-in-progress parody site of Berkeley's <a href="https://calcentral.berkeley.edu/">CalCentral</a></te>
+    <ti><a href="https://github.com/leoadberg/Intuit-Hackathon-Project">Jumbo Jobs</a></ti>
+    <te>This website was made for an Intuit-sponsored hackathon. It allowed the user to search for specific industries in different locations to see job growth, average income, and more. Because it used PHP and Python, the backend is no longer running, but all the code is still available!</te>
+  </div>
+
+  <div id="Contact" class="tabcontent">
+    <h>Contact</h>
+    <ti>Send me an email at <a href="mailto:leo@adberg.com" target="_top">leo@adberg.com</a>.</ti>
+  </div>
+
+<div class="copy">&copy; 2017 Leo Adberg</div>
+
+</body>
+</html>
