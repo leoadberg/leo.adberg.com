@@ -159,6 +159,11 @@ function openTab(evt, tabName) {
     document.getElementById(tabName).style.display = "block";
     evt.currentTarget.className += " active";
 }
+
+function showcad() {
+  var cadwindow = window.open("", "2016 Robot CAD", "toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=no, resizable=yes, width=565, height=450, top=100, left=100");
+  cadwindow.document.write('<div style="max-width: 575px; max-height: 430px;"><div style="left: 0px; width: 100%; height: 0px; position: relative; padding-bottom: 74.963%; overflow: hidden;"><iframe src="http://leo.adberg.com/Robot_VR.62.html" allowfullscreen style="position: absolute; top: 0px; left: 0px; height: 100%; width: 1px; min-width: 100%; *width: 100%;" frameborder="0" scrolling="no"></iframe></div></div>');
+}
 </script>
 
 </head>
@@ -181,10 +186,10 @@ function openTab(evt, tabName) {
           <a href="https://github.com/leoadberg"><svg class="icon" height="32" viewBox="0 0 16 16" width="40"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"></path></svg></a>
         </td>
         <td>
-          <a href="LeoAdbergResume.pdf"><svg class="icon" height="32" viewBox="0 0 30 32" width="40"><path d="M27 0h-24c-1.65 0-3 1.35-3 3v26c0 1.65 1.35 3 3 3h24c1.65 0 3-1.35 3-3v-26c0-1.65-1.35-3-3-3zM26 28h-22v-24h22v24zM8 18h14v2h-14zM8 22h14v2h-14zM10 9c0-1.657 1.343-3 3-3s3 1.343 3 3c0 1.657-1.343 3-3 3s-3-1.343-3-3zM15 12h-4c-1.65 0-3 0.9-3 2v2h10v-2c0-1.1-1.35-2-3-2z"></path></svg>
+          <a href="LeoAdbergResume.pdf"><svg class="icon" height="32" viewBox="0 0 30 32" width="40"><path d="M27 0h-24c-1.65 0-3 1.35-3 3v26c0 1.65 1.35 3 3 3h24c1.65 0 3-1.35 3-3v-26c0-1.65-1.35-3-3-3zM26 28h-22v-24h22v24zM8 18h14v2h-14zM8 22h14v2h-14zM10 9c0-1.657 1.343-3 3-3s3 1.343 3 3c0 1.657-1.343 3-3 3s-3-1.343-3-3zM15 12h-4c-1.65 0-3 0.9-3 2v2h10v-2c0-1.1-1.35-2-3-2z"></path></svg></a>
         </td>
         <td>
-          <a href="https://www.linkedin.com/in/leoadberg/"><svg class="icon" height="32" viewBox="0 0 30 32" width="40"><path d="M29 0h-26c-1.65 0-3 1.35-3 3v26c0 1.65 1.35 3 3 3h26c1.65 0 3-1.35 3-3v-26c0-1.65-1.35-3-3-3zM12 26h-4v-14h4v14zM10 10c-1.106 0-2-0.894-2-2s0.894-2 2-2c1.106 0 2 0.894 2 2s-0.894 2-2 2zM26 26h-4v-8c0-1.106-0.894-2-2-2s-2 0.894-2 2v8h-4v-14h4v2.481c0.825-1.131 2.087-2.481 3.5-2.481 2.488 0 4.5 2.238 4.5 5v9z"></path></svg>
+          <a href="https://www.linkedin.com/in/leoadberg/"><svg class="icon" height="32" viewBox="0 0 30 32" width="40"><path d="M29 0h-26c-1.65 0-3 1.35-3 3v26c0 1.65 1.35 3 3 3h26c1.65 0 3-1.35 3-3v-26c0-1.65-1.35-3-3-3zM12 26h-4v-14h4v14zM10 10c-1.106 0-2-0.894-2-2s0.894-2 2-2c1.106 0 2 0.894 2 2s-0.894 2-2 2zM26 26h-4v-8c0-1.106-0.894-2-2-2s-2 0.894-2 2v8h-4v-14h4v2.481c0.825-1.131 2.087-2.481 3.5-2.481 2.488 0 4.5 2.238 4.5 5v9z"></path></svg></a>
         </td>
       </tr>
     </table>
@@ -208,7 +213,9 @@ function openTab(evt, tabName) {
     <te>A work-in-progress parody site of Berkeley's <a href="https://calcentral.berkeley.edu/">CalCentral</a></te>
     <ti><a href="https://github.com/leoadberg/Intuit-Hackathon-Project">Jumbo Jobs</a></ti>
     <te>This website was made for an Intuit-sponsored hackathon. It allowed the user to search for specific industries in different locations to see job growth, average income, and more. Because it used PHP and Python, the backend is no longer running, but all the code is still available!</te>
-  </div>
+    <ti><a href="https://github.com/leoadberg/1452-Omnicats-2016">FRC Robotics</a></ti>
+    <te>In high school, I was the lead programmer for our FRC robotics team. In addition, I fully designed the <a onclick="showcad()" href="#">robot in CAD</a> myself and helped out with building and wiring the robot. We placed second in the Los Angeles Regional my senior year (2016).</te>
+</div>
 
   <div id="Contact" class="tabcontent">
     <h>Contact</h>
