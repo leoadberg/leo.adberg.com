@@ -1,0 +1,52 @@
+[user]
+	name = Leo Adberg 
+	email = leo@adberg.com
+
+[color]
+	diff = auto
+	status = auto
+	branch = auto
+	interactive = auto
+	ui = auto
+
+[status]
+	relativePaths = true
+	showUntrackedFiles = no
+
+[diff]
+	suppressBlankEmpty = true
+	mnemonicprefix = true
+
+[alias]
+	cm = commit
+	co = checkout
+	
+	l = log --graph --all --format=format:'%C(bold blue)%h%C(reset) %C(white)%s %C(bold white)--%an%C(reset)%C(bold yellow)%d%C(reset)'
+	lg = log --graph --all --format=format:'%C(bold blue)%h %C(bold green)(%cd)%C(reset) %C(white)%s %C(bold white)--%an%C(reset)%C(bold yellow)%d%C(reset)' --date=relative
+	lp = log --graph --all --format=format:'%h (%cd) %s --%an%d' --date=local
+	ld = log --branches=*dev* ^master --graph --format=format:'%C(bold blue)%h %C(bold green)(%cd)%C(reset) %C(white)%s %C(bold white)--%an%C(reset)%C(bold yellow)%d%C(reset)' --date=relative
+	lm = log --branches=master* --graph --format=format:'%C(bold blue)%h %C(bold green)(%cd)%C(reset) %C(white)%s %C(bold white)--%an%C(reset)%C(bold yellow)%d%C(reset)' --date=relative
+	lgb = log --graph  --format=format:'%C(bold blue)%h %C(bold green)(%cd)%C(reset) %C(white)%s %C(bold white)--%an%C(reset)%C(bold yellow)%d%C(reset)' --date=relative
+	ll = log --graph --all --format=format:'%C(bold blue)%h %C(bold green)(%cd)%C(reset) %C(white)%s %C(bold white)--%an%C(reset)%C(bold yellow)%d%C(reset)' --date=local
+	ls = log --graph --all --format=format:'%C(bold blue)%h %C(bold green)(%cd)%C(reset) %C(white)%s %C(bold white)--%an%C(reset)%C(bold yellow)%d%C(reset)' --numstat
+	lsr = log --graph --format=format:'%C(bold blue)%h %C(bold green)(%cd)%C(reset) %C(white)%s %C(bold white)--%an%C(reset)%C(bold yellow)%d%C(reset)' --numstat
+	lc = log --graph --all --format=format:'%C(yellow)================================================================================%C(reset)\n\n%C(bold blue)%h %C(bold green)%(cd)%C(reset)%C(bold yellow)%d%C(reset)\n   %C(white)%s %C(bold white)-- %an\n%C(reset)' --date=local --patch
+
+	lf = log --follow --graph --all --format=format:'%C(bold blue)%h%C(reset) %C(white)%s %C(bold white)--%an%C(reset)%C(bold yellow)%d%C(reset)'
+	lgf = log --follow --graph --all --format=format:'%C(bold blue)%h %C(bold green)(%cd)%C(reset) %C(white)%s %C(bold white)--%an%C(reset)%C(bold yellow)%d%C(reset)' --date=relative
+	llf = log --follow --graph --all --format=format:'%C(bold blue)%h %C(bold green)(%cd)%C(reset) %C(white)%s %C(bold white)--%an%C(reset)%C(bold yellow)%d%C(reset)' --date=local
+	lsf = log --follow --graph --all --format=format:'%C(bold blue)%h %C(bold green)(%cd)%C(reset) %C(white)%s %C(bold white)--%an%C(reset)%C(bold yellow)%d%C(reset)' --numstat
+	lcf = log --follow --graph --all --format=format:'%C(yellow)================================================================================%C(reset)\n\n%C(bold blue)%h %C(bold green)%(cd)%C(reset)%C(bold yellow)%d%C(reset)\n   %C(white)%s %C(bold white)-- %an\n%C(reset)' --date=local --patch
+
+	re = rebase
+	sl = show --numstat --oneline
+	stat = status -sb
+	stu = status -u -sb
+	unadd = rm --cached
+	up = pull --ff-only
+
+[merge]
+	log = true
+
+[push]
+	default = upstream
