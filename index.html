@@ -19,6 +19,7 @@
     font-variant-numeric: normal;
     font-weight: normal;
     font-stretch: normal;
+    background-color: #ffffff;
   }
   /* Style the tab */
 div.tab {
@@ -124,16 +125,47 @@ div.copy {
   margin-top: 20px;
   font-size: 12px;
   text-align: center;
+  color: #5e5e5e;
 }
 
 a {
-  color: #212121;
+  color: #222222;
 }
 
 table {
     width: 20%;
     margin-left: auto;
     margin-right: auto;
+}
+
+@media (prefers-color-scheme: dark) {
+  * {
+    background-color: #222222;
+  }
+  a {
+    color: #ffffff;
+  }
+  .tabcontent {
+    color: #cccccc;
+  }
+  div.tab button.active {
+    color: #ffffff;
+  }
+  div.tab button:hover {
+    color: #ffffff;
+  }
+  div.tab button {
+    color: #a0a0a0;
+  }
+  svg {
+    fill: #aaaaaa;
+  }
+  svg:hover {
+    fill: #ffffff;
+  }
+  div.copy {
+    color: #cccccc;
+  }
 }
 
 </style>
@@ -211,7 +243,7 @@ function showcad() {
     <h>Portfolio</h>
     <ti><a href="https://github.com/leoadberg/Ricochet">Ricochet</a></ti>
     <te>A 2D physics-based iOS game developed with <a href="http://brandontai.com/">Brandon Tai</a>. It is nearly finished but I haven't picked it back up again after finishing at Apple.</te>
-    <ti><a href="http://1eo.me">CalCentral.me</a></ti>
+    <ti><a href="https://leoadberg.github.io/1eo.me/#">CalCentral.me</a></ti>
     <te>A work-in-progress parody site of Berkeley's <a href="https://calcentral.berkeley.edu/">CalCentral</a></te>
     <ti><a href="https://github.com/leoadberg/Intuit-Hackathon-Project">Jumbo Jobs</a></ti>
     <te>This website was made for an Intuit-sponsored hackathon. It allowed the user to search for specific industries in different locations to see job growth, average income, and more. Because it used PHP and Python, the backend is no longer running, but all the code is still available!</te>
