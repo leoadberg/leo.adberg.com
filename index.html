@@ -190,12 +190,37 @@ function openTab(evt, tabName) {
     // Show the current tab, and add an "active" class to the button that opened the tab
     document.getElementById(tabName).style.display = "block";
     evt.currentTarget.className += " active";
+
+    window.location.hash = "#" + tabName;
+
+    // Reset scroll
+    window.scrollTo(0, 0);
 }
 
 function showcad() {
   var cadwindow = window.open("", "2016 Robot CAD", "toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=no, resizable=yes, width=565, height=450, top=100, left=100");
   cadwindow.document.write('<div style="max-width: 575px; max-height: 430px;"><div style="left: 0px; width: 100%; height: 0px; position: relative; padding-bottom: 74.963%; overflow: hidden;"><iframe src="http://leo.adberg.com/Robot_VR.62.html" allowfullscreen style="position: absolute; top: 0px; left: 0px; height: 100%; width: 1px; min-width: 100%; *width: 100%;" frameborder="0" scrolling="no"></iframe></div></div>');
 }
+
+function switchTab() {
+  if (window.location.hash.length > 1) {
+    var tabname = window.location.hash.substr(1);
+    var buttons = document.querySelectorAll("button");
+    for (var i = 0; i < buttons.length; i++) {
+      if (buttons[i].innerText == tabname) {
+        buttons[i].click();
+        return;
+      }
+    }
+  }
+  // Go home if no tab found
+  document.querySelector("button").click();
+}
+
+window.onload = switchTab;
+
+window.onpopstate = function(event){ switchTab(); };
+
 </script>
 
 </head>
