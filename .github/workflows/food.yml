@@ -1,0 +1,31 @@
+name: Update food
+on:
+  schedule:
+    - cron:  '0 0 * * *'
+jobs:
+  date:
+    runs-on: ubuntu-latest
+    steps:
+      # Checkout the branch
+      - name: checkout
+        uses: actions/checkout@v2
+
+      - name: scrape
+        run: |
+          ./scrape_beli.py
+
+      - name: setup git config
+        run: |
+          # setup the username and email. I tend to use 'GitHub Actions Bot' with no email by default
+          git config user.name "GitHub Actions Bot"
+          git config user.email "<>"
+
+      - name: commit
+        run: |
+          # Stage the file, commit and push
+          git add food
+          if git commit -m "new date commit" ; then
+            git push origin master
+          else
+            echo "No changes"
+          fi
