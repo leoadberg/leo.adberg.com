@@ -182,8 +182,8 @@ td {
 <tr>
 <td style="text-align: right">1.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=Tsujita&sll=35.69526529999999,139.7664659&ll=35.69526529999999,139.7664659" target="_blank">Tsujita</a></div>
-    <div>Kanda, Tokyo</div>
+    <div><a href="https://maps.google.com/maps?q=Tsujita LA Artisan Noodles&sll=34.03957,-118.44268&ll=34.03957,-118.44268" target="_blank">Tsujita LA Artisan Noodles</a></div>
+    <div>West Los Angeles, Los Angeles, CA</div>
 </td>
 <td style="">10.0</td>
 <td style="text-align: right"></td>
@@ -191,16 +191,6 @@ td {
     
 <tr>
 <td style="text-align: right">2.</td>
-<td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=Maury's&sll=34.0769469,-118.2756059&ll=34.0769469,-118.2756059" target="_blank">Maury's</a></div>
-    <div>Silver Lake, Los Angeles, CA</div>
-</td>
-<td style="">10.0</td>
-<td style="text-align: right"></td>
-</tr>
-    
-<tr>
-<td style="text-align: right">3.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Tsujita LA Artisan Noodle Annex&sll=34.040084,-118.4425704&ll=34.040084,-118.4425704" target="_blank">Tsujita LA Artisan Noodle Annex</a></div>
     <div>Sawtelle Japantown, Los Angeles, CA</div>
@@ -210,10 +200,20 @@ td {
 </tr>
     
 <tr>
+<td style="text-align: right">3.</td>
+<td style="text-align: left; padding-right: 20px">
+    <div><a href="https://maps.google.com/maps?q=Ippuku&sll=37.87029100000001,-122.267111&ll=37.87029100000001,-122.267111" target="_blank">Ippuku</a></div>
+    <div>Downtown Berkeley, Berkeley, CA</div>
+</td>
+<td style="">10.0</td>
+<td style="text-align: right"></td>
+</tr>
+    
+<tr>
 <td style="text-align: right">4.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=Tsujita LA Artisan Noodles&sll=34.03957,-118.44268&ll=34.03957,-118.44268" target="_blank">Tsujita LA Artisan Noodles</a></div>
-    <div>West Los Angeles, Los Angeles, CA</div>
+    <div><a href="https://maps.google.com/maps?q=Maury's&sll=34.0769469,-118.2756059&ll=34.0769469,-118.2756059" target="_blank">Maury's</a></div>
+    <div>Silver Lake, Los Angeles, CA</div>
 </td>
 <td style="">10.0</td>
 <td style="text-align: right"></td>
@@ -222,8 +222,8 @@ td {
 <tr>
 <td style="text-align: right">5.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=Ippuku&sll=37.87029100000001,-122.267111&ll=37.87029100000001,-122.267111" target="_blank">Ippuku</a></div>
-    <div>Downtown Berkeley, Berkeley, CA</div>
+    <div><a href="https://maps.google.com/maps?q=Tsujita&sll=35.69526529999999,139.7664659&ll=35.69526529999999,139.7664659" target="_blank">Tsujita</a></div>
+    <div>Kanda, Tokyo</div>
 </td>
 <td style="">10.0</td>
 <td style="text-align: right"></td>
@@ -292,8 +292,8 @@ td {
 <tr>
 <td style="text-align: right">12.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=Manresa&sll=37.22738,-121.98084&ll=37.22738,-121.98084" target="_blank">Manresa</a></div>
-    <div>Austin, Los Gatos, CA</div>
+    <div><a href="https://maps.google.com/maps?q=Son of a Gun&sll=34.07272,-118.3725&ll=34.07272,-118.3725" target="_blank">Son of a Gun</a></div>
+    <div>Beverly Grove, Los Angeles, CA</div>
 </td>
 <td style="">9.7</td>
 <td style="text-align: right"></td>
@@ -302,8 +302,8 @@ td {
 <tr>
 <td style="text-align: right">13.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=Son of a Gun&sll=34.07272,-118.3725&ll=34.07272,-118.3725" target="_blank">Son of a Gun</a></div>
-    <div>Beverly Grove, Los Angeles, CA</div>
+    <div><a href="https://maps.google.com/maps?q=Manresa&sll=37.22738,-121.98084&ll=37.22738,-121.98084" target="_blank">Manresa</a></div>
+    <div>Austin, Los Gatos, CA</div>
 </td>
 <td style="">9.7</td>
 <td style="text-align: right"></td>
@@ -322,8 +322,8 @@ td {
 <tr>
 <td style="text-align: right">15.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=Bavel&sll=34.04149,-118.23293&ll=34.04149,-118.23293" target="_blank">Bavel</a></div>
-    <div>Downtown Los Angeles, Los Angeles, CA</div>
+    <div><a href="https://maps.google.com/maps?q=Decoy&sll=40.7342084,-74.0065261&ll=40.7342084,-74.0065261" target="_blank">Decoy</a></div>
+    <div>West Village, New York, NY</div>
 </td>
 <td style="">9.7</td>
 <td style="text-align: right"></td>
@@ -332,8 +332,8 @@ td {
 <tr>
 <td style="text-align: right">16.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=Decoy&sll=40.7342084,-74.0065261&ll=40.7342084,-74.0065261" target="_blank">Decoy</a></div>
-    <div>West Village, New York, NY</div>
+    <div><a href="https://maps.google.com/maps?q=Bavel&sll=34.04149,-118.23293&ll=34.04149,-118.23293" target="_blank">Bavel</a></div>
+    <div>Downtown Los Angeles, Los Angeles, CA</div>
 </td>
 <td style="">9.7</td>
 <td style="text-align: right"></td>
@@ -402,8 +402,8 @@ td {
 <tr>
 <td style="text-align: right">23.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=Forsythia&sll=40.7225352,-73.99249189999999&ll=40.7225352,-73.99249189999999" target="_blank">Forsythia</a></div>
-    <div>Bowery, New York, NY</div>
+    <div><a href="https://maps.google.com/maps?q=Bestia&sll=34.03384,-118.22932&ll=34.03384,-118.22932" target="_blank">Bestia</a></div>
+    <div>Downtown Los Angeles, Los Angeles, CA</div>
 </td>
 <td style="">9.5</td>
 <td style="text-align: right"></td>
@@ -411,16 +411,6 @@ td {
     
 <tr>
 <td style="text-align: right">24.</td>
-<td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=uluh&sll=40.72934720000001,-73.9866141&ll=40.72934720000001,-73.9866141" target="_blank">uluh</a></div>
-    <div>East Village, New York, NY</div>
-</td>
-<td style="">9.5</td>
-<td style="text-align: right"></td>
-</tr>
-    
-<tr>
-<td style="text-align: right">25.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Olio e Più&sll=40.7337945,-73.9997927&ll=40.7337945,-73.9997927" target="_blank">Olio e Più</a></div>
     <div>West Village, New York, NY</div>
@@ -430,10 +420,20 @@ td {
 </tr>
     
 <tr>
+<td style="text-align: right">25.</td>
+<td style="text-align: left; padding-right: 20px">
+    <div><a href="https://maps.google.com/maps?q=Misoya&sll=40.73461700000001,-74.00635439999999&ll=40.73461700000001,-74.00635439999999" target="_blank">Misoya</a></div>
+    <div>West Village, New York, NY</div>
+</td>
+<td style="">9.5</td>
+<td style="text-align: right"></td>
+</tr>
+    
+<tr>
 <td style="text-align: right">26.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=Bestia&sll=34.03384,-118.22932&ll=34.03384,-118.22932" target="_blank">Bestia</a></div>
-    <div>Downtown Los Angeles, Los Angeles, CA</div>
+    <div><a href="https://maps.google.com/maps?q=uluh&sll=40.72934720000001,-73.9866141&ll=40.72934720000001,-73.9866141" target="_blank">uluh</a></div>
+    <div>East Village, New York, NY</div>
 </td>
 <td style="">9.5</td>
 <td style="text-align: right"></td>
@@ -442,8 +442,8 @@ td {
 <tr>
 <td style="text-align: right">27.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=Ramen Misoya West Village&sll=40.73461700000001,-74.00635439999999&ll=40.73461700000001,-74.00635439999999" target="_blank">Ramen Misoya West Village</a></div>
-    <div>West Village, New York, NY</div>
+    <div><a href="https://maps.google.com/maps?q=Forsythia&sll=40.7225352,-73.99249189999999&ll=40.7225352,-73.99249189999999" target="_blank">Forsythia</a></div>
+    <div>Bowery, New York, NY</div>
 </td>
 <td style="">9.5</td>
 <td style="text-align: right"></td>
@@ -472,8 +472,8 @@ td {
 <tr>
 <td style="text-align: right">30.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=Kagari&sll=35.67126289999999,139.7613911&ll=35.67126289999999,139.7613911" target="_blank">Kagari</a></div>
-    <div>Hibiya, Tokyo</div>
+    <div><a href="https://maps.google.com/maps?q=ilili&sll=40.74435829999999,-73.98773609999999&ll=40.74435829999999,-73.98773609999999" target="_blank">ilili</a></div>
+    <div>NoMad, New York, NY</div>
 </td>
 <td style="">9.3</td>
 <td style="text-align: right"></td>
@@ -482,8 +482,8 @@ td {
 <tr>
 <td style="text-align: right">31.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=ilili&sll=40.74435829999999,-73.98773609999999&ll=40.74435829999999,-73.98773609999999" target="_blank">ilili</a></div>
-    <div>NoMad, New York, NY</div>
+    <div><a href="https://maps.google.com/maps?q=Kagari&sll=35.67126289999999,139.7613911&ll=35.67126289999999,139.7613911" target="_blank">Kagari</a></div>
+    <div>Hibiya, Tokyo</div>
 </td>
 <td style="">9.3</td>
 <td style="text-align: right"></td>
@@ -532,16 +532,6 @@ td {
 <tr>
 <td style="text-align: right">36.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=Din Tai Fung&sll=34.05818,-118.41751&ll=34.05818,-118.41751" target="_blank">Din Tai Fung</a></div>
-    <div>Century City, Los Angeles, CA</div>
-</td>
-<td style="">9.2</td>
-<td style="text-align: right"></td>
-</tr>
-    
-<tr>
-<td style="text-align: right">37.</td>
-<td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Daitsune Udon&sll=35.66732870000001,139.7652749&ll=35.66732870000001,139.7652749" target="_blank">Daitsune Udon</a></div>
     <div>None, Tokyo</div>
 </td>
@@ -550,10 +540,20 @@ td {
 </tr>
     
 <tr>
-<td style="text-align: right">38.</td>
+<td style="text-align: right">37.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Pizzeria Mozza&sll=34.08312,-118.33887&ll=34.08312,-118.33887" target="_blank">Pizzeria Mozza</a></div>
     <div>Melrose, Los Angeles, CA</div>
+</td>
+<td style="">9.2</td>
+<td style="text-align: right"></td>
+</tr>
+    
+<tr>
+<td style="text-align: right">38.</td>
+<td style="text-align: left; padding-right: 20px">
+    <div><a href="https://maps.google.com/maps?q=Din Tai Fung&sll=34.05818,-118.41751&ll=34.05818,-118.41751" target="_blank">Din Tai Fung</a></div>
+    <div>Century City, Los Angeles, CA</div>
 </td>
 <td style="">9.2</td>
 <td style="text-align: right"></td>
@@ -602,8 +602,8 @@ td {
 <tr>
 <td style="text-align: right">43.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=Berkeley Social Club&sll=37.8718537,-122.2694812&ll=37.8718537,-122.2694812" target="_blank">Berkeley Social Club</a></div>
-    <div>Downtown Berkeley, Berkeley, CA</div>
+    <div><a href="https://maps.google.com/maps?q=Gjusta&sll=33.99527,-118.47454&ll=33.99527,-118.47454" target="_blank">Gjusta</a></div>
+    <div>Venice, Los Angeles, CA</div>
 </td>
 <td style="">9.0</td>
 <td style="text-align: right"></td>
@@ -612,8 +612,8 @@ td {
 <tr>
 <td style="text-align: right">44.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=Gjusta&sll=33.99527,-118.47454&ll=33.99527,-118.47454" target="_blank">Gjusta</a></div>
-    <div>Venice, Los Angeles, CA</div>
+    <div><a href="https://maps.google.com/maps?q=Berkeley Social Club&sll=37.8718537,-122.2694812&ll=37.8718537,-122.2694812" target="_blank">Berkeley Social Club</a></div>
+    <div>Downtown Berkeley, Berkeley, CA</div>
 </td>
 <td style="">9.0</td>
 <td style="text-align: right"></td>
@@ -642,8 +642,8 @@ td {
 <tr>
 <td style="text-align: right">47.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=The Cheeseboard Pizza&sll=37.87987,-122.26948&ll=37.87987,-122.26948" target="_blank">The Cheeseboard Pizza</a></div>
-    <div>North Berkeley, Berkeley, CA</div>
+    <div><a href="https://maps.google.com/maps?q=Ghandi Cafe&sll=40.7319933,-74.0031348&ll=40.7319933,-74.0031348" target="_blank">Ghandi Cafe</a></div>
+    <div>West Village, New York, NY</div>
 </td>
 <td style="">8.9</td>
 <td style="text-align: right"></td>
@@ -652,8 +652,8 @@ td {
 <tr>
 <td style="text-align: right">48.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=Ghandi Cafe&sll=40.7319933,-74.0031348&ll=40.7319933,-74.0031348" target="_blank">Ghandi Cafe</a></div>
-    <div>West Village, New York, NY</div>
+    <div><a href="https://maps.google.com/maps?q=The Cheeseboard Pizza&sll=37.87987,-122.26948&ll=37.87987,-122.26948" target="_blank">The Cheeseboard Pizza</a></div>
+    <div>North Berkeley, Berkeley, CA</div>
 </td>
 <td style="">8.9</td>
 <td style="text-align: right"></td>
@@ -682,8 +682,8 @@ td {
 <tr>
 <td style="text-align: right">51.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=Los Tacos No.1&sll=40.74225209999999,-74.0059635&ll=40.74225209999999,-74.0059635" target="_blank">Los Tacos No.1</a></div>
-    <div>Chelsea, New York, NY</div>
+    <div><a href="https://maps.google.com/maps?q=Lardo&sll=19.4179112,-99.1752808&ll=19.4179112,-99.1752808" target="_blank">Lardo</a></div>
+    <div>MATERIALDF, Mexico City</div>
 </td>
 <td style="">8.9</td>
 <td style="text-align: right"></td>
@@ -692,8 +692,8 @@ td {
 <tr>
 <td style="text-align: right">52.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=St. Kilda&sll=41.5812025,-93.62168129999999&ll=41.5812025,-93.62168129999999" target="_blank">St. Kilda</a></div>
-    <div>Downtown Des Moines, Des Moines, IA</div>
+    <div><a href="https://maps.google.com/maps?q=Los Tacos No.1&sll=40.74225209999999,-74.0059635&ll=40.74225209999999,-74.0059635" target="_blank">Los Tacos No.1</a></div>
+    <div>Chelsea, New York, NY</div>
 </td>
 <td style="">8.9</td>
 <td style="text-align: right"></td>
@@ -702,8 +702,8 @@ td {
 <tr>
 <td style="text-align: right">53.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=Lardo&sll=19.4179112,-99.1752808&ll=19.4179112,-99.1752808" target="_blank">Lardo</a></div>
-    <div>MATERIALDF, Mexico City</div>
+    <div><a href="https://maps.google.com/maps?q=St. Kilda&sll=41.5812025,-93.62168129999999&ll=41.5812025,-93.62168129999999" target="_blank">St. Kilda</a></div>
+    <div>Downtown Des Moines, Des Moines, IA</div>
 </td>
 <td style="">8.9</td>
 <td style="text-align: right"></td>
@@ -832,8 +832,8 @@ td {
 <tr>
 <td style="text-align: right">66.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=La Pizza & La Pasta at Eataly Downtown&sll=40.7100647,-74.0119758&ll=40.7100647,-74.0119758" target="_blank">La Pizza & La Pasta at Eataly Downtown</a></div>
-    <div>World Trade Center, New York, NY</div>
+    <div><a href="https://maps.google.com/maps?q=Jon & Vinny's Fairfax&sll=34.07865,-118.36122&ll=34.07865,-118.36122" target="_blank">Jon & Vinny's Fairfax</a></div>
+    <div>Fairfax, Los Angeles, CA</div>
 </td>
 <td style="">8.5</td>
 <td style="text-align: right"></td>
@@ -842,8 +842,8 @@ td {
 <tr>
 <td style="text-align: right">67.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=Jon & Vinny's Fairfax&sll=34.07865,-118.36122&ll=34.07865,-118.36122" target="_blank">Jon & Vinny's Fairfax</a></div>
-    <div>Fairfax, Los Angeles, CA</div>
+    <div><a href="https://maps.google.com/maps?q=Marugame Udon&sll=37.8733801,-122.2682974&ll=37.8733801,-122.2682974" target="_blank">Marugame Udon</a></div>
+    <div>Downtown Berkeley, Berkeley, CA</div>
 </td>
 <td style="">8.5</td>
 <td style="text-align: right"></td>
@@ -862,8 +862,8 @@ td {
 <tr>
 <td style="text-align: right">69.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=Marugame Udon&sll=37.8733801,-122.2682974&ll=37.8733801,-122.2682974" target="_blank">Marugame Udon</a></div>
-    <div>Downtown Berkeley, Berkeley, CA</div>
+    <div><a href="https://maps.google.com/maps?q=La Pizza & La Pasta at Eataly Downtown&sll=40.7100647,-74.0119758&ll=40.7100647,-74.0119758" target="_blank">La Pizza & La Pasta at Eataly Downtown</a></div>
+    <div>World Trade Center, New York, NY</div>
 </td>
 <td style="">8.5</td>
 <td style="text-align: right"></td>
@@ -882,16 +882,6 @@ td {
 <tr>
 <td style="text-align: right">71.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=Via Carota&sll=40.73314369999999,-74.0036671&ll=40.73314369999999,-74.0036671" target="_blank">Via Carota</a></div>
-    <div>West Village, New York, NY</div>
-</td>
-<td style="">8.4</td>
-<td style="text-align: right"></td>
-</tr>
-    
-<tr>
-<td style="text-align: right">72.</td>
-<td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Prince Street Pizza&sll=40.723084,-73.994528&ll=40.723084,-73.994528" target="_blank">Prince Street Pizza</a></div>
     <div>Nolita, New York, NY</div>
 </td>
@@ -900,10 +890,20 @@ td {
 </tr>
     
 <tr>
+<td style="text-align: right">72.</td>
+<td style="text-align: left; padding-right: 20px">
+    <div><a href="https://maps.google.com/maps?q=Feng Cha Teahouse - Berkeley&sll=37.86781690000001,-122.2576606&ll=37.86781690000001,-122.2576606" target="_blank">Feng Cha Teahouse - Berkeley</a></div>
+    <div>Southside, Berkeley, CA</div>
+</td>
+<td style="">8.4</td>
+<td style="text-align: right"></td>
+</tr>
+    
+<tr>
 <td style="text-align: right">73.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=Veselka&sll=40.7290155,-73.9871139&ll=40.7290155,-73.9871139" target="_blank">Veselka</a></div>
-    <div>East Village, New York, NY</div>
+    <div><a href="https://maps.google.com/maps?q=Via Carota&sll=40.73314369999999,-74.0036671&ll=40.73314369999999,-74.0036671" target="_blank">Via Carota</a></div>
+    <div>West Village, New York, NY</div>
 </td>
 <td style="">8.4</td>
 <td style="text-align: right"></td>
@@ -912,8 +912,8 @@ td {
 <tr>
 <td style="text-align: right">74.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=Feng Cha Teahouse - Berkeley&sll=37.86781690000001,-122.2576606&ll=37.86781690000001,-122.2576606" target="_blank">Feng Cha Teahouse - Berkeley</a></div>
-    <div>Southside, Berkeley, CA</div>
+    <div><a href="https://maps.google.com/maps?q=Veselka&sll=40.7290155,-73.9871139&ll=40.7290155,-73.9871139" target="_blank">Veselka</a></div>
+    <div>East Village, New York, NY</div>
 </td>
 <td style="">8.4</td>
 <td style="text-align: right"></td>
@@ -1022,8 +1022,8 @@ td {
 <tr>
 <td style="text-align: right">85.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=Ottolenghi Spitalfields&sll=51.5182265,-0.0771835&ll=51.5182265,-0.0771835" target="_blank">Ottolenghi Spitalfields</a></div>
-    <div>None, London</div>
+    <div><a href="https://maps.google.com/maps?q=Grégoire Restaurant&sll=37.87858,-122.26858&ll=37.87858,-122.26858" target="_blank">Grégoire Restaurant</a></div>
+    <div>North Berkeley, Berkeley, CA</div>
 </td>
 <td style="">8.0</td>
 <td style="text-align: right"></td>
@@ -1032,8 +1032,8 @@ td {
 <tr>
 <td style="text-align: right">86.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=Grégoire Restaurant&sll=37.87858,-122.26858&ll=37.87858,-122.26858" target="_blank">Grégoire Restaurant</a></div>
-    <div>North Berkeley, Berkeley, CA</div>
+    <div><a href="https://maps.google.com/maps?q=Ottolenghi Spitalfields&sll=51.5182265,-0.0771835&ll=51.5182265,-0.0771835" target="_blank">Ottolenghi Spitalfields</a></div>
+    <div>None, London</div>
 </td>
 <td style="">8.0</td>
 <td style="text-align: right"></td>
@@ -1082,8 +1082,8 @@ td {
 <tr>
 <td style="text-align: right">91.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=Mogumogu&sll=34.035991,-118.4453795&ll=34.035991,-118.4453795" target="_blank">Mogumogu</a></div>
-    <div>None, Los Angeles, CA</div>
+    <div><a href="https://maps.google.com/maps?q=India's Grill&sll=34.0708687,-118.3757998&ll=34.0708687,-118.3757998" target="_blank">India's Grill</a></div>
+    <div>Beverly Grove, Los Angeles, CA</div>
 </td>
 <td style="">7.9</td>
 <td style="text-align: right"></td>
@@ -1092,8 +1092,8 @@ td {
 <tr>
 <td style="text-align: right">92.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=India's Grill&sll=34.0708687,-118.3757998&ll=34.0708687,-118.3757998" target="_blank">India's Grill</a></div>
-    <div>Beverly Grove, Los Angeles, CA</div>
+    <div><a href="https://maps.google.com/maps?q=Mogumogu&sll=34.035991,-118.4453795&ll=34.035991,-118.4453795" target="_blank">Mogumogu</a></div>
+    <div>None, Los Angeles, CA</div>
 </td>
 <td style="">7.9</td>
 <td style="text-align: right"></td>
@@ -1132,8 +1132,8 @@ td {
 <tr>
 <td style="text-align: right">96.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=Red Hot Wok&sll=37.322093,-122.0148731&ll=37.322093,-122.0148731" target="_blank">Red Hot Wok</a></div>
-    <div>Calvert, Cupertino, CA</div>
+    <div><a href="https://maps.google.com/maps?q=Tofu Plus Korean BBQ&sll=37.3362163,-122.0152609&ll=37.3362163,-122.0152609" target="_blank">Tofu Plus Korean BBQ</a></div>
+    <div>None, Cupertino, CA</div>
 </td>
 <td style="">7.8</td>
 <td style="text-align: right"></td>
@@ -1142,8 +1142,8 @@ td {
 <tr>
 <td style="text-align: right">97.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=Tofu Plus Korean BBQ&sll=37.3362163,-122.0152609&ll=37.3362163,-122.0152609" target="_blank">Tofu Plus Korean BBQ</a></div>
-    <div>None, Cupertino, CA</div>
+    <div><a href="https://maps.google.com/maps?q=Red Hot Wok&sll=37.322093,-122.0148731&ll=37.322093,-122.0148731" target="_blank">Red Hot Wok</a></div>
+    <div>Calvert, Cupertino, CA</div>
 </td>
 <td style="">7.8</td>
 <td style="text-align: right"></td>
@@ -1202,8 +1202,8 @@ td {
 <tr>
 <td style="text-align: right">103.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=Tatsu Ramen&sll=34.03887,-118.44239&ll=34.03887,-118.44239" target="_blank">Tatsu Ramen</a></div>
-    <div>Sawtelle Japantown, Los Angeles, CA</div>
+    <div><a href="https://maps.google.com/maps?q=Altro Paradiso&sll=40.7254266,-74.0046926&ll=40.7254266,-74.0046926" target="_blank">Altro Paradiso</a></div>
+    <div>Hudson Square, New York, NY</div>
 </td>
 <td style="">7.6</td>
 <td style="text-align: right"></td>
@@ -1212,8 +1212,8 @@ td {
 <tr>
 <td style="text-align: right">104.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=Altro Paradiso&sll=40.7254266,-74.0046926&ll=40.7254266,-74.0046926" target="_blank">Altro Paradiso</a></div>
-    <div>Hudson Square, New York, NY</div>
+    <div><a href="https://maps.google.com/maps?q=Tatsu Ramen&sll=34.03887,-118.44239&ll=34.03887,-118.44239" target="_blank">Tatsu Ramen</a></div>
+    <div>Sawtelle Japantown, Los Angeles, CA</div>
 </td>
 <td style="">7.6</td>
 <td style="text-align: right"></td>
@@ -1462,8 +1462,8 @@ td {
 <tr>
 <td style="text-align: right">129.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=IPPUDO BERKELEY&sll=37.8719417,-122.2675899&ll=37.8719417,-122.2675899" target="_blank">IPPUDO BERKELEY</a></div>
-    <div>Downtown Berkeley, Berkeley, CA</div>
+    <div><a href="https://maps.google.com/maps?q=Pho Real Kitchen and Bar&sll=41.5851544,-93.621878&ll=41.5851544,-93.621878" target="_blank">Pho Real Kitchen and Bar</a></div>
+    <div>Downtown Des Moines, Des Moines, IA</div>
 </td>
 <td style="">7.0</td>
 <td style="text-align: right"></td>
@@ -1472,8 +1472,8 @@ td {
 <tr>
 <td style="text-align: right">130.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=Pho Real Kitchen and Bar&sll=41.5851544,-93.621878&ll=41.5851544,-93.621878" target="_blank">Pho Real Kitchen and Bar</a></div>
-    <div>Downtown Des Moines, Des Moines, IA</div>
+    <div><a href="https://maps.google.com/maps?q=IPPUDO BERKELEY&sll=37.8719417,-122.2675899&ll=37.8719417,-122.2675899" target="_blank">IPPUDO BERKELEY</a></div>
+    <div>Downtown Berkeley, Berkeley, CA</div>
 </td>
 <td style="">7.0</td>
 <td style="text-align: right"></td>
@@ -1502,7 +1502,7 @@ td {
 <tr>
 <td style="text-align: right">133.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=Ravagh&sll=40.7473721,-73.9830546&ll=40.7473721,-73.9830546" target="_blank">Ravagh</a></div>
+    <div><a href="https://maps.google.com/maps?q=Ravagh Persian Grill&sll=40.7473721,-73.9830546&ll=40.7473721,-73.9830546" target="_blank">Ravagh Persian Grill</a></div>
     <div>Midtown South, New York, NY</div>
 </td>
 <td style="">6.9</td>
@@ -1642,8 +1642,8 @@ td {
 <tr>
 <td style="text-align: right">147.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=Daikokuya Sawtelle&sll=34.03798,-118.44083&ll=34.03798,-118.44083" target="_blank">Daikokuya Sawtelle</a></div>
-    <div>West Los Angeles, Los Angeles, CA</div>
+    <div><a href="https://maps.google.com/maps?q=Yayoi Cupertino&sll=37.337091,-122.036416&ll=37.337091,-122.036416" target="_blank">Yayoi Cupertino</a></div>
+    <div>None, Cupertino, CA</div>
 </td>
 <td style="">5.2</td>
 <td style="text-align: right"></td>
@@ -1652,8 +1652,8 @@ td {
 <tr>
 <td style="text-align: right">148.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=Yayoi Cupertino&sll=37.337091,-122.036416&ll=37.337091,-122.036416" target="_blank">Yayoi Cupertino</a></div>
-    <div>None, Cupertino, CA</div>
+    <div><a href="https://maps.google.com/maps?q=Daikokuya Sawtelle&sll=34.03798,-118.44083&ll=34.03798,-118.44083" target="_blank">Daikokuya Sawtelle</a></div>
+    <div>West Los Angeles, Los Angeles, CA</div>
 </td>
 <td style="">5.2</td>
 <td style="text-align: right"></td>
@@ -1722,7 +1722,7 @@ td {
 <tr>
 <td style="text-align: right">155.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=John's of Bleecker Street&sll=40.7316187,-74.00344679999999&ll=40.7316187,-74.00344679999999" target="_blank">John's of Bleecker Street</a></div>
+    <div><a href="https://maps.google.com/maps?q=John's&sll=40.7316187,-74.00344679999999&ll=40.7316187,-74.00344679999999" target="_blank">John's</a></div>
     <div>West Village, New York, NY</div>
 </td>
 <td style="">2.8</td>
