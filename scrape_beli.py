@@ -107,18 +107,8 @@ name {
   font-size: 60px;
 }
 
-name:after {
-    content:"\a\a";
-    white-space:pre;
-}
-
 h {
   font-size: 30px;
-}
-
-h:after {
-    content:"\a\a";
-    white-space:pre;
 }
 
 ti {
@@ -126,23 +116,8 @@ ti {
   line-height: 30px;
 }
 
-/*ti:after {
-    content:"\a";
-    white-space:pre;
-}*/
-
 te {
   font-size: 14px;
-}
-
-te:after {
-    content:"\a\a";
-    white-space:pre;
-}
-
-te:before {
-    content:"\a";
-    white-space:pre;
 }
 
 div.copy {
