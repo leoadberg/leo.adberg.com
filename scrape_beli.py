@@ -3,17 +3,42 @@
 URL = "https://beli.cleverapps.io/api/rank-list/f69d5871-2932-4f68-9157-38b9733ff5a9/"
 OUTPUT = "food"
 
-import urllib.request, json
+regions = [
+    ("la", "Los Angeles", 34, -118, 2),
+    ("bay", "Bay Area", 37.7, -122.4, 2),
+    ("ny", "New York", 40.7, -74, 5),
+    ("japan", "Japan", 35.7, 139.7, 10),
+    ("other", "Other", 0, 0, 10000),
+]
+
+import urllib.request, json, math
 with urllib.request.urlopen(URL) as url:
     data = json.load(url)
 
+filters = ""
+for name, disp, _, _, _ in regions:
+    filters += f"""
+<input type="checkbox" name="{name}" id="{name}" checked onclick="setFilter('{name}', this.checked)"/>
+<label for="{name}">{disp}</label>
+"""
+
 body = ""
 for i, r in enumerate(data):
+    lat = float(r["business__lat"])
+    lon = float(r["business__lng"])
+    region = "Other"
+    for name, _, _lat, _lon, radius in regions:
+        if math.sqrt((lat - _lat) ** 2 + (lon - _lon) ** 2) < radius:
+            region = name
+            break
+    else:
+        assert False
+
     body += f"""
-<tr>
+<tr class="{region}">
 <td style="text-align: right">{i+1}.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q={r["business__name"]}&sll={r["business__lat"]},{r["business__lng"]}&ll={r["business__lat"]},{r["business__lng"]}" target="_blank">{r["business__name"]}</a></div>
+    <div><a href="https://maps.google.com/maps?q={r["business__name"]}&sll={lat},{lon}&ll={lat},{lon}" target="_blank">{r["business__name"]}</a></div>
     <div>{r["business__neighborhood"]}, {r["business__city"]}</div>
 </td>
 <td style="">{r["score"]:.1f}</td>
@@ -173,14 +198,33 @@ td {
 </head>
 
 <body>
-<div id="Home" class="tabcontent" style="display: block;">
-  <name>Leo's Restaurant Ratings</name>
-  <br>
-  <table>
-""" + body + """
-</table>
-</div>
+    <div id="Home" class="tabcontent" style="display: block;">
+        <name>Leo's Restaurant Ratings</name>
+        <br>
+        <table>
+            <tr><td colspan="4">
+                """ + filters + """
+            </td></tr>
+            """ + body + """
+        </table>
+    </div>
 </body>
+
+<script>
+function setFilter(name, checked) {
+    document.querySelectorAll('.' + name).forEach(function(e) {
+        e.hidden = !checked;
+    });
+}
+
+if (window.location.hash.length > 1) {
+    for (const name of """ + str([r[0] for r in regions]) + """) {
+        const e = document.getElementById(name)
+        e.checked = "#" + name == window.location.hash
+        e.onclick()
+    }
+}
+</script>
 </html>
 """)
 # for r in data:
