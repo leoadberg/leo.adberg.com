@@ -15,6 +15,17 @@ import urllib.request, json, math
 with urllib.request.urlopen(URL) as url:
     data = json.load(url)
 
+data.append({
+  "business__name": "El Primo Tacos",
+  "score": 10,
+  "business__neighborhood": "Venice",
+  "business__city": "Los Angeles, CA",
+  "business__lat": 33.99858,
+  "business__lng": -118.46253,
+})
+
+data.sort(key=lambda r: (-r["score"], r["business__name"]))
+
 filters = ""
 for name, disp, _, _, _ in regions:
     filters += f"""
@@ -63,8 +74,8 @@ with open(OUTPUT, 'w') as out:
 
   <meta charset="utf-8">
 
-  <title>Leo's Restaurant Recommendations</title>
-  <meta name="description" content="Leo's Restaurant Recommendations">
+  <title>Leo's Restaurant Reviews</title>
+  <meta name="description" content="Leo's Restaurant Reviews">
   <meta name="author" content="Leo Adberg">
 
   <style>
