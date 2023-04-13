@@ -514,7 +514,7 @@ td {
 <tr class="la">
 <td style="text-align: right">34.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=El Ruso&sll=34.01706,-118.19913&ll=34.01706,-118.19913" target="_blank">El Ruso</a></div>
+    <div><a href="https://maps.google.com/maps?q=El Ruso #1&sll=34.01706,-118.19913&ll=34.01706,-118.19913" target="_blank">El Ruso #1</a></div>
     <div>Boyle Heights, Los Angeles, CA</div>
 </td>
 <td style="">9.4</td>
@@ -1164,7 +1164,7 @@ td {
 <tr class="ny">
 <td style="text-align: right">99.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=Buvette New York&sll=40.7326259,-74.00432839999999&ll=40.7326259,-74.00432839999999" target="_blank">Buvette New York</a></div>
+    <div><a href="https://maps.google.com/maps?q=Buvette Gastrotheque&sll=40.7326259,-74.00432839999999&ll=40.7326259,-74.00432839999999" target="_blank">Buvette Gastrotheque</a></div>
     <div>Greenwich Village, New York, NY</div>
 </td>
 <td style="">8.1</td>
