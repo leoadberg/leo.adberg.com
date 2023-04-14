@@ -484,7 +484,7 @@ td {
 <tr class="japan">
 <td style="text-align: right">31.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=Ginza Kagari Main Branch&sll=35.67126289999999,139.7613911&ll=35.67126289999999,139.7613911" target="_blank">Ginza Kagari Main Branch</a></div>
+    <div><a href="https://maps.google.com/maps?q=Kagari&sll=35.67126289999999,139.7613911&ll=35.67126289999999,139.7613911" target="_blank">Kagari</a></div>
     <div>Hibiya, Tokyo</div>
 </td>
 <td style="">9.4</td>
@@ -661,8 +661,18 @@ td {
 <td style="text-align: right"></td>
 </tr>
     
-<tr class="ny">
+<tr class="bay">
 <td style="text-align: right">49.</td>
+<td style="text-align: left; padding-right: 20px">
+    <div><a href="https://maps.google.com/maps?q=Cheese Board Collective Pizzeria&sll=37.87987,-122.26948&ll=37.87987,-122.26948" target="_blank">Cheese Board Collective Pizzeria</a></div>
+    <div>North Berkeley, Berkeley, CA</div>
+</td>
+<td style="">9.1</td>
+<td style="text-align: right"></td>
+</tr>
+    
+<tr class="ny">
+<td style="text-align: right">50.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Ghandi Cafe&sll=40.7319933,-74.0031348&ll=40.7319933,-74.0031348" target="_blank">Ghandi Cafe</a></div>
     <div>West Village, New York, NY</div>
@@ -672,20 +682,10 @@ td {
 </tr>
     
 <tr class="ny">
-<td style="text-align: right">50.</td>
+<td style="text-align: right">51.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Rowdy Rooster&sll=40.7284627,-73.98500709999999&ll=40.7284627,-73.98500709999999" target="_blank">Rowdy Rooster</a></div>
     <div>Ukrainian Village, New York, NY</div>
-</td>
-<td style="">9.1</td>
-<td style="text-align: right"></td>
-</tr>
-    
-<tr class="bay">
-<td style="text-align: right">51.</td>
-<td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=The Cheeseboard Pizza&sll=37.87987,-122.26948&ll=37.87987,-122.26948" target="_blank">The Cheeseboard Pizza</a></div>
-    <div>North Berkeley, Berkeley, CA</div>
 </td>
 <td style="">9.1</td>
 <td style="text-align: right"></td>
@@ -1164,7 +1164,7 @@ td {
 <tr class="ny">
 <td style="text-align: right">99.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=Buvette Gastrotheque&sll=40.7326259,-74.00432839999999&ll=40.7326259,-74.00432839999999" target="_blank">Buvette Gastrotheque</a></div>
+    <div><a href="https://maps.google.com/maps?q=Buvette New York&sll=40.7326259,-74.00432839999999&ll=40.7326259,-74.00432839999999" target="_blank">Buvette New York</a></div>
     <div>Greenwich Village, New York, NY</div>
 </td>
 <td style="">8.1</td>
