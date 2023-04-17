@@ -1,6 +1,7 @@
-#!/usr/bin/python3
+#!/usr/local/bin/python3
 
 URL = "https://beli.cleverapps.io/api/rank-list/f69d5871-2932-4f68-9157-38b9733ff5a9/"
+IMAGEURL = "https://beli.cleverapps.io/api/user-business-photo/?user=f69d5871-2932-4f68-9157-38b9733ff5a9&business="
 OUTPUT = "food"
 
 regions = [
@@ -12,53 +13,90 @@ regions = [
 ]
 
 import urllib.request, json, math
-with urllib.request.urlopen(URL) as url:
-    data = json.load(url)
+from tqdm.contrib.concurrent import process_map
 
-data.append({
-  "business__name": "El Primo Tacos",
-  "score": 10,
-  "business__neighborhood": "Venice",
-  "business__city": "Los Angeles, CA",
-  "business__lat": 33.99858,
-  "business__lng": -118.46253,
-})
+def getImages(r, retries=4):
+    try:
+        with urllib.request.urlopen(IMAGEURL+str(r["business__id"]), timeout=2) as imageurl:
+            imagedata = json.load(imageurl)
+        return imagedata["results"]
+    except Exception as e:
+        if retries > 0:
+            return getImages(r, retries-1)
+        print("Failed to get photos for " + r["business__name"])
+        return []
+    # print(r["business__name"])
 
-data.sort(key=lambda r: (-r["score"], r["business__name"]))
+if __name__ == "__main__":
+    with urllib.request.urlopen(URL) as url:
+        data = json.load(url)
 
-filters = ""
-for name, disp, _, _, _ in regions:
-    filters += f"""
+    data.append({
+      "business__id": -1,
+      "business__name": "El Primo Tacos",
+      "score": 10,
+      "business__neighborhood": "Venice",
+      "business__city": "Los Angeles, CA",
+      "business__lat": 33.99858,
+      "business__lng": -118.46253,
+      "business__price": 1,
+    })
+
+    for i, im in enumerate(process_map(getImages, data, max_workers=50)):
+        data[i]["images"] = im
+
+    data.sort(key=lambda r: (-r["score"], r["business__name"]))
+
+    filters = ""
+    for name, disp, _, _, _ in regions:
+        filters += f"""
 <input type="checkbox" name="{name}" id="{name}" checked onclick="setFilter('{name}', this.checked)"/>
 <label for="{name}">{disp}</label>
-"""
+    """
 
-body = ""
-for i, r in enumerate(data):
-    lat = float(r["business__lat"])
-    lon = float(r["business__lng"])
-    region = "Other"
-    for name, _, _lat, _lon, radius in regions:
-        if math.sqrt((lat - _lat) ** 2 + (lon - _lon) ** 2) < radius:
-            region = name
-            break
-    else:
-        assert False
+    body = ""
+    for i, r in enumerate(data):
+        id = r["business__id"]
+        lat = float(r["business__lat"])
+        lon = float(r["business__lng"])
+        region = "Other"
+        for name, _, _lat, _lon, radius in regions:
+            if math.sqrt((lat - _lat) ** 2 + (lon - _lon) ** 2) < radius:
+                region = name
+                break
+        else:
+            assert False
 
-    body += f"""
+        city = r.get("business__city")
+        neighborhood = r.get("business__neighborhood")
+        price = r.get("business__price")
+        subtext = city
+        if neighborhood is not None:
+            subtext = neighborhood + ", " + subtext
+        if price is not None:
+            subtext = "$" * price + "  |  " + subtext
+
+        images = ""
+        for j, im in enumerate(r.get("images", [])):
+            if j != 0:
+                images += ", "
+            images += f"""<a target="_blank" class="photo" href="{im["image"]}">{im["description"]}</a>"""
+
+        body += f"""
 <tr class="{region}">
 <td style="text-align: right">{i+1}.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q={r["business__name"]}&sll={lat},{lon}&ll={lat},{lon}" target="_blank">{r["business__name"]}</a></div>
-    <div>{r["business__neighborhood"]}, {r["business__city"]}</div>
+    <div style="white-space: pre;">{subtext}</div>
+    <div>{images}</div>
 </td>
 <td style="">{r["score"]:.1f}</td>
 <td style="text-align: right"></td>
 </tr>
-    """
+        """
 
-with open(OUTPUT, 'w') as out:
-    out.write("""
+    with open(OUTPUT, 'w') as out:
+        out.write("""
 <!doctype html>
 
 <html lang="en">
@@ -174,6 +212,9 @@ div.copy {
 
 a {
   color: #222222;
+}
+
+a:not(.photo) {
   font-weight: bold;
   text-decoration: none;
 }
