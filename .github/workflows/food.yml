@@ -11,6 +11,12 @@ jobs:
       # Checkout the branch
       - name: checkout
         uses: actions/checkout@v2
+        
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+          cache: 'pip' # caching pip dependencies
+      - run: pip install tqdm
 
       - name: scrape
         run: |
