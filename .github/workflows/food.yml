@@ -19,7 +19,7 @@ jobs:
 
       - name: scrape
         run: |
-          ./scrape_beli.py
+          python ./scrape_beli.py
 
       - name: setup git config
         run: |
