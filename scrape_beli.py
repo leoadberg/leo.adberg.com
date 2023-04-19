@@ -1,4 +1,4 @@
-#!/usr/local/bin/python3
+#!/usr/bin/python3
 
 URL = "https://beli.cleverapps.io/api/rank-list/f69d5871-2932-4f68-9157-38b9733ff5a9/"
 IMAGEURL = "https://beli.cleverapps.io/api/user-business-photo/?user=f69d5871-2932-4f68-9157-38b9733ff5a9&business="
