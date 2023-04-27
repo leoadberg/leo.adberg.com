@@ -473,17 +473,6 @@ td {
 <tr class="ny">
 <td style="text-align: right">27.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=Misoya&sll=40.73461700000001,-74.00635439999999&ll=40.73461700000001,-74.00635439999999" target="_blank">Misoya</a></div>
-    <div style="white-space: pre;">$$  |  West Village, New York, NY</div>
-    <div></div>
-</td>
-<td style="">9.6</td>
-<td style="text-align: right"></td>
-</tr>
-        
-<tr class="ny">
-<td style="text-align: right">28.</td>
-<td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Olio e Più&sll=40.7337945,-73.9997927&ll=40.7337945,-73.9997927" target="_blank">Olio e Più</a></div>
     <div style="white-space: pre;">$$  |  West Village, New York, NY</div>
     <div></div>
@@ -493,10 +482,21 @@ td {
 </tr>
         
 <tr class="la">
-<td style="text-align: right">29.</td>
+<td style="text-align: right">28.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Osteria Mozza&sll=34.08324,-118.33896&ll=34.08324,-118.33896" target="_blank">Osteria Mozza</a></div>
     <div style="white-space: pre;">$$$  |  Melrose, Los Angeles, CA</div>
+    <div></div>
+</td>
+<td style="">9.6</td>
+<td style="text-align: right"></td>
+</tr>
+        
+<tr class="ny">
+<td style="text-align: right">29.</td>
+<td style="text-align: left; padding-right: 20px">
+    <div><a href="https://maps.google.com/maps?q=Ramen Misoya West Village&sll=40.73461700000001,-74.00635439999999&ll=40.73461700000001,-74.00635439999999" target="_blank">Ramen Misoya West Village</a></div>
+    <div style="white-space: pre;">$$  |  West Village, New York, NY</div>
     <div></div>
 </td>
 <td style="">9.6</td>
@@ -2277,7 +2277,7 @@ td {
 <tr class="ny">
 <td style="text-align: right">191.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=Pisillo Italian Panini&sll=40.71055399999999,-74.007593&ll=40.71055399999999,-74.007593" target="_blank">Pisillo Italian Panini</a></div>
+    <div><a href="https://maps.google.com/maps?q=Pisillo Panini Italiani&sll=40.71055399999999,-74.007593&ll=40.71055399999999,-74.007593" target="_blank">Pisillo Panini Italiani</a></div>
     <div style="white-space: pre;">$$  |  Financial District, New York, NY</div>
     <div></div>
 </td>
