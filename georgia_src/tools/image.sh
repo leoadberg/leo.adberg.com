@@ -1,0 +1,3 @@
+sed -r 's/IMG\{([^,]+),? ?([^}]*)\}/<div class="thumbholder"><a href="img\/\1.jpg" target="_blank">![](img\/thumb\/\1.jpg){.thumb}<\/a><figcaption>\2<\/figcaption><\/div>/g' | \
+sed -r 's/GIF\{([^,]+),? ?([^}]*)\}/<div class="thumbholder"><a href="img\/\1.gif" target="_blank">![](img\/\1.gif){.thumb}<\/a><figcaption>\2<\/figcaption><\/div>/g' | \
+sed -r 's/MOV\{([^,]+),? ?([^}]*)\}/<div class="thumbholder"><video controls="controls" width="350"><source src="img\/\1.mov"><\/video> <figcaption>\2<\/figcaption><\/div>/g'
