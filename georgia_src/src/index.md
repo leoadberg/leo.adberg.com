@@ -32,7 +32,7 @@ IMG{botanical, View from the top of the gondola}
 IMG{chreli, Sulphur Bath Houses}
 IMG{chreli2, Leo in the Sulphur Bath}
 IMG{chreli3, }
-<!-- chrelitour.mov -->
+MOV{chrelitour, Tour of our private room in the bath house}
 IMG{clocktower, [Leaning Tower of Tbilisi](https://www.atlasobscura.com/places/leaning-tower-tbilisi)}
 IMG{fabrika, Fabrika, the hostel + meetup space + food court where all the cool kids and nomads hang out}
 IMG{liberty_square, }
