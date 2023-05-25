@@ -5,6 +5,15 @@ header-includes:
 - '<link rel="stylesheet" href="css/georgia.css">'
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-TMCQ9H77TR"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-TMCQ9H77TR');
+</script>
+
 We had a great time in Georgia and wanted to put together all the cool stuff we saw in one place! Here's a selection of our most memorable experiences and coolest photos.
 
 :::{.note .yellow}
