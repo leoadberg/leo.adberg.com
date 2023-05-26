@@ -193,7 +193,7 @@ IMG{canyon12, }
 
 One of the main reasons we came to Georgia was to experience the food after we had both had Georgian food for the first time in NYC and loving it (Old Tbilisi Garden, Chama Mama, and CafeDelia).
 
-Georgian food is *super* heavy on breads, cheeses, and meats, which means we often got full early and probably only averages one Georgian meal per day.
+Georgian food is *super* heavy on breads, cheeses, and meats, which means we often got full early and probably only averaged one Georgian meal per day (eating foreign food and snacks at cafes the rest of the time).
 
 The main dish is Khachapuri, which is actually just a blanket term for any cheese bread and there are a dozen different ways to make it. The recognizable version for foreigners with the egg in the middle is Adjaruli Khachapuri which surprisingly comes from a [small corner of Georgia](https://en.wikipedia.org/wiki/Adjara) and isn't actually the most common version eaten. You're meant to eat this version by stirring up the egg into the cheese then tearing off pieces of bread and dipping it in the molten cheese/egg mix.
 
