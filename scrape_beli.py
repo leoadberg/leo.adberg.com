@@ -32,16 +32,16 @@ if __name__ == "__main__":
     with urllib.request.urlopen(URL) as url:
         data = json.load(url)
 
-    data.append({
-      "business__id": -1,
-      "business__name": "El Primo Tacos",
-      "score": 10,
-      "business__neighborhood": "Venice",
-      "business__city": "Los Angeles, CA",
-      "business__lat": 33.99858,
-      "business__lng": -118.46253,
-      "business__price": 1,
-    })
+    # data.append({
+    #   "business__id": -1,
+    #   "business__name": "El Primo Tacos",
+    #   "score": 10,
+    #   "business__neighborhood": "Venice",
+    #   "business__city": "Los Angeles, CA",
+    #   "business__lat": 33.99858,
+    #   "business__lng": -118.46253,
+    #   "business__price": 1,
+    # })
 
     for i, im in enumerate(process_map(getImages, data, max_workers=50)):
         data[i]["images"] = im
