@@ -83,6 +83,13 @@ if __name__ == "__main__":
                 images += ", "
             images += f"""<a target="_blank" class="photo" href="{im["image"]}">{im["description"]}</a>"""
 
+        score = r["score"]
+        color = "good"
+        if score < 6.7:
+            color = "fine"
+        if score < 3.5:
+            color = "bad"
+
         body += f"""
 <tr class="{region}">
 <td style="text-align: right">{i+1}.</td>
@@ -91,7 +98,7 @@ if __name__ == "__main__":
     <div style="white-space: pre;">{subtext}</div>
     <div>{images}</div>
 </td>
-<td style="">{r["score"]:.1f}</td>
+<td class="{color}">{score:.1f}</td>
 <td style="text-align: right"></td>
 </tr>
         """
@@ -255,6 +262,18 @@ td {
   padding: 10px;
 }
 
+.good {
+  color: #45cc18;
+}
+
+.fine {
+  color: #e2cc25;
+}
+
+.bad {
+  color: #e22525;
+}
+
 </style>
 
 </head>
@@ -268,6 +287,12 @@ td {
                 """ + filters + """
             </td></tr>
             """ + body + """
+            <tr><td></td><td><div style="text-align: left">
+            Legend:
+            <p class="good">Would go again of my own accord</p>
+            <p class="fine">Might go again if someone else wanted to go</p>
+            <p class="bad">Would refuse to go again</p>
+            </div></td></tr>
         </table>
     </div>
 </body>
