@@ -488,17 +488,6 @@ td {
 <tr class="ny">
 <td style="text-align: right">27.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=Misoya&sll=40.73461700000001,-74.00635439999999&ll=40.73461700000001,-74.00635439999999" target="_blank">Misoya</a></div>
-    <div style="white-space: pre;">$$  |  West Village, New York, NY</div>
-    <div></div>
-</td>
-<td class="good">9.6</td>
-<td style="text-align: right"></td>
-</tr>
-        
-<tr class="ny">
-<td style="text-align: right">28.</td>
-<td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Olio e Più&sll=40.7337945,-73.9997927&ll=40.7337945,-73.9997927" target="_blank">Olio e Più</a></div>
     <div style="white-space: pre;">$$  |  West Village, New York, NY</div>
     <div></div>
@@ -508,10 +497,21 @@ td {
 </tr>
         
 <tr class="la">
-<td style="text-align: right">29.</td>
+<td style="text-align: right">28.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Osteria Mozza&sll=34.08324,-118.33896&ll=34.08324,-118.33896" target="_blank">Osteria Mozza</a></div>
     <div style="white-space: pre;">$$$  |  Melrose, Los Angeles, CA</div>
+    <div></div>
+</td>
+<td class="good">9.6</td>
+<td style="text-align: right"></td>
+</tr>
+        
+<tr class="ny">
+<td style="text-align: right">29.</td>
+<td style="text-align: left; padding-right: 20px">
+    <div><a href="https://maps.google.com/maps?q=Ramen Misoya West Village&sll=40.73461700000001,-74.00635439999999&ll=40.73461700000001,-74.00635439999999" target="_blank">Ramen Misoya West Village</a></div>
+    <div style="white-space: pre;">$$  |  West Village, New York, NY</div>
     <div></div>
 </td>
 <td class="good">9.6</td>
@@ -2303,7 +2303,7 @@ td {
 <tr class="ny">
 <td style="text-align: right">192.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=Faicco’s Italian Specialties&sll=40.73111859999999,-74.0031248&ll=40.73111859999999,-74.0031248" target="_blank">Faicco’s Italian Specialties</a></div>
+    <div><a href="https://maps.google.com/maps?q=Faicco's&sll=40.73111859999999,-74.0031248&ll=40.73111859999999,-74.0031248" target="_blank">Faicco's</a></div>
     <div style="white-space: pre;">$$  |  West Village, New York, NY</div>
     <div></div>
 </td>
