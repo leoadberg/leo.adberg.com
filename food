@@ -738,19 +738,8 @@ td {
 <td style="text-align: right"></td>
 </tr>
         
-<tr class="bay">
-<td style="text-align: right">50.</td>
-<td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=Cheese Board Collective Pizzeria&sll=37.87987,-122.26948&ll=37.87987,-122.26948" target="_blank">Cheese Board Collective Pizzeria</a></div>
-    <div style="white-space: pre;">$  |  North Berkeley, Berkeley, CA</div>
-    <div></div>
-</td>
-<td class="good">9.3</td>
-<td style="text-align: right"></td>
-</tr>
-        
 <tr class="ny">
-<td style="text-align: right">51.</td>
+<td style="text-align: right">50.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Ghandi Cafe&sll=40.7319933,-74.0031348&ll=40.7319933,-74.0031348" target="_blank">Ghandi Cafe</a></div>
     <div style="white-space: pre;">$  |  West Village, New York, NY</div>
@@ -761,11 +750,22 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">52.</td>
+<td style="text-align: right">51.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Rowdy Rooster&sll=40.7284627,-73.98500709999999&ll=40.7284627,-73.98500709999999" target="_blank">Rowdy Rooster</a></div>
     <div style="white-space: pre;">$$  |  Ukrainian Village, New York, NY</div>
     <div><a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/87659/f69d5871-2932-4f68-9157-38b9733ff5a9/images/2evd9yi9y56hqc6w6ub.jpg">Big rowdy</a></div>
+</td>
+<td class="good">9.3</td>
+<td style="text-align: right"></td>
+</tr>
+        
+<tr class="bay">
+<td style="text-align: right">52.</td>
+<td style="text-align: left; padding-right: 20px">
+    <div><a href="https://maps.google.com/maps?q=The Cheeseboard Pizza&sll=37.87987,-122.26948&ll=37.87987,-122.26948" target="_blank">The Cheeseboard Pizza</a></div>
+    <div style="white-space: pre;">$  |  North Berkeley, Berkeley, CA</div>
+    <div></div>
 </td>
 <td class="good">9.3</td>
 <td style="text-align: right"></td>
@@ -2162,7 +2162,7 @@ td {
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Flutes Restaurant . Bar&sll=1.2966058,103.8488293&ll=1.2966058,103.8488293" target="_blank">Flutes Restaurant . Bar</a></div>
     <div style="white-space: pre;">$$$  |  Museum, Singapore</div>
-    <div><a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/534591/f69d5871-2932-4f68-9157-38b9733ff5a9/images/8lyn10h2w86jihx6kvy.jpg">Toothfish</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/534591/f69d5871-2932-4f68-9157-38b9733ff5a9/images/h14e3f7dfw8xx74dd3e.jpg">Toothfish</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/534591/f69d5871-2932-4f68-9157-38b9733ff5a9/images/96lypnmobqfbq2nzq9f.jpg">Steak</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/534591/f69d5871-2932-4f68-9157-38b9733ff5a9/images/4xn4d6ruvppvwwaqr5q.jpg">Steak</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/534591/f69d5871-2932-4f68-9157-38b9733ff5a9/images/4ibvjaucz9dohuyt2jz.jpg">Quail, tuna tartare, oyster</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/534591/f69d5871-2932-4f68-9157-38b9733ff5a9/images/97a5f3trw39prcehczj.jpg">Quail, tuna tartare, oyster</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/534591/f69d5871-2932-4f68-9157-38b9733ff5a9/images/rgx1lbxrgbhpzuik5iy.jpg">Mushroom congee</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/534591/f69d5871-2932-4f68-9157-38b9733ff5a9/images/brgj6cp3oaqntlz24rv.jpg">Mushroom congee</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/534591/f69d5871-2932-4f68-9157-38b9733ff5a9/images/4zs4ekylopov9x3uusa.jpg">Lobster</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/534591/f69d5871-2932-4f68-9157-38b9733ff5a9/images/zpnqk2nzshaotdb2n5u.jpg">Lobster</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/534591/f69d5871-2932-4f68-9157-38b9733ff5a9/images/x3n957k59apf1gcxwsb.jpg">Dessert</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/534591/f69d5871-2932-4f68-9157-38b9733ff5a9/images/f29k8v7bzq7ef97u7v3.jpg">Dessert</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/534591/f69d5871-2932-4f68-9157-38b9733ff5a9/images/ivn3hqed5ma3ukdltbf.jpg">Eton Mess</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/534591/f69d5871-2932-4f68-9157-38b9733ff5a9/images/o8214uws1ogcqx438x.jpg">Eton Mess</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/534591/f69d5871-2932-4f68-9157-38b9733ff5a9/images/sac4psjwd5z3tm56uh.jpg">Chocolates</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/534591/f69d5871-2932-4f68-9157-38b9733ff5a9/images/lo1y4kaekufc3dionr.jpg">Chocolates</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/534591/f69d5871-2932-4f68-9157-38b9733ff5a9/images/41fstt57lsha01c6bk7.jpg">Menu</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/534591/f69d5871-2932-4f68-9157-38b9733ff5a9/images/bjkffql0b0g9r6us5jq.jpg">Menu</a></div>
+    <div><a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/534591/f69d5871-2932-4f68-9157-38b9733ff5a9/images/8lyn10h2w86jihx6kvy.jpg">Toothfish</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/534591/f69d5871-2932-4f68-9157-38b9733ff5a9/images/96lypnmobqfbq2nzq9f.jpg">Steak</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/534591/f69d5871-2932-4f68-9157-38b9733ff5a9/images/4ibvjaucz9dohuyt2jz.jpg">Quail, tuna tartare, oyster</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/534591/f69d5871-2932-4f68-9157-38b9733ff5a9/images/rgx1lbxrgbhpzuik5iy.jpg">Mushroom congee</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/534591/f69d5871-2932-4f68-9157-38b9733ff5a9/images/4zs4ekylopov9x3uusa.jpg">Lobster</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/534591/f69d5871-2932-4f68-9157-38b9733ff5a9/images/x3n957k59apf1gcxwsb.jpg">Dessert</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/534591/f69d5871-2932-4f68-9157-38b9733ff5a9/images/ivn3hqed5ma3ukdltbf.jpg">Eton Mess</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/534591/f69d5871-2932-4f68-9157-38b9733ff5a9/images/sac4psjwd5z3tm56uh.jpg">Chocolates</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/534591/f69d5871-2932-4f68-9157-38b9733ff5a9/images/41fstt57lsha01c6bk7.jpg">Menu</a></div>
 </td>
 <td class="good">7.4</td>
 <td style="text-align: right"></td>
@@ -2941,7 +2941,7 @@ td {
 <tr class="ny">
 <td style="text-align: right">250.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=John's&sll=40.7316187,-74.00344679999999&ll=40.7316187,-74.00344679999999" target="_blank">John's</a></div>
+    <div><a href="https://maps.google.com/maps?q=John's of Bleecker Street&sll=40.7316187,-74.00344679999999&ll=40.7316187,-74.00344679999999" target="_blank">John's of Bleecker Street</a></div>
     <div style="white-space: pre;">$$  |  West Village, New York, NY</div>
     <div></div>
 </td>
