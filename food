@@ -738,19 +738,8 @@ td {
 <td style="text-align: right"></td>
 </tr>
         
-<tr class="bay">
-<td style="text-align: right">50.</td>
-<td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=Cheese Board Collective Pizzeria&sll=37.87987,-122.26948&ll=37.87987,-122.26948" target="_blank">Cheese Board Collective Pizzeria</a></div>
-    <div style="white-space: pre;">$  |  North Berkeley, Berkeley, CA</div>
-    <div></div>
-</td>
-<td class="good">9.3</td>
-<td style="text-align: right"></td>
-</tr>
-        
 <tr class="ny">
-<td style="text-align: right">51.</td>
+<td style="text-align: right">50.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Ghandi Cafe&sll=40.7319933,-74.0031348&ll=40.7319933,-74.0031348" target="_blank">Ghandi Cafe</a></div>
     <div style="white-space: pre;">$  |  West Village, New York, NY</div>
@@ -761,11 +750,22 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">52.</td>
+<td style="text-align: right">51.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Rowdy Rooster&sll=40.7284627,-73.98500709999999&ll=40.7284627,-73.98500709999999" target="_blank">Rowdy Rooster</a></div>
     <div style="white-space: pre;">$$  |  Ukrainian Village, New York, NY</div>
     <div><a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/87659/f69d5871-2932-4f68-9157-38b9733ff5a9/images/2evd9yi9y56hqc6w6ub.jpg">Big rowdy</a></div>
+</td>
+<td class="good">9.3</td>
+<td style="text-align: right"></td>
+</tr>
+        
+<tr class="bay">
+<td style="text-align: right">52.</td>
+<td style="text-align: left; padding-right: 20px">
+    <div><a href="https://maps.google.com/maps?q=The Cheeseboard Pizza&sll=37.87987,-122.26948&ll=37.87987,-122.26948" target="_blank">The Cheeseboard Pizza</a></div>
+    <div style="white-space: pre;">$  |  North Berkeley, Berkeley, CA</div>
+    <div></div>
 </td>
 <td class="good">9.3</td>
 <td style="text-align: right"></td>
@@ -1093,7 +1093,7 @@ td {
 <tr class="ny">
 <td style="text-align: right">82.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=Prince Street Pizza&sll=40.723084,-73.994528&ll=40.723084,-73.994528" target="_blank">Prince Street Pizza</a></div>
+    <div><a href="https://maps.google.com/maps?q=Prince St. Pizza&sll=40.723084,-73.994528&ll=40.723084,-73.994528" target="_blank">Prince St. Pizza</a></div>
     <div style="white-space: pre;">$  |  Nolita, New York, NY</div>
     <div></div>
 </td>
@@ -2182,7 +2182,7 @@ td {
 <tr class="other">
 <td style="text-align: right">181.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=Tian Tian&sll=1.2804528,103.8447987&ll=1.2804528,103.8447987" target="_blank">Tian Tian</a></div>
+    <div><a href="https://maps.google.com/maps?q=Tian Tian Hainanese Chicken Rice&sll=1.2804528,103.8447987&ll=1.2804528,103.8447987" target="_blank">Tian Tian Hainanese Chicken Rice</a></div>
     <div style="white-space: pre;">$  |  Chinatown, Singapore</div>
     <div><a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/104522/f69d5871-2932-4f68-9157-38b9733ff5a9/images/ou13ry3lptlmsoyujne.jpg">Roasted Chicken Rice, Veggies</a></div>
 </td>
@@ -2622,7 +2622,7 @@ td {
 <tr class="ny">
 <td style="text-align: right">221.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=Faicco's&sll=40.73111859999999,-74.0031248&ll=40.73111859999999,-74.0031248" target="_blank">Faicco's</a></div>
+    <div><a href="https://maps.google.com/maps?q=Faicco’s Italian Specialties&sll=40.73111859999999,-74.0031248&ll=40.73111859999999,-74.0031248" target="_blank">Faicco’s Italian Specialties</a></div>
     <div style="white-space: pre;">$$  |  West Village, New York, NY</div>
     <div></div>
 </td>
@@ -2930,7 +2930,7 @@ td {
 <tr class="ny">
 <td style="text-align: right">249.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=Pisillo Italian Panini&sll=40.71055399999999,-74.007593&ll=40.71055399999999,-74.007593" target="_blank">Pisillo Italian Panini</a></div>
+    <div><a href="https://maps.google.com/maps?q=Pisillo Panini Italiani&sll=40.71055399999999,-74.007593&ll=40.71055399999999,-74.007593" target="_blank">Pisillo Panini Italiani</a></div>
     <div style="white-space: pre;">$$  |  Financial District, New York, NY</div>
     <div></div>
 </td>
