@@ -499,6 +499,17 @@ td {
 <tr class="ny">
 <td style="text-align: right">28.</td>
 <td style="text-align: left; padding-right: 20px">
+    <div><a href="https://maps.google.com/maps?q=Misoya&sll=40.73461700000001,-74.00635439999999&ll=40.73461700000001,-74.00635439999999" target="_blank">Misoya</a></div>
+    <div style="white-space: pre;">$$  |  West Village, New York, NY</div>
+    <div></div>
+</td>
+<td class="good">9.7</td>
+<td style="text-align: right"></td>
+</tr>
+        
+<tr class="ny">
+<td style="text-align: right">29.</td>
+<td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Olio e Più&sll=40.7337945,-73.9997927&ll=40.7337945,-73.9997927" target="_blank">Olio e Più</a></div>
     <div style="white-space: pre;">$$  |  West Village, New York, NY</div>
     <div></div>
@@ -508,21 +519,10 @@ td {
 </tr>
         
 <tr class="la">
-<td style="text-align: right">29.</td>
+<td style="text-align: right">30.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Osteria Mozza&sll=34.08324,-118.33896&ll=34.08324,-118.33896" target="_blank">Osteria Mozza</a></div>
     <div style="white-space: pre;">$$$  |  Melrose, Los Angeles, CA</div>
-    <div></div>
-</td>
-<td class="good">9.7</td>
-<td style="text-align: right"></td>
-</tr>
-        
-<tr class="ny">
-<td style="text-align: right">30.</td>
-<td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=Ramen Misoya West Village&sll=40.73461700000001,-74.00635439999999&ll=40.73461700000001,-74.00635439999999" target="_blank">Ramen Misoya West Village</a></div>
-    <div style="white-space: pre;">$$  |  West Village, New York, NY</div>
     <div></div>
 </td>
 <td class="good">9.7</td>
@@ -1006,7 +1006,7 @@ td {
 <td style="text-align: right">74.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Sofia Melnikova’s Fantastic Douqan&sll=41.69960219999999,44.7985587&ll=41.69960219999999,44.7985587" target="_blank">Sofia Melnikova’s Fantastic Douqan</a></div>
-    <div style="white-space: pre;">$$  |  T'bilisi</div>
+    <div style="white-space: pre;">$$  |  Tbilisi</div>
     <div><a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/437561/f69d5871-2932-4f68-9157-38b9733ff5a9/images/moq7wjpzzog77hfjfsg.jpg">Kitten</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/437561/f69d5871-2932-4f68-9157-38b9733ff5a9/images/vzbt2o84z7d13frhy5s.jpg">Shkmeruli</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/437561/f69d5871-2932-4f68-9157-38b9733ff5a9/images/cq1zt7fhex30o9j51j.jpg">Cheese Khinkali</a></div>
 </td>
 <td class="good">9.0</td>
@@ -1512,7 +1512,7 @@ td {
 <td style="text-align: right">120.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=The Kitchen&sll=41.7055556,44.78722219999999&ll=41.7055556,44.78722219999999" target="_blank">The Kitchen</a></div>
-    <div style="white-space: pre;">$$$  |  T'bilisi</div>
+    <div style="white-space: pre;">$$$  |  Tbilisi</div>
     <div><a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/258526/f69d5871-2932-4f68-9157-38b9733ff5a9/images/qy3q4eco0kc00uad09.jpg">Beef Tartare</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/258526/f69d5871-2932-4f68-9157-38b9733ff5a9/images/53bgk6zm76b3bxllbw9.jpg">Pumpkin Miso Soup</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/258526/f69d5871-2932-4f68-9157-38b9733ff5a9/images/5asjilqsp83pkd1we6a.jpg">Ribeye</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/258526/f69d5871-2932-4f68-9157-38b9733ff5a9/images/ihmvaq5smppdjh0p6c.jpg">Chicken</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/258526/f69d5871-2932-4f68-9157-38b9733ff5a9/images/bow995ti5jisacemzaq.jpg">Greens</a></div>
 </td>
 <td class="good">8.3</td>
@@ -2348,7 +2348,7 @@ td {
 <td style="text-align: right">196.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Machakhela&sll=41.6897662,44.8088333&ll=41.6897662,44.8088333" target="_blank">Machakhela</a></div>
-    <div style="white-space: pre;">$$  |  T'bilisi</div>
+    <div style="white-space: pre;">$$  |  Tbilisi</div>
     <div><a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/439653/f69d5871-2932-4f68-9157-38b9733ff5a9/images/gm13ds6s0ltpp5ow86w.jpg">Beef stew</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/439653/f69d5871-2932-4f68-9157-38b9733ff5a9/images/sd2t472v3lpr1bapksw.jpg">Khinkali</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/439653/f69d5871-2932-4f68-9157-38b9733ff5a9/images/pdlheiz896ovo00gd9d.jpg">Chebureki</a></div>
 </td>
 <td class="good">7.2</td>
@@ -2359,7 +2359,7 @@ td {
 <td style="text-align: right">197.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Ninia’s Garden&sll=41.7115754,44.79319559999999&ll=41.7115754,44.79319559999999" target="_blank">Ninia’s Garden</a></div>
-    <div style="white-space: pre;">T'bilisi</div>
+    <div style="white-space: pre;">Tbilisi</div>
     <div><a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/445566/f69d5871-2932-4f68-9157-38b9733ff5a9/images/myfj3hugphibcoosxm6.jpg">Chikhirtma</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/445566/f69d5871-2932-4f68-9157-38b9733ff5a9/images/9fvj0ni4nfnwgwbuiuy.jpg">Chicken bowl</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/445566/f69d5871-2932-4f68-9157-38b9733ff5a9/images/sbg563pnxhc2ihppxub.jpg">Shkmeruli</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/445566/f69d5871-2932-4f68-9157-38b9733ff5a9/images/ooxt4dqh972an4nxi5.jpg">Lobiani</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/445566/f69d5871-2932-4f68-9157-38b9733ff5a9/images/66wohp7dw48vxuz4h9a.jpg">Cat</a></div>
 </td>
 <td class="good">7.2</td>
@@ -2381,7 +2381,7 @@ td {
 <td style="text-align: right">199.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Acharulebi Laghidzeze&sll=41.7001414,44.7960344&ll=41.7001414,44.7960344" target="_blank">Acharulebi Laghidzeze</a></div>
-    <div style="white-space: pre;">T'bilisi</div>
+    <div style="white-space: pre;">Tbilisi</div>
     <div><a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/447756/f69d5871-2932-4f68-9157-38b9733ff5a9/images/p2a61s8jo1lan136mq.jpg">Khachapuri Adjaruli</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/447756/f69d5871-2932-4f68-9157-38b9733ff5a9/images/u9khuup2wgklixstcxn.jpg">Pelmeni</a></div>
 </td>
 <td class="good">7.2</td>
@@ -2414,7 +2414,7 @@ td {
 <td style="text-align: right">202.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Hlöllabátar&sll=64.1483069,-21.9412588&ll=64.1483069,-21.9412588" target="_blank">Hlöllabátar</a></div>
-    <div style="white-space: pre;">$  |  Centre, Reykjavik</div>
+    <div style="white-space: pre;">$  |  Centre, Reykjavík</div>
     <div><a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/55480/f69d5871-2932-4f68-9157-38b9733ff5a9/images/0lsj1w7eqo5gr5l0pes.jpg">The bull</a></div>
 </td>
 <td class="good">7.2</td>
@@ -2688,7 +2688,7 @@ td {
 <tr class="ny">
 <td style="text-align: right">227.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=Faicco’s Italian Specialties&sll=40.73111859999999,-74.0031248&ll=40.73111859999999,-74.0031248" target="_blank">Faicco’s Italian Specialties</a></div>
+    <div><a href="https://maps.google.com/maps?q=Faicco's&sll=40.73111859999999,-74.0031248&ll=40.73111859999999,-74.0031248" target="_blank">Faicco's</a></div>
     <div style="white-space: pre;">$$  |  West Village, New York, NY</div>
     <div></div>
 </td>
@@ -2832,7 +2832,7 @@ td {
 <td style="text-align: right">240.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=OtsY&sll=41.6955638,44.80646950000001&ll=41.6955638,44.80646950000001" target="_blank">OtsY</a></div>
-    <div style="white-space: pre;">T'bilisi</div>
+    <div style="white-space: pre;">Tbilisi</div>
     <div><a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/237037/f69d5871-2932-4f68-9157-38b9733ff5a9/images/p2gqzsxf5aogii2nvyd.jpg">Khachapuri</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/237037/f69d5871-2932-4f68-9157-38b9733ff5a9/images/8o0mfrb1r4rlle8cnpe.jpg">Pkhali</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/237037/f69d5871-2932-4f68-9157-38b9733ff5a9/images/bpp0nxx57pr7dqk4433.jpg">Shkmeruli</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/237037/f69d5871-2932-4f68-9157-38b9733ff5a9/images/k9jjdop2ljhr18z6li2.jpg">Steak</a></div>
 </td>
 <td class="fine">5.8</td>
@@ -2865,7 +2865,7 @@ td {
 <td style="text-align: right">243.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Bæjarins Beztu Pylsur&sll=64.1482785,-21.937986&ll=64.1482785,-21.937986" target="_blank">Bæjarins Beztu Pylsur</a></div>
-    <div style="white-space: pre;">$  |  Centre, Reykjavik</div>
+    <div style="white-space: pre;">$  |  Centre, Reykjavík</div>
     <div><a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/12979/f69d5871-2932-4f68-9157-38b9733ff5a9/images/zxoo2mr03aebe46uie.jpg">Hotdog</a></div>
 </td>
 <td class="fine">5.4</td>
@@ -2964,7 +2964,7 @@ td {
 <td style="text-align: right">252.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Café Loki&sll=64.14240269999999,-21.9288523&ll=64.14240269999999,-21.9288523" target="_blank">Café Loki</a></div>
-    <div style="white-space: pre;">$$  |  Downtown, Reykjavik</div>
+    <div style="white-space: pre;">$$  |  Downtown, Reykjavík</div>
     <div><a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/87988/f69d5871-2932-4f68-9157-38b9733ff5a9/images/5vu8jwnmesvi74hegtq.jpg">Thor</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/87988/f69d5871-2932-4f68-9157-38b9733ff5a9/images/rxhjf95piof8d10p8oc.jpg">Rye bread ice cream</a></div>
 </td>
 <td class="fine">4.1</td>
@@ -3007,7 +3007,7 @@ td {
 <tr class="ny">
 <td style="text-align: right">256.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=Pisillo Panini Italiani&sll=40.71055399999999,-74.007593&ll=40.71055399999999,-74.007593" target="_blank">Pisillo Panini Italiani</a></div>
+    <div><a href="https://maps.google.com/maps?q=Pisillo Italian Panini&sll=40.71055399999999,-74.007593&ll=40.71055399999999,-74.007593" target="_blank">Pisillo Italian Panini</a></div>
     <div style="white-space: pre;">$$  |  Financial District, New York, NY</div>
     <div></div>
 </td>
