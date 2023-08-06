@@ -584,8 +584,19 @@ td {
 <td style="text-align: right"></td>
 </tr>
         
-<tr class="la">
+<tr class="ny">
 <td style="text-align: right">36.</td>
+<td style="text-align: left; padding-right: 20px">
+    <div><a href="https://maps.google.com/maps?q=Little Charli&sll=40.7315345,-74.0029626&ll=40.7315345,-74.0029626" target="_blank">Little Charli</a></div>
+    <div style="white-space: pre;">South Village, New York, NY</div>
+    <div><a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/106309/f69d5871-2932-4f68-9157-38b9733ff5a9/images/cpkrpet8aytckwz1p83.jpg">Margherita</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/106309/f69d5871-2932-4f68-9157-38b9733ff5a9/images/td4hs023mbfvff8mxe.jpg">Watermelon Feta Salad</a></div>
+</td>
+<td class="good">9.5</td>
+<td style="text-align: right"></td>
+</tr>
+        
+<tr class="la">
+<td style="text-align: right">37.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Kogi Taqueria&sll=34.0254393,-118.4118908&ll=34.0254393,-118.4118908" target="_blank">Kogi Taqueria</a></div>
     <div style="white-space: pre;">$  |  Palms, Los Angeles, CA</div>
@@ -596,7 +607,7 @@ td {
 </tr>
         
 <tr class="la">
-<td style="text-align: right">37.</td>
+<td style="text-align: right">38.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Oste&sll=34.0721029,-118.3673558&ll=34.0721029,-118.3673558" target="_blank">Oste</a></div>
     <div style="white-space: pre;">Beverly Grove, Los Angeles, CA</div>
@@ -607,7 +618,7 @@ td {
 </tr>
         
 <tr class="japan">
-<td style="text-align: right">38.</td>
+<td style="text-align: right">39.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Daitsune Udon&sll=35.66732870000001,139.7652749&ll=35.66732870000001,139.7652749" target="_blank">Daitsune Udon</a></div>
     <div style="white-space: pre;">$  |  Tokyo</div>
@@ -618,7 +629,7 @@ td {
 </tr>
         
 <tr class="la">
-<td style="text-align: right">39.</td>
+<td style="text-align: right">40.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Din Tai Fung&sll=34.05818,-118.41751&ll=34.05818,-118.41751" target="_blank">Din Tai Fung</a></div>
     <div style="white-space: pre;">$$  |  Century City, Los Angeles, CA</div>
@@ -629,7 +640,7 @@ td {
 </tr>
         
 <tr class="other">
-<td style="text-align: right">40.</td>
+<td style="text-align: right">41.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Din Tai Fung&sll=1.2806453,103.8537135&ll=1.2806453,103.8537135" target="_blank">Din Tai Fung</a></div>
     <div style="white-space: pre;">$$  |  Downtown Core, Singapore</div>
@@ -640,7 +651,7 @@ td {
 </tr>
         
 <tr class="la">
-<td style="text-align: right">41.</td>
+<td style="text-align: right">42.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Pizzeria Mozza&sll=34.08312,-118.33887&ll=34.08312,-118.33887" target="_blank">Pizzeria Mozza</a></div>
     <div style="white-space: pre;">$$  |  Melrose, Los Angeles, CA</div>
@@ -651,7 +662,7 @@ td {
 </tr>
         
 <tr class="la">
-<td style="text-align: right">42.</td>
+<td style="text-align: right">43.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Robata JINYA - 3rd St.&sll=34.0718991,-118.3655948&ll=34.0718991,-118.3655948" target="_blank">Robata JINYA - 3rd St.</a></div>
     <div style="white-space: pre;">$$  |  Beverly Grove, Los Angeles, CA</div>
@@ -662,7 +673,7 @@ td {
 </tr>
         
 <tr class="bay">
-<td style="text-align: right">43.</td>
+<td style="text-align: right">44.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Tane Vegan Izakaya&sll=37.8727536,-122.2688005&ll=37.8727536,-122.2688005" target="_blank">Tane Vegan Izakaya</a></div>
     <div style="white-space: pre;">Downtown Berkeley, Berkeley, CA</div>
@@ -673,7 +684,7 @@ td {
 </tr>
         
 <tr class="bay">
-<td style="text-align: right">44.</td>
+<td style="text-align: right">45.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Great China&sll=37.86767,-122.26615&ll=37.86767,-122.26615" target="_blank">Great China</a></div>
     <div style="white-space: pre;">$$  |  Downtown Berkeley, Berkeley, CA</div>
@@ -684,7 +695,7 @@ td {
 </tr>
         
 <tr class="la">
-<td style="text-align: right">45.</td>
+<td style="text-align: right">46.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Boba Guys Culver City&sll=34.0272097,-118.3873187&ll=34.0272097,-118.3873187" target="_blank">Boba Guys Culver City</a></div>
     <div style="white-space: pre;">$  |  Lucerne - Higuera, Culver City, CA</div>
@@ -695,7 +706,7 @@ td {
 </tr>
         
 <tr class="bay">
-<td style="text-align: right">46.</td>
+<td style="text-align: right">47.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Berkeley Social Club&sll=37.8718537,-122.2694812&ll=37.8718537,-122.2694812" target="_blank">Berkeley Social Club</a></div>
     <div style="white-space: pre;">$$  |  Downtown Berkeley, Berkeley, CA</div>
@@ -706,7 +717,7 @@ td {
 </tr>
         
 <tr class="la">
-<td style="text-align: right">47.</td>
+<td style="text-align: right">48.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Gjusta&sll=33.99527,-118.47454&ll=33.99527,-118.47454" target="_blank">Gjusta</a></div>
     <div style="white-space: pre;">$$  |  Venice, Los Angeles, CA</div>
@@ -717,7 +728,7 @@ td {
 </tr>
         
 <tr class="la">
-<td style="text-align: right">48.</td>
+<td style="text-align: right">49.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=dan modern chinese&sll=34.0396837,-118.442943&ll=34.0396837,-118.442943" target="_blank">dan modern chinese</a></div>
     <div style="white-space: pre;">$$  |  Sawtelle Japantown, Los Angeles, CA</div>
@@ -728,21 +739,10 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">49.</td>
+<td style="text-align: right">50.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Atoboy&sll=40.743663,-73.984537&ll=40.743663,-73.984537" target="_blank">Atoboy</a></div>
     <div style="white-space: pre;">$$  |  Rose Hill, New York, NY</div>
-    <div></div>
-</td>
-<td class="good">9.3</td>
-<td style="text-align: right"></td>
-</tr>
-        
-<tr class="bay">
-<td style="text-align: right">50.</td>
-<td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=Cheese Board Collective Pizzeria&sll=37.87987,-122.26948&ll=37.87987,-122.26948" target="_blank">Cheese Board Collective Pizzeria</a></div>
-    <div style="white-space: pre;">$  |  North Berkeley, Berkeley, CA</div>
     <div></div>
 </td>
 <td class="good">9.3</td>
@@ -771,8 +771,19 @@ td {
 <td style="text-align: right"></td>
 </tr>
         
-<tr class="ny">
+<tr class="bay">
 <td style="text-align: right">53.</td>
+<td style="text-align: left; padding-right: 20px">
+    <div><a href="https://maps.google.com/maps?q=The Cheeseboard Pizza&sll=37.87987,-122.26948&ll=37.87987,-122.26948" target="_blank">The Cheeseboard Pizza</a></div>
+    <div style="white-space: pre;">$  |  North Berkeley, Berkeley, CA</div>
+    <div></div>
+</td>
+<td class="good">9.3</td>
+<td style="text-align: right"></td>
+</tr>
+        
+<tr class="ny">
+<td style="text-align: right">54.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=ACRE&sll=40.7262812,-73.9546988&ll=40.7262812,-73.9546988" target="_blank">ACRE</a></div>
     <div style="white-space: pre;">$$  |  Greenpoint, New York, NY</div>
@@ -783,7 +794,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">54.</td>
+<td style="text-align: right">55.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Rosella's Pizzeria&sll=40.7100678,-74.005622&ll=40.7100678,-74.005622" target="_blank">Rosella's Pizzeria</a></div>
     <div style="white-space: pre;">$  |  Financial District, New York, NY</div>
@@ -794,7 +805,7 @@ td {
 </tr>
         
 <tr class="la">
-<td style="text-align: right">55.</td>
+<td style="text-align: right">56.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Killer Noodle Tsujita&sll=34.0403685,-118.4427905&ll=34.0403685,-118.4427905" target="_blank">Killer Noodle Tsujita</a></div>
     <div style="white-space: pre;">$$  |  Sawtelle Japantown, Los Angeles, CA</div>
@@ -805,7 +816,7 @@ td {
 </tr>
         
 <tr class="other">
-<td style="text-align: right">56.</td>
+<td style="text-align: right">57.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Lardo&sll=19.4179112,-99.1752808&ll=19.4179112,-99.1752808" target="_blank">Lardo</a></div>
     <div style="white-space: pre;">$$  |  MATERIALDF, Mexico City</div>
@@ -816,7 +827,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">57.</td>
+<td style="text-align: right">58.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Los Tacos No.1&sll=40.74225209999999,-74.0059635&ll=40.74225209999999,-74.0059635" target="_blank">Los Tacos No.1</a></div>
     <div style="white-space: pre;">$  |  Chelsea, New York, NY</div>
@@ -827,7 +838,7 @@ td {
 </tr>
         
 <tr class="other">
-<td style="text-align: right">58.</td>
+<td style="text-align: right">59.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=St. Kilda Cafe & Bakery&sll=41.5812025,-93.62168129999999&ll=41.5812025,-93.62168129999999" target="_blank">St. Kilda Cafe & Bakery</a></div>
     <div style="white-space: pre;">$$  |  Downtown Des Moines, Des Moines, IA</div>
@@ -838,7 +849,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">59.</td>
+<td style="text-align: right">60.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Semma&sll=40.7360304,-74.0005639&ll=40.7360304,-74.0005639" target="_blank">Semma</a></div>
     <div style="white-space: pre;">$$$$  |  West Village, New York, NY</div>
@@ -849,7 +860,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">60.</td>
+<td style="text-align: right">61.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Jua&sll=40.73967789999999,-73.9878514&ll=40.73967789999999,-73.9878514" target="_blank">Jua</a></div>
     <div style="white-space: pre;">$$$  |  Flatiron District, New York, NY</div>
@@ -860,18 +871,18 @@ td {
 </tr>
         
 <tr class="la">
-<td style="text-align: right">61.</td>
+<td style="text-align: right">62.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Felix Trattoria&sll=33.99224,-118.47187&ll=33.99224,-118.47187" target="_blank">Felix Trattoria</a></div>
     <div style="white-space: pre;">$$$$  |  Venice, Los Angeles, CA</div>
     <div></div>
 </td>
-<td class="good">9.2</td>
+<td class="good">9.1</td>
 <td style="text-align: right"></td>
 </tr>
         
 <tr class="bay">
-<td style="text-align: right">62.</td>
+<td style="text-align: right">63.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Chez Panisse&sll=37.87959,-122.26893&ll=37.87959,-122.26893" target="_blank">Chez Panisse</a></div>
     <div style="white-space: pre;">$$$$  |  North Berkeley, Berkeley, CA</div>
@@ -882,7 +893,7 @@ td {
 </tr>
         
 <tr class="la">
-<td style="text-align: right">63.</td>
+<td style="text-align: right">64.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Joy&sll=34.12083,-118.20472&ll=34.12083,-118.20472" target="_blank">Joy</a></div>
     <div style="white-space: pre;">$$  |  Northeast Los Angeles, Los Angeles, CA</div>
@@ -893,7 +904,7 @@ td {
 </tr>
         
 <tr class="japan">
-<td style="text-align: right">64.</td>
+<td style="text-align: right">65.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Yasohachi&sll=35.0066438,135.7709929&ll=35.0066438,135.7709929" target="_blank">Yasohachi</a></div>
     <div style="white-space: pre;">$$  |  Kyoto</div>
@@ -904,7 +915,7 @@ td {
 </tr>
         
 <tr class="bay">
-<td style="text-align: right">65.</td>
+<td style="text-align: right">66.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Din Tai Fung&sll=37.32623,-121.94409&ll=37.32623,-121.94409" target="_blank">Din Tai Fung</a></div>
     <div style="white-space: pre;">$$  |  Cory, Santa Clara, CA</div>
@@ -915,7 +926,7 @@ td {
 </tr>
         
 <tr class="japan">
-<td style="text-align: right">66.</td>
+<td style="text-align: right">67.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Sushi-Maru&sll=34.98528619999999,135.7742262&ll=34.98528619999999,135.7742262" target="_blank">Sushi-Maru</a></div>
     <div style="white-space: pre;">$  |  京都府</div>
@@ -926,7 +937,7 @@ td {
 </tr>
         
 <tr class="bay">
-<td style="text-align: right">67.</td>
+<td style="text-align: right">68.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Imm Thai Street Food&sll=37.8719,-122.26911&ll=37.8719,-122.26911" target="_blank">Imm Thai Street Food</a></div>
     <div style="white-space: pre;">$  |  Downtown Berkeley, Berkeley, CA</div>
@@ -937,18 +948,18 @@ td {
 </tr>
         
 <tr class="other">
-<td style="text-align: right">68.</td>
+<td style="text-align: right">69.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Gloria&sll=51.5251057,-0.08135139999999999&ll=51.5251057,-0.08135139999999999" target="_blank">Gloria</a></div>
     <div style="white-space: pre;">$$  |  East London Tech City, London</div>
     <div></div>
 </td>
-<td class="good">9.1</td>
+<td class="good">9.0</td>
 <td style="text-align: right"></td>
 </tr>
         
 <tr class="japan">
-<td style="text-align: right">69.</td>
+<td style="text-align: right">70.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Honke Owariya&sll=35.0034755,135.7689368&ll=35.0034755,135.7689368" target="_blank">Honke Owariya</a></div>
     <div style="white-space: pre;">$$  |  Kyoto</div>
@@ -959,7 +970,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">70.</td>
+<td style="text-align: right">71.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Thai Villa&sll=40.73898519999999,-73.99070019999999&ll=40.73898519999999,-73.99070019999999" target="_blank">Thai Villa</a></div>
     <div style="white-space: pre;">$$  |  Flatiron District, New York, NY</div>
@@ -970,7 +981,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">71.</td>
+<td style="text-align: right">72.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=L'Industrie Pizzeria&sll=40.7116053,-73.9578691&ll=40.7116053,-73.9578691" target="_blank">L'Industrie Pizzeria</a></div>
     <div style="white-space: pre;">$  |  Williamsburg, New York, NY</div>
@@ -981,7 +992,7 @@ td {
 </tr>
         
 <tr class="georgia">
-<td style="text-align: right">72.</td>
+<td style="text-align: right">73.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Laila&sll=43.0433288,42.7247292&ll=43.0433288,42.7247292" target="_blank">Laila</a></div>
     <div style="white-space: pre;">$$  |  Mestia</div>
@@ -992,7 +1003,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">73.</td>
+<td style="text-align: right">74.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Forma Pasta Factory&sll=40.72379290000001,-73.9515182&ll=40.72379290000001,-73.9515182" target="_blank">Forma Pasta Factory</a></div>
     <div style="white-space: pre;">$$  |  Greenpoint, New York, NY</div>
@@ -1003,7 +1014,7 @@ td {
 </tr>
         
 <tr class="georgia">
-<td style="text-align: right">74.</td>
+<td style="text-align: right">75.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Sofia Melnikova’s Fantastic Douqan&sll=41.69960219999999,44.7985587&ll=41.69960219999999,44.7985587" target="_blank">Sofia Melnikova’s Fantastic Douqan</a></div>
     <div style="white-space: pre;">$$  |  Tbilisi</div>
@@ -1014,18 +1025,18 @@ td {
 </tr>
         
 <tr class="japan">
-<td style="text-align: right">75.</td>
+<td style="text-align: right">76.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Seirinkan&sll=35.64291830000001,139.6990627&ll=35.64291830000001,139.6990627" target="_blank">Seirinkan</a></div>
     <div style="white-space: pre;">$$  |  Tokyo</div>
     <div><a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/140627/f69d5871-2932-4f68-9157-38b9733ff5a9/images/b1y7ntqc3ca6yirtts3.jpg">Marinara</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/140627/f69d5871-2932-4f68-9157-38b9733ff5a9/images/tf624c7mjrkopgq898.jpg">Margherita</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/140627/f69d5871-2932-4f68-9157-38b9733ff5a9/images/7ek3wfruq2iukwd29x9.jpg">Broccoli</a></div>
 </td>
-<td class="good">9.0</td>
+<td class="good">8.9</td>
 <td style="text-align: right"></td>
 </tr>
         
 <tr class="other">
-<td style="text-align: right">76.</td>
+<td style="text-align: right">77.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Artichoke&sll=1.2995512,103.8519462&ll=1.2995512,103.8519462" target="_blank">Artichoke</a></div>
     <div style="white-space: pre;">$$  |  Bras Basah, Singapore</div>
@@ -1036,7 +1047,7 @@ td {
 </tr>
         
 <tr class="la">
-<td style="text-align: right">77.</td>
+<td style="text-align: right">78.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Jon & Vinny's Fairfax&sll=34.07865,-118.36122&ll=34.07865,-118.36122" target="_blank">Jon & Vinny's Fairfax</a></div>
     <div style="white-space: pre;">$$  |  Fairfax, Los Angeles, CA</div>
@@ -1047,7 +1058,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">78.</td>
+<td style="text-align: right">79.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=La Pizza & La Pasta at Eataly Downtown&sll=40.7100647,-74.0119758&ll=40.7100647,-74.0119758" target="_blank">La Pizza & La Pasta at Eataly Downtown</a></div>
     <div style="white-space: pre;">World Trade Center, New York, NY</div>
@@ -1058,7 +1069,7 @@ td {
 </tr>
         
 <tr class="bay">
-<td style="text-align: right">79.</td>
+<td style="text-align: right">80.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Marugame Udon&sll=37.8733801,-122.2682974&ll=37.8733801,-122.2682974" target="_blank">Marugame Udon</a></div>
     <div style="white-space: pre;">$$  |  Downtown Berkeley, Berkeley, CA</div>
@@ -1069,7 +1080,7 @@ td {
 </tr>
         
 <tr class="la">
-<td style="text-align: right">80.</td>
+<td style="text-align: right">81.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Marugame Udon&sll=34.0401035,-118.4431794&ll=34.0401035,-118.4431794" target="_blank">Marugame Udon</a></div>
     <div style="white-space: pre;">$  |  Sawtelle Japantown, Los Angeles, CA</div>
@@ -1080,7 +1091,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">81.</td>
+<td style="text-align: right">82.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Old Tbilisi Garden&sll=40.72879599999999,-74.00079199999999&ll=40.72879599999999,-74.00079199999999" target="_blank">Old Tbilisi Garden</a></div>
     <div style="white-space: pre;">$$  |  South Village, New York, NY</div>
@@ -1091,18 +1102,18 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">82.</td>
+<td style="text-align: right">83.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Burmese Bites&sll=40.73443679999999,-73.8699596&ll=40.73443679999999,-73.8699596" target="_blank">Burmese Bites</a></div>
     <div style="white-space: pre;">Elmhurst, New York, NY</div>
     <div><a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/93167/f69d5871-2932-4f68-9157-38b9733ff5a9/images/1vrpw7t9q11f160qpvg.jpg">Coconut Chicken Noodle Soup</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/93167/f69d5871-2932-4f68-9157-38b9733ff5a9/images/jdz3rfkgks9pc8i69u2.jpg">Keema Palata</a></div>
 </td>
-<td class="good">8.9</td>
+<td class="good">8.8</td>
 <td style="text-align: right"></td>
 </tr>
         
 <tr class="bay">
-<td style="text-align: right">83.</td>
+<td style="text-align: right">84.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Feng Cha Teahouse - Berkeley&sll=37.86781690000001,-122.2576606&ll=37.86781690000001,-122.2576606" target="_blank">Feng Cha Teahouse - Berkeley</a></div>
     <div style="white-space: pre;">$  |  Southside, Berkeley, CA</div>
@@ -1113,7 +1124,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">84.</td>
+<td style="text-align: right">85.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Prince Street Pizza&sll=40.723084,-73.994528&ll=40.723084,-73.994528" target="_blank">Prince Street Pizza</a></div>
     <div style="white-space: pre;">$  |  Nolita, New York, NY</div>
@@ -1124,7 +1135,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">85.</td>
+<td style="text-align: right">86.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Veselka&sll=40.7290155,-73.9871139&ll=40.7290155,-73.9871139" target="_blank">Veselka</a></div>
     <div style="white-space: pre;">$$  |  East Village, New York, NY</div>
@@ -1135,7 +1146,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">86.</td>
+<td style="text-align: right">87.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Via Carota&sll=40.73314369999999,-74.0036671&ll=40.73314369999999,-74.0036671" target="_blank">Via Carota</a></div>
     <div style="white-space: pre;">$$$  |  West Village, New York, NY</div>
@@ -1146,7 +1157,7 @@ td {
 </tr>
         
 <tr class="other">
-<td style="text-align: right">87.</td>
+<td style="text-align: right">88.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Burnt Ends&sll=1.280543,103.8418394&ll=1.280543,103.8418394" target="_blank">Burnt Ends</a></div>
     <div style="white-space: pre;">$$$  |  Outram, Singapore</div>
@@ -1157,7 +1168,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">88.</td>
+<td style="text-align: right">89.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Oxomoco&sll=40.7298214,-73.95547599999999&ll=40.7298214,-73.95547599999999" target="_blank">Oxomoco</a></div>
     <div style="white-space: pre;">$$$  |  Greenpoint, New York, NY</div>
@@ -1168,7 +1179,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">89.</td>
+<td style="text-align: right">90.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Chinese Tuxedo&sll=40.7143302,-73.9980357&ll=40.7143302,-73.9980357" target="_blank">Chinese Tuxedo</a></div>
     <div style="white-space: pre;">$$$  |  Chinatown, New York, NY</div>
@@ -1179,7 +1190,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">90.</td>
+<td style="text-align: right">91.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Au Za'atar&sll=40.7289046,-73.98117239999999&ll=40.7289046,-73.98117239999999" target="_blank">Au Za'atar</a></div>
     <div style="white-space: pre;">$$  |  East Village, New York, NY</div>
@@ -1190,7 +1201,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">91.</td>
+<td style="text-align: right">92.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Au Za'atar&sll=40.7589866,-73.96275159999999&ll=40.7589866,-73.96275159999999" target="_blank">Au Za'atar</a></div>
     <div style="white-space: pre;">$$  |  Sutton Place, New York, NY</div>
@@ -1201,7 +1212,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">92.</td>
+<td style="text-align: right">93.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Ubani&sll=40.72963710000001,-74.0039049&ll=40.72963710000001,-74.0039049" target="_blank">Ubani</a></div>
     <div style="white-space: pre;">$$  |  South Village, New York, NY</div>
@@ -1212,7 +1223,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">93.</td>
+<td style="text-align: right">94.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Taqueria Ramirez&sll=40.7278726,-73.95696989999999&ll=40.7278726,-73.95696989999999" target="_blank">Taqueria Ramirez</a></div>
     <div style="white-space: pre;">$  |  Greenpoint, New York, NY</div>
@@ -1223,7 +1234,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">94.</td>
+<td style="text-align: right">95.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Miss Ada&sll=40.689425,-73.9723664&ll=40.689425,-73.9723664" target="_blank">Miss Ada</a></div>
     <div style="white-space: pre;">$$  |  Fort Greene, New York, NY</div>
@@ -1234,7 +1245,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">95.</td>
+<td style="text-align: right">96.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Crown Shy&sll=40.70650469999999,-74.00777149999999&ll=40.70650469999999,-74.00777149999999" target="_blank">Crown Shy</a></div>
     <div style="white-space: pre;">$$$  |  Financial District, New York, NY</div>
@@ -1245,7 +1256,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">96.</td>
+<td style="text-align: right">97.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Le Bernardin&sll=40.7615691,-73.98180479999999&ll=40.7615691,-73.98180479999999" target="_blank">Le Bernardin</a></div>
     <div style="white-space: pre;">$$$$  |  Theater District, New York, NY</div>
@@ -1256,7 +1267,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">97.</td>
+<td style="text-align: right">98.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=L'Artusi&sll=40.7337833,-74.00513959999999&ll=40.7337833,-74.00513959999999" target="_blank">L'Artusi</a></div>
     <div style="white-space: pre;">$$$  |  West Village, New York, NY</div>
@@ -1267,7 +1278,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">98.</td>
+<td style="text-align: right">99.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Lemongrass Brooklyn&sll=40.68867339999999,-73.99312359999999&ll=40.68867339999999,-73.99312359999999" target="_blank">Lemongrass Brooklyn</a></div>
     <div style="white-space: pre;">$  |  Cobble Hill, New York, NY</div>
@@ -1278,7 +1289,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">99.</td>
+<td style="text-align: right">100.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Shanghai You Garden&sll=40.7588918,-73.8304711&ll=40.7588918,-73.8304711" target="_blank">Shanghai You Garden</a></div>
     <div style="white-space: pre;">$  |  Flushing, New York, NY</div>
@@ -1289,7 +1300,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">100.</td>
+<td style="text-align: right">101.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Dhamaka&sll=40.71806580000001,-73.9881304&ll=40.71806580000001,-73.9881304" target="_blank">Dhamaka</a></div>
     <div style="white-space: pre;">$$$  |  Lower East Side, New York, NY</div>
@@ -1300,7 +1311,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">101.</td>
+<td style="text-align: right">102.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Farm To People - Kitchen, Bar & Online Farmers Market&sll=40.7052363,-73.9269348&ll=40.7052363,-73.9269348" target="_blank">Farm To People - Kitchen, Bar & Online Farmers Market</a></div>
     <div style="white-space: pre;">East Williamsburg, New York, NY</div>
@@ -1311,7 +1322,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">102.</td>
+<td style="text-align: right">103.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Sonnyboy&sll=40.7205154,-73.9901841&ll=40.7205154,-73.9901841" target="_blank">Sonnyboy</a></div>
     <div style="white-space: pre;">$$  |  Bowery, New York, NY</div>
@@ -1322,18 +1333,29 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">103.</td>
+<td style="text-align: right">104.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=Menkoi Sato&sll=40.7317786,-74.0016198&ll=40.7317786,-74.0016198" target="_blank">Menkoi Sato</a></div>
-    <div style="white-space: pre;">$$$  |  South Village, New York, NY</div>
-    <div><a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/6564/f69d5871-2932-4f68-9157-38b9733ff5a9/images/z1bvccms1mpcdpja39.jpg">Spicy Miso Vegetarian</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/6564/f69d5871-2932-4f68-9157-38b9733ff5a9/images/u8vl07wq68bjhm5i3a5.jpg">Cold Tantan</a></div>
+    <div><a href="https://maps.google.com/maps?q=Utopia Bagels&sll=40.7802213,-73.79374059999999&ll=40.7802213,-73.79374059999999" target="_blank">Utopia Bagels</a></div>
+    <div style="white-space: pre;">$  |  Whitestone, New York, NY</div>
+    <div><a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/4347/f69d5871-2932-4f68-9157-38b9733ff5a9/images/b3f7xuh2mrxyo66ntb.jpg">Sausage egg cheese on egg everything</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/4347/f69d5871-2932-4f68-9157-38b9733ff5a9/images/3l8kcurhmpbieq6l13i.jpg">Bagels</a></div>
 </td>
 <td class="good">8.6</td>
 <td style="text-align: right"></td>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">104.</td>
+<td style="text-align: right">105.</td>
+<td style="text-align: left; padding-right: 20px">
+    <div><a href="https://maps.google.com/maps?q=Menkoi Sato&sll=40.7317786,-74.0016198&ll=40.7317786,-74.0016198" target="_blank">Menkoi Sato</a></div>
+    <div style="white-space: pre;">$$$  |  South Village, New York, NY</div>
+    <div><a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/6564/f69d5871-2932-4f68-9157-38b9733ff5a9/images/z1bvccms1mpcdpja39.jpg">Spicy Miso Vegetarian</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/6564/f69d5871-2932-4f68-9157-38b9733ff5a9/images/u8vl07wq68bjhm5i3a5.jpg">Cold Tantan</a></div>
+</td>
+<td class="good">8.5</td>
+<td style="text-align: right"></td>
+</tr>
+        
+<tr class="ny">
+<td style="text-align: right">106.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Saigon Shack&sll=40.7296889,-74.000625&ll=40.7296889,-74.000625" target="_blank">Saigon Shack</a></div>
     <div style="white-space: pre;">$  |  South Village, New York, NY</div>
@@ -1344,7 +1366,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">105.</td>
+<td style="text-align: right">107.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=dhom&sll=40.7290594,-73.9809167&ll=40.7290594,-73.9809167" target="_blank">dhom</a></div>
     <div style="white-space: pre;">Alphabet City, New York, NY</div>
@@ -1355,7 +1377,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">106.</td>
+<td style="text-align: right">108.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Golden Diner&sll=40.7124333,-73.9941082&ll=40.7124333,-73.9941082" target="_blank">Golden Diner</a></div>
     <div style="white-space: pre;">$$  |  Two Bridges, New York, NY</div>
@@ -1366,7 +1388,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">107.</td>
+<td style="text-align: right">109.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Baker & Co&sll=40.73134230000001,-74.0028995&ll=40.73134230000001,-74.0028995" target="_blank">Baker & Co</a></div>
     <div style="white-space: pre;">$$  |  South Village, New York, NY</div>
@@ -1377,7 +1399,7 @@ td {
 </tr>
         
 <tr class="bay">
-<td style="text-align: right">108.</td>
+<td style="text-align: right">110.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Comal&sll=37.87158069999999,-122.2686336&ll=37.87158069999999,-122.2686336" target="_blank">Comal</a></div>
     <div style="white-space: pre;">$$  |  Downtown Berkeley, Berkeley, CA</div>
@@ -1388,7 +1410,7 @@ td {
 </tr>
         
 <tr class="la">
-<td style="text-align: right">109.</td>
+<td style="text-align: right">111.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Seoul Tofu&sll=34.0392489,-118.4426108&ll=34.0392489,-118.4426108" target="_blank">Seoul Tofu</a></div>
     <div style="white-space: pre;">$$  |  Los Angeles, CA</div>
@@ -1399,7 +1421,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">110.</td>
+<td style="text-align: right">112.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Streecha&sll=40.7284756,-73.9889486&ll=40.7284756,-73.9889486" target="_blank">Streecha</a></div>
     <div style="white-space: pre;">$  |  Ukrainian Village, New York, NY</div>
@@ -1410,7 +1432,7 @@ td {
 </tr>
         
 <tr class="la">
-<td style="text-align: right">111.</td>
+<td style="text-align: right">113.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Animal Restaurant&sll=34.07924,-118.36178&ll=34.07924,-118.36178" target="_blank">Animal Restaurant</a></div>
     <div style="white-space: pre;">$$$  |  Beverly Grove, Los Angeles, CA</div>
@@ -1421,7 +1443,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">112.</td>
+<td style="text-align: right">114.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Jongro BBQ&sll=40.7475891,-73.986913&ll=40.7475891,-73.986913" target="_blank">Jongro BBQ</a></div>
     <div style="white-space: pre;">$$  |  Midtown South, New York, NY</div>
@@ -1432,7 +1454,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">113.</td>
+<td style="text-align: right">115.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Euljiro Korean Bistro&sll=40.73198989999999,-74.0039956&ll=40.73198989999999,-74.0039956" target="_blank">Euljiro Korean Bistro</a></div>
     <div style="white-space: pre;">West Village, New York, NY</div>
@@ -1443,7 +1465,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">114.</td>
+<td style="text-align: right">116.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Thai Diner&sll=40.7206929,-73.9956057&ll=40.7206929,-73.9956057" target="_blank">Thai Diner</a></div>
     <div style="white-space: pre;">$$  |  Nolita, New York, NY</div>
@@ -1454,7 +1476,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">115.</td>
+<td style="text-align: right">117.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Chama Mama&sll=40.73844129999999,-73.9988997&ll=40.73844129999999,-73.9988997" target="_blank">Chama Mama</a></div>
     <div style="white-space: pre;">$$  |  Chelsea, New York, NY</div>
@@ -1465,7 +1487,7 @@ td {
 </tr>
         
 <tr class="bay">
-<td style="text-align: right">116.</td>
+<td style="text-align: right">118.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Grégoire Restaurant&sll=37.87858,-122.26858&ll=37.87858,-122.26858" target="_blank">Grégoire Restaurant</a></div>
     <div style="white-space: pre;">$$  |  North Berkeley, Berkeley, CA</div>
@@ -1476,7 +1498,7 @@ td {
 </tr>
         
 <tr class="other">
-<td style="text-align: right">117.</td>
+<td style="text-align: right">119.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Ottolenghi Spitalfields&sll=51.5182265,-0.0771835&ll=51.5182265,-0.0771835" target="_blank">Ottolenghi Spitalfields</a></div>
     <div style="white-space: pre;">$$$  |  London</div>
@@ -1487,7 +1509,7 @@ td {
 </tr>
         
 <tr class="la">
-<td style="text-align: right">118.</td>
+<td style="text-align: right">120.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Sugarfish&sll=34.0734652,-118.3442974&ll=34.0734652,-118.3442974" target="_blank">Sugarfish</a></div>
     <div style="white-space: pre;">$$$  |  La Brea, Los Angeles, CA</div>
@@ -1498,7 +1520,7 @@ td {
 </tr>
         
 <tr class="other">
-<td style="text-align: right">119.</td>
+<td style="text-align: right">121.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Shikar&sll=1.2795541,103.8445551&ll=1.2795541,103.8445551" target="_blank">Shikar</a></div>
     <div style="white-space: pre;">Chinatown, Singapore</div>
@@ -1509,7 +1531,7 @@ td {
 </tr>
         
 <tr class="georgia">
-<td style="text-align: right">120.</td>
+<td style="text-align: right">122.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=The Kitchen&sll=41.7055556,44.78722219999999&ll=41.7055556,44.78722219999999" target="_blank">The Kitchen</a></div>
     <div style="white-space: pre;">$$$  |  Tbilisi</div>
@@ -1520,7 +1542,7 @@ td {
 </tr>
         
 <tr class="la">
-<td style="text-align: right">121.</td>
+<td style="text-align: right">123.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=MIAN West Adams&sll=34.032787,-118.357406&ll=34.032787,-118.357406" target="_blank">MIAN West Adams</a></div>
     <div style="white-space: pre;">Mid City, Los Angeles, CA</div>
@@ -1531,7 +1553,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">122.</td>
+<td style="text-align: right">124.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Buvette Gastrotheque&sll=40.7326259,-74.00432839999999&ll=40.7326259,-74.00432839999999" target="_blank">Buvette Gastrotheque</a></div>
     <div style="white-space: pre;">$$$  |  Greenwich Village, New York, NY</div>
@@ -1542,7 +1564,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">123.</td>
+<td style="text-align: right">125.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Katz's Delicatessen&sll=40.722233,-73.98742899999999&ll=40.722233,-73.98742899999999" target="_blank">Katz's Delicatessen</a></div>
     <div style="white-space: pre;">$$  |  Lower East Side, New York, NY</div>
@@ -1553,18 +1575,18 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">124.</td>
+<td style="text-align: right">126.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Kimura&sll=40.7290321,-73.9882174&ll=40.7290321,-73.9882174" target="_blank">Kimura</a></div>
     <div style="white-space: pre;">$$$  |  East Village, New York, NY</div>
     <div></div>
 </td>
-<td class="good">8.3</td>
+<td class="good">8.2</td>
 <td style="text-align: right"></td>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">125.</td>
+<td style="text-align: right">127.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Katana Kitten&sll=40.7342547,-74.0064852&ll=40.7342547,-74.0064852" target="_blank">Katana Kitten</a></div>
     <div style="white-space: pre;">$$  |  West Village, New York, NY</div>
@@ -1575,7 +1597,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">126.</td>
+<td style="text-align: right">128.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Bowery Meat Company&sll=40.7245665,-73.9918409&ll=40.7245665,-73.9918409" target="_blank">Bowery Meat Company</a></div>
     <div style="white-space: pre;">$$$  |  Bowery, New York, NY</div>
@@ -1586,7 +1608,7 @@ td {
 </tr>
         
 <tr class="la">
-<td style="text-align: right">127.</td>
+<td style="text-align: right">129.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=India's Grill&sll=34.0708687,-118.3757998&ll=34.0708687,-118.3757998" target="_blank">India's Grill</a></div>
     <div style="white-space: pre;">$$  |  Beverly Grove, Los Angeles, CA</div>
@@ -1597,7 +1619,7 @@ td {
 </tr>
         
 <tr class="la">
-<td style="text-align: right">128.</td>
+<td style="text-align: right">130.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Mogu Mogu&sll=34.035991,-118.4453795&ll=34.035991,-118.4453795" target="_blank">Mogu Mogu</a></div>
     <div style="white-space: pre;">$$  |  Los Angeles, CA</div>
@@ -1608,7 +1630,7 @@ td {
 </tr>
         
 <tr class="la">
-<td style="text-align: right">129.</td>
+<td style="text-align: right">131.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Mercado&sll=34.0713025,-118.3620613&ll=34.0713025,-118.3620613" target="_blank">Mercado</a></div>
     <div style="white-space: pre;">$$  |  La Brea, Los Angeles, CA</div>
@@ -1619,7 +1641,7 @@ td {
 </tr>
         
 <tr class="la">
-<td style="text-align: right">130.</td>
+<td style="text-align: right">132.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Northern Cafe&sll=34.0762222,-118.3751883&ll=34.0762222,-118.3751883" target="_blank">Northern Cafe</a></div>
     <div style="white-space: pre;">$$  |  Beverly Grove, Los Angeles, CA</div>
@@ -1630,18 +1652,18 @@ td {
 </tr>
         
 <tr class="la">
-<td style="text-align: right">131.</td>
+<td style="text-align: right">133.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Saucy Chick Rotisserie&sll=34.0583965,-118.1912102&ll=34.0583965,-118.1912102" target="_blank">Saucy Chick Rotisserie</a></div>
     <div style="white-space: pre;">Los Angeles, CA</div>
     <div><a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/180242/f69d5871-2932-4f68-9157-38b9733ff5a9/images/qmjx9uf2t0mua71lwzr.jpg">Birria, carne asada, cauliflower</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/180242/f69d5871-2932-4f68-9157-38b9733ff5a9/images/24ss1k596ny9kgj0enb.jpg">Chicken bowl</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/180242/f69d5871-2932-4f68-9157-38b9733ff5a9/images/1cfg9yxkpuwaxn4qikv.jpg">Esquites</a></div>
 </td>
-<td class="good">8.2</td>
+<td class="good">8.1</td>
 <td style="text-align: right"></td>
 </tr>
         
 <tr class="la">
-<td style="text-align: right">132.</td>
+<td style="text-align: right">134.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Escuela Taqueria&sll=34.0760255,-118.3523746&ll=34.0760255,-118.3523746" target="_blank">Escuela Taqueria</a></div>
     <div style="white-space: pre;">$$  |  Fairfax, Los Angeles, CA</div>
@@ -1652,7 +1674,7 @@ td {
 </tr>
         
 <tr class="bay">
-<td style="text-align: right">133.</td>
+<td style="text-align: right">135.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Red Hot Wok&sll=37.322093,-122.0148731&ll=37.322093,-122.0148731" target="_blank">Red Hot Wok</a></div>
     <div style="white-space: pre;">$$  |  Calvert, Cupertino, CA</div>
@@ -1663,7 +1685,7 @@ td {
 </tr>
         
 <tr class="bay">
-<td style="text-align: right">134.</td>
+<td style="text-align: right">136.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Tofu Plus Korean BBQ&sll=37.3362163,-122.0152609&ll=37.3362163,-122.0152609" target="_blank">Tofu Plus Korean BBQ</a></div>
     <div style="white-space: pre;">$$  |  Cupertino, CA</div>
@@ -1674,7 +1696,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">135.</td>
+<td style="text-align: right">137.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=PALPAL&sll=40.7457255,-73.98477749999999&ll=40.7457255,-73.98477749999999" target="_blank">PALPAL</a></div>
     <div style="white-space: pre;">Midtown South, New York, NY</div>
@@ -1685,7 +1707,7 @@ td {
 </tr>
         
 <tr class="other">
-<td style="text-align: right">136.</td>
+<td style="text-align: right">138.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Prairie Canary Restaurant & Bar&sll=41.744189,-92.725579&ll=41.744189,-92.725579" target="_blank">Prairie Canary Restaurant & Bar</a></div>
     <div style="white-space: pre;">$$  |  Grinnell, IA</div>
@@ -1696,7 +1718,7 @@ td {
 </tr>
         
 <tr class="japan">
-<td style="text-align: right">137.</td>
+<td style="text-align: right">139.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Kushiyaki Manten - Shijo Karasuma&sll=35.00430619999999,135.760996&ll=35.00430619999999,135.760996" target="_blank">Kushiyaki Manten - Shijo Karasuma</a></div>
     <div style="white-space: pre;">$$  |  Kyoto</div>
@@ -1707,18 +1729,18 @@ td {
 </tr>
         
 <tr class="la">
-<td style="text-align: right">138.</td>
+<td style="text-align: right">140.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Chinchikurin&sll=34.0390205,-118.4424146&ll=34.0390205,-118.4424146" target="_blank">Chinchikurin</a></div>
     <div style="white-space: pre;">$$  |  Sawtelle Japantown, Los Angeles, CA</div>
     <div><a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/51094/f69d5871-2932-4f68-9157-38b9733ff5a9/images/n544lal0vs9ba0issj0.jpg">Chinchkurin Yaki</a></div>
 </td>
-<td class="good">8.1</td>
+<td class="good">8.0</td>
 <td style="text-align: right"></td>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">139.</td>
+<td style="text-align: right">141.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Bessou&sll=40.72551,-73.9926697&ll=40.72551,-73.9926697" target="_blank">Bessou</a></div>
     <div style="white-space: pre;">$$  |  NoHo, New York, NY</div>
@@ -1729,7 +1751,7 @@ td {
 </tr>
         
 <tr class="la">
-<td style="text-align: right">140.</td>
+<td style="text-align: right">142.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Kismet&sll=34.10018,-118.29074&ll=34.10018,-118.29074" target="_blank">Kismet</a></div>
     <div style="white-space: pre;">$$  |  East Hollywood, Los Angeles, CA</div>
@@ -1740,7 +1762,7 @@ td {
 </tr>
         
 <tr class="bay">
-<td style="text-align: right">141.</td>
+<td style="text-align: right">143.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Ebiko&sll=37.8266924,-122.2518331&ll=37.8266924,-122.2518331" target="_blank">Ebiko</a></div>
     <div style="white-space: pre;">Piedmont Avenue, Oakland, CA</div>
@@ -1751,7 +1773,7 @@ td {
 </tr>
         
 <tr class="bay">
-<td style="text-align: right">142.</td>
+<td style="text-align: right">144.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Creekwood Restaurant&sll=37.8509806,-122.2782417&ll=37.8509806,-122.2782417" target="_blank">Creekwood Restaurant</a></div>
     <div style="white-space: pre;">$$  |  South Berkeley, Berkeley, CA</div>
@@ -1762,7 +1784,7 @@ td {
 </tr>
         
 <tr class="other">
-<td style="text-align: right">143.</td>
+<td style="text-align: right">145.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Ah Heng Curry Chicken Bee Hoon Mee&sll=1.2853975,103.8458637&ll=1.2853975,103.8458637" target="_blank">Ah Heng Curry Chicken Bee Hoon Mee</a></div>
     <div style="white-space: pre;">Outram, Singapore</div>
@@ -1773,7 +1795,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">144.</td>
+<td style="text-align: right">146.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Little Owl&sll=40.732398,-74.005318&ll=40.732398,-74.005318" target="_blank">Little Owl</a></div>
     <div style="white-space: pre;">$$$  |  West Village, New York, NY</div>
@@ -1784,29 +1806,29 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">145.</td>
+<td style="text-align: right">147.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Altro Paradiso&sll=40.7254266,-74.0046926&ll=40.7254266,-74.0046926" target="_blank">Altro Paradiso</a></div>
     <div style="white-space: pre;">$$$  |  Hudson Square, New York, NY</div>
     <div></div>
 </td>
-<td class="good">8.0</td>
+<td class="good">7.9</td>
 <td style="text-align: right"></td>
 </tr>
         
 <tr class="la">
-<td style="text-align: right">146.</td>
+<td style="text-align: right">148.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Tatsu Ramen&sll=34.03887,-118.44239&ll=34.03887,-118.44239" target="_blank">Tatsu Ramen</a></div>
     <div style="white-space: pre;">$$  |  Sawtelle Japantown, Los Angeles, CA</div>
     <div></div>
 </td>
-<td class="good">8.0</td>
+<td class="good">7.9</td>
 <td style="text-align: right"></td>
 </tr>
         
 <tr class="la">
-<td style="text-align: right">147.</td>
+<td style="text-align: right">149.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=KazuNori: The Original Hand Roll Bar&sll=34.0635521,-118.3647168&ll=34.0635521,-118.3647168" target="_blank">KazuNori: The Original Hand Roll Bar</a></div>
     <div style="white-space: pre;">$$  |  Beverly Grove, Los Angeles, CA</div>
@@ -1817,7 +1839,7 @@ td {
 </tr>
         
 <tr class="la">
-<td style="text-align: right">148.</td>
+<td style="text-align: right">150.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=In-N-Out Burger&sll=34.0264602,-118.3942849&ll=34.0264602,-118.3942849" target="_blank">In-N-Out Burger</a></div>
     <div style="white-space: pre;">$  |  Palms, Los Angeles, CA</div>
@@ -1828,7 +1850,7 @@ td {
 </tr>
         
 <tr class="la">
-<td style="text-align: right">149.</td>
+<td style="text-align: right">151.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Eataly&sll=34.0600509,-118.418991&ll=34.0600509,-118.418991" target="_blank">Eataly</a></div>
     <div style="white-space: pre;">$$$  |  Century City, Los Angeles, CA</div>
@@ -1839,7 +1861,7 @@ td {
 </tr>
         
 <tr class="other">
-<td style="text-align: right">150.</td>
+<td style="text-align: right">152.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Ah Tai Hainanese Chicken Rice (#01-07)&sll=1.2802419,103.8449058&ll=1.2802419,103.8449058" target="_blank">Ah Tai Hainanese Chicken Rice (#01-07)</a></div>
     <div style="white-space: pre;">Chinatown, Singapore</div>
@@ -1850,7 +1872,7 @@ td {
 </tr>
         
 <tr class="other">
-<td style="text-align: right">151.</td>
+<td style="text-align: right">153.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Firewood&sll=40.6421296,-111.4948719&ll=40.6421296,-111.4948719" target="_blank">Firewood</a></div>
     <div style="white-space: pre;">$$$  |  Deer Valley, Park City, UT</div>
@@ -1861,7 +1883,7 @@ td {
 </tr>
         
 <tr class="la">
-<td style="text-align: right">152.</td>
+<td style="text-align: right">154.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Here's Looking At You&sll=34.06368,-118.30808&ll=34.06368,-118.30808" target="_blank">Here's Looking At You</a></div>
     <div style="white-space: pre;">$$$  |  Koreatown, Los Angeles, CA</div>
@@ -1872,7 +1894,7 @@ td {
 </tr>
         
 <tr class="other">
-<td style="text-align: right">153.</td>
+<td style="text-align: right">155.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Brigadiers&sll=51.5126036,-0.0916715&ll=51.5126036,-0.0916715" target="_blank">Brigadiers</a></div>
     <div style="white-space: pre;">$$$  |  London</div>
@@ -1883,7 +1905,7 @@ td {
 </tr>
         
 <tr class="la">
-<td style="text-align: right">154.</td>
+<td style="text-align: right">156.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Pasta Sisters&sll=34.0299178,-118.3839224&ll=34.0299178,-118.3839224" target="_blank">Pasta Sisters</a></div>
     <div style="white-space: pre;">$$  |  Art District, Culver City, CA</div>
@@ -1894,7 +1916,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">155.</td>
+<td style="text-align: right">157.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Joe's Shanghai&sll=40.7156587,-73.9966735&ll=40.7156587,-73.9966735" target="_blank">Joe's Shanghai</a></div>
     <div style="white-space: pre;">$  |  Chinatown, New York, NY</div>
@@ -1905,7 +1927,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">156.</td>
+<td style="text-align: right">158.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Tacombi&sll=40.7311167,-74.002714&ll=40.7311167,-74.002714" target="_blank">Tacombi</a></div>
     <div style="white-space: pre;">$$  |  South Village, New York, NY</div>
@@ -1916,7 +1938,7 @@ td {
 </tr>
         
 <tr class="other">
-<td style="text-align: right">157.</td>
+<td style="text-align: right">159.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Song Fa Bak Kut Teh Chinatown Point&sll=1.2852093,103.8447228&ll=1.2852093,103.8447228" target="_blank">Song Fa Bak Kut Teh Chinatown Point</a></div>
     <div style="white-space: pre;">$$  |  Outram, Singapore</div>
@@ -1927,7 +1949,7 @@ td {
 </tr>
         
 <tr class="japan">
-<td style="text-align: right">158.</td>
+<td style="text-align: right">160.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Hirugao Tokyo Station&sll=35.6801261,139.7678405&ll=35.6801261,139.7678405" target="_blank">Hirugao Tokyo Station</a></div>
     <div style="white-space: pre;">$$  |  Tokyo</div>
@@ -1938,7 +1960,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">159.</td>
+<td style="text-align: right">161.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=ME CHICKEN RICE&sll=40.7304954,-74.0004496&ll=40.7304954,-74.0004496" target="_blank">ME CHICKEN RICE</a></div>
     <div style="white-space: pre;">$  |  South Village, New York, NY</div>
@@ -1949,7 +1971,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">160.</td>
+<td style="text-align: right">162.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Shan&sll=40.685206,-73.9912052&ll=40.685206,-73.9912052" target="_blank">Shan</a></div>
     <div style="white-space: pre;">Boerum Hill, New York, NY</div>
@@ -1960,7 +1982,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">161.</td>
+<td style="text-align: right">163.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Tasty Hand-Pulled Noodles&sll=40.7142425,-73.9978903&ll=40.7142425,-73.9978903" target="_blank">Tasty Hand-Pulled Noodles</a></div>
     <div style="white-space: pre;">$  |  Chinatown, New York, NY</div>
@@ -1971,7 +1993,7 @@ td {
 </tr>
         
 <tr class="bay">
-<td style="text-align: right">162.</td>
+<td style="text-align: right">164.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Kura Revolving Sushi Bar&sll=37.3253658,-122.0118873&ll=37.3253658,-122.0118873" target="_blank">Kura Revolving Sushi Bar</a></div>
     <div style="white-space: pre;">$$  |  Rancho Rinconada, Cupertino, CA</div>
@@ -1982,7 +2004,7 @@ td {
 </tr>
         
 <tr class="la">
-<td style="text-align: right">163.</td>
+<td style="text-align: right">165.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=The Bop&sll=34.0723804,-118.3691753&ll=34.0723804,-118.3691753" target="_blank">The Bop</a></div>
     <div style="white-space: pre;">Beverly Grove, Los Angeles, CA</div>
@@ -1993,7 +2015,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">164.</td>
+<td style="text-align: right">166.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Eyval&sll=40.70414239999999,-73.9331596&ll=40.70414239999999,-73.9331596" target="_blank">Eyval</a></div>
     <div style="white-space: pre;">East Williamsburg, New York, NY</div>
@@ -2004,7 +2026,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">165.</td>
+<td style="text-align: right">167.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Bangkok Degree&sll=40.6747108,-73.97579200000001&ll=40.6747108,-73.97579200000001" target="_blank">Bangkok Degree</a></div>
     <div style="white-space: pre;">Park Slope, New York, NY</div>
@@ -2015,7 +2037,7 @@ td {
 </tr>
         
 <tr class="other">
-<td style="text-align: right">166.</td>
+<td style="text-align: right">168.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Toast Box @ Chinatown Point&sll=1.2856236,103.8449596&ll=1.2856236,103.8449596" target="_blank">Toast Box @ Chinatown Point</a></div>
     <div style="white-space: pre;">$  |  Outram, Singapore</div>
@@ -2026,7 +2048,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">167.</td>
+<td style="text-align: right">169.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Bleecker Street Pizza&sll=40.732198,-74.0034014&ll=40.732198,-74.0034014" target="_blank">Bleecker Street Pizza</a></div>
     <div style="white-space: pre;">$  |  West Village, New York, NY</div>
@@ -2037,7 +2059,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">168.</td>
+<td style="text-align: right">170.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Ci Siamo&sll=40.7525083,-73.9981284&ll=40.7525083,-73.9981284" target="_blank">Ci Siamo</a></div>
     <div style="white-space: pre;">$$$  |  Chelsea, New York, NY</div>
@@ -2048,7 +2070,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">169.</td>
+<td style="text-align: right">171.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Carne Mare&sll=40.705645,-74.0021484&ll=40.705645,-74.0021484" target="_blank">Carne Mare</a></div>
     <div style="white-space: pre;">$$$  |  Seaport, New York, NY</div>
@@ -2059,7 +2081,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">170.</td>
+<td style="text-align: right">172.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=RedFarm&sll=40.7820223,-73.98068669999999&ll=40.7820223,-73.98068669999999" target="_blank">RedFarm</a></div>
     <div style="white-space: pre;">$$$  |  Upper West Side, New York, NY</div>
@@ -2070,7 +2092,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">171.</td>
+<td style="text-align: right">173.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Little Kirin&sll=40.7278725,-73.9854694&ll=40.7278725,-73.9854694" target="_blank">Little Kirin</a></div>
     <div style="white-space: pre;">Ukrainian Village, New York, NY</div>
@@ -2081,7 +2103,7 @@ td {
 </tr>
         
 <tr class="other">
-<td style="text-align: right">172.</td>
+<td style="text-align: right">174.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Tanglin Crispy Curry Puff Original (Corner Stall#02-36)&sll=1.2853166,103.8458369&ll=1.2853166,103.8458369" target="_blank">Tanglin Crispy Curry Puff Original (Corner Stall#02-36)</a></div>
     <div style="white-space: pre;">Outram, Singapore</div>
@@ -2092,7 +2114,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">173.</td>
+<td style="text-align: right">175.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Avant Garden&sll=40.72611199999999,-73.983963&ll=40.72611199999999,-73.983963" target="_blank">Avant Garden</a></div>
     <div style="white-space: pre;">$$$  |  East Village, New York, NY</div>
@@ -2103,7 +2125,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">174.</td>
+<td style="text-align: right">176.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Mission Ceviche&sll=40.7691005,-73.9578631&ll=40.7691005,-73.9578631" target="_blank">Mission Ceviche</a></div>
     <div style="white-space: pre;">$$$  |  Lenox Hill, New York, NY</div>
@@ -2114,7 +2136,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">175.</td>
+<td style="text-align: right">177.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=TAO Downtown Restaurant&sll=40.74253760000001,-74.0038464&ll=40.74253760000001,-74.0038464" target="_blank">TAO Downtown Restaurant</a></div>
     <div style="white-space: pre;">$$$  |  Chelsea, New York, NY</div>
@@ -2125,7 +2147,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">176.</td>
+<td style="text-align: right">178.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Oiji Mi&sll=40.7396687,-73.9924795&ll=40.7396687,-73.9924795" target="_blank">Oiji Mi</a></div>
     <div style="white-space: pre;">$$$$  |  Midtown Manhattan, New York, NY</div>
@@ -2136,7 +2158,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">177.</td>
+<td style="text-align: right">179.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Jajaja Mexicana&sll=40.7298848,-74.00460389999999&ll=40.7298848,-74.00460389999999" target="_blank">Jajaja Mexicana</a></div>
     <div style="white-space: pre;">$$  |  South Village, New York, NY</div>
@@ -2147,7 +2169,7 @@ td {
 </tr>
         
 <tr class="la">
-<td style="text-align: right">178.</td>
+<td style="text-align: right">180.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Simpang Asia&sll=34.02908189999999,-118.4117044&ll=34.02908189999999,-118.4117044" target="_blank">Simpang Asia</a></div>
     <div style="white-space: pre;">$  |  Palms, Los Angeles, CA</div>
@@ -2158,7 +2180,7 @@ td {
 </tr>
         
 <tr class="japan">
-<td style="text-align: right">179.</td>
+<td style="text-align: right">181.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Potohar&sll=35.6857346,139.6934272&ll=35.6857346,139.6934272" target="_blank">Potohar</a></div>
     <div style="white-space: pre;">$$  |  Tokyo</div>
@@ -2169,7 +2191,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">180.</td>
+<td style="text-align: right">182.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Mokyo&sll=40.7271382,-73.9839549&ll=40.7271382,-73.9839549" target="_blank">Mokyo</a></div>
     <div style="white-space: pre;">$$  |  East Village, New York, NY</div>
@@ -2180,18 +2202,18 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">181.</td>
+<td style="text-align: right">183.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Little Alley&sll=40.7474165,-73.9772212&ll=40.7474165,-73.9772212" target="_blank">Little Alley</a></div>
     <div style="white-space: pre;">$$  |  Murray Hill, New York, NY</div>
     <div></div>
 </td>
-<td class="good">7.5</td>
+<td class="good">7.4</td>
 <td style="text-align: right"></td>
 </tr>
         
 <tr class="japan">
-<td style="text-align: right">182.</td>
+<td style="text-align: right">184.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Hidakaya Higashi-Ginza shop&sll=35.6691406,139.7668989&ll=35.6691406,139.7668989" target="_blank">Hidakaya Higashi-Ginza shop</a></div>
     <div style="white-space: pre;">$  |  Tokyo</div>
@@ -2202,7 +2224,7 @@ td {
 </tr>
         
 <tr class="other">
-<td style="text-align: right">183.</td>
+<td style="text-align: right">185.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=海底捞 Haidilao Hot Pot @Clarke Quay&sll=1.2898252,103.8455401&ll=1.2898252,103.8455401" target="_blank">海底捞 Haidilao Hot Pot @Clarke Quay</a></div>
     <div style="white-space: pre;">$$$  |  Singapore River, Singapore</div>
@@ -2213,7 +2235,7 @@ td {
 </tr>
         
 <tr class="other">
-<td style="text-align: right">184.</td>
+<td style="text-align: right">186.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Flutes Restaurant . Bar&sll=1.2966058,103.8488293&ll=1.2966058,103.8488293" target="_blank">Flutes Restaurant . Bar</a></div>
     <div style="white-space: pre;">$$$  |  Museum, Singapore</div>
@@ -2224,9 +2246,9 @@ td {
 </tr>
         
 <tr class="other">
-<td style="text-align: right">185.</td>
+<td style="text-align: right">187.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=Tian Tian Hainanese Chicken Rice&sll=1.2804528,103.8447987&ll=1.2804528,103.8447987" target="_blank">Tian Tian Hainanese Chicken Rice</a></div>
+    <div><a href="https://maps.google.com/maps?q=Tian Tian Hainanese Chicken Rice- Maxwell Food Centre&sll=1.2804528,103.8447987&ll=1.2804528,103.8447987" target="_blank">Tian Tian Hainanese Chicken Rice- Maxwell Food Centre</a></div>
     <div style="white-space: pre;">$  |  Chinatown, Singapore</div>
     <div><a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/104522/f69d5871-2932-4f68-9157-38b9733ff5a9/images/ou13ry3lptlmsoyujne.jpg">Roasted Chicken Rice, Veggies</a></div>
 </td>
@@ -2235,7 +2257,7 @@ td {
 </tr>
         
 <tr class="other">
-<td style="text-align: right">186.</td>
+<td style="text-align: right">188.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Lusin Mayfair&sll=51.5091663,-0.1433412&ll=51.5091663,-0.1433412" target="_blank">Lusin Mayfair</a></div>
     <div style="white-space: pre;">London</div>
@@ -2246,7 +2268,7 @@ td {
 </tr>
         
 <tr class="la">
-<td style="text-align: right">187.</td>
+<td style="text-align: right">189.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Pho Saigon Pearl&sll=34.06686959999999,-118.3615705&ll=34.06686959999999,-118.3615705" target="_blank">Pho Saigon Pearl</a></div>
     <div style="white-space: pre;">$$  |  La Brea, Los Angeles, CA</div>
@@ -2257,18 +2279,18 @@ td {
 </tr>
         
 <tr class="other">
-<td style="text-align: right">188.</td>
+<td style="text-align: right">190.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Lau Pa Sat&sll=1.280684,103.8504436&ll=1.280684,103.8504436" target="_blank">Lau Pa Sat</a></div>
     <div style="white-space: pre;">Downtown Core, Singapore</div>
     <div><a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/176812/f69d5871-2932-4f68-9157-38b9733ff5a9/images/sszij6l3wqnxn3uttq.jpg">Satay</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/176812/f69d5871-2932-4f68-9157-38b9733ff5a9/images/nqutau5eub8pe34ac1c.jpg">Wings</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/176812/f69d5871-2932-4f68-9157-38b9733ff5a9/images/33cg6septueoqogmndc.jpg">Naan?</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/176812/f69d5871-2932-4f68-9157-38b9733ff5a9/images/1h14e2u0yp3036vahxq.jpg">Chili crab</a></div>
 </td>
-<td class="good">7.4</td>
+<td class="good">7.3</td>
 <td style="text-align: right"></td>
 </tr>
         
 <tr class="bay">
-<td style="text-align: right">189.</td>
+<td style="text-align: right">191.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Gypsy's Trattoria Italiana&sll=37.868046,-122.258165&ll=37.868046,-122.258165" target="_blank">Gypsy's Trattoria Italiana</a></div>
     <div style="white-space: pre;">$  |  Southside, Berkeley, CA</div>
@@ -2279,7 +2301,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">190.</td>
+<td style="text-align: right">192.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Coppelia&sll=40.7388889,-74.0&ll=40.7388889,-74.0" target="_blank">Coppelia</a></div>
     <div style="white-space: pre;">$$  |  Chelsea, New York, NY</div>
@@ -2290,7 +2312,7 @@ td {
 </tr>
         
 <tr class="bay">
-<td style="text-align: right">191.</td>
+<td style="text-align: right">193.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=IPPUDO BERKELEY&sll=37.8719417,-122.2675899&ll=37.8719417,-122.2675899" target="_blank">IPPUDO BERKELEY</a></div>
     <div style="white-space: pre;">$$  |  Downtown Berkeley, Berkeley, CA</div>
@@ -2301,7 +2323,7 @@ td {
 </tr>
         
 <tr class="other">
-<td style="text-align: right">192.</td>
+<td style="text-align: right">194.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Pho Real Kitchen and Bar&sll=41.5851544,-93.621878&ll=41.5851544,-93.621878" target="_blank">Pho Real Kitchen and Bar</a></div>
     <div style="white-space: pre;">$$  |  Downtown Des Moines, Des Moines, IA</div>
@@ -2312,7 +2334,7 @@ td {
 </tr>
         
 <tr class="bay">
-<td style="text-align: right">193.</td>
+<td style="text-align: right">195.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=La Note&sll=37.866206,-122.267249&ll=37.866206,-122.267249" target="_blank">La Note</a></div>
     <div style="white-space: pre;">$$  |  Downtown Berkeley, Berkeley, CA</div>
@@ -2323,7 +2345,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">194.</td>
+<td style="text-align: right">196.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=7th Street Burger East Village&sll=40.7269457,-73.9853535&ll=40.7269457,-73.9853535" target="_blank">7th Street Burger East Village</a></div>
     <div style="white-space: pre;">$$  |  East Village, New York, NY</div>
@@ -2334,7 +2356,7 @@ td {
 </tr>
         
 <tr class="bay">
-<td style="text-align: right">195.</td>
+<td style="text-align: right">197.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Artichoke Basille's Pizza&sll=37.8679641,-122.256837&ll=37.8679641,-122.256837" target="_blank">Artichoke Basille's Pizza</a></div>
     <div style="white-space: pre;">$  |  Southside, Berkeley, CA</div>
@@ -2345,7 +2367,7 @@ td {
 </tr>
         
 <tr class="georgia">
-<td style="text-align: right">196.</td>
+<td style="text-align: right">198.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Machakhela&sll=41.6897662,44.8088333&ll=41.6897662,44.8088333" target="_blank">Machakhela</a></div>
     <div style="white-space: pre;">$$  |  Tbilisi</div>
@@ -2356,7 +2378,7 @@ td {
 </tr>
         
 <tr class="georgia">
-<td style="text-align: right">197.</td>
+<td style="text-align: right">199.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Ninia’s Garden&sll=41.7115754,44.79319559999999&ll=41.7115754,44.79319559999999" target="_blank">Ninia’s Garden</a></div>
     <div style="white-space: pre;">Tbilisi</div>
@@ -2367,7 +2389,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">198.</td>
+<td style="text-align: right">200.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Russ & Daughters&sll=40.7225803,-73.9883134&ll=40.7225803,-73.9883134" target="_blank">Russ & Daughters</a></div>
     <div style="white-space: pre;">$$  |  Lower East Side, New York, NY</div>
@@ -2378,7 +2400,7 @@ td {
 </tr>
         
 <tr class="georgia">
-<td style="text-align: right">199.</td>
+<td style="text-align: right">201.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Acharulebi Laghidzeze&sll=41.7001414,44.7960344&ll=41.7001414,44.7960344" target="_blank">Acharulebi Laghidzeze</a></div>
     <div style="white-space: pre;">Tbilisi</div>
@@ -2389,7 +2411,7 @@ td {
 </tr>
         
 <tr class="la">
-<td style="text-align: right">200.</td>
+<td style="text-align: right">202.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Destroyer&sll=34.02454,-118.38115&ll=34.02454,-118.38115" target="_blank">Destroyer</a></div>
     <div style="white-space: pre;">$$  |  Hayden Tract, Culver City, CA</div>
@@ -2400,7 +2422,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">201.</td>
+<td style="text-align: right">203.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Ravagh Persian Grill&sll=40.7473721,-73.9830546&ll=40.7473721,-73.9830546" target="_blank">Ravagh Persian Grill</a></div>
     <div style="white-space: pre;">$$  |  Midtown South, New York, NY</div>
@@ -2411,18 +2433,18 @@ td {
 </tr>
         
 <tr class="other">
-<td style="text-align: right">202.</td>
+<td style="text-align: right">204.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Hlöllabátar&sll=64.1483069,-21.9412588&ll=64.1483069,-21.9412588" target="_blank">Hlöllabátar</a></div>
     <div style="white-space: pre;">$  |  Centre, Reykjavík</div>
     <div><a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/55480/f69d5871-2932-4f68-9157-38b9733ff5a9/images/0lsj1w7eqo5gr5l0pes.jpg">The bull</a></div>
 </td>
-<td class="good">7.2</td>
+<td class="good">7.1</td>
 <td style="text-align: right"></td>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">203.</td>
+<td style="text-align: right">205.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Leon's Bagels&sll=40.72768540000001,-74.0004606&ll=40.72768540000001,-74.0004606" target="_blank">Leon's Bagels</a></div>
     <div style="white-space: pre;">South Village, New York, NY</div>
@@ -2433,7 +2455,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">204.</td>
+<td style="text-align: right">206.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Kebab Express | Halal Grill&sll=40.73058940000001,-74.0024921&ll=40.73058940000001,-74.0024921" target="_blank">Kebab Express | Halal Grill</a></div>
     <div style="white-space: pre;">South Village, New York, NY</div>
@@ -2444,7 +2466,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">205.</td>
+<td style="text-align: right">207.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Sophra Grill&sll=40.7466502,-73.97719479999999&ll=40.7466502,-73.97719479999999" target="_blank">Sophra Grill</a></div>
     <div style="white-space: pre;">$$  |  Murray Hill, New York, NY</div>
@@ -2455,7 +2477,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">206.</td>
+<td style="text-align: right">208.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Thelewala&sll=40.72959779999999,-74.0006102&ll=40.72959779999999,-74.0006102" target="_blank">Thelewala</a></div>
     <div style="white-space: pre;">$  |  South Village, New York, NY</div>
@@ -2466,7 +2488,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">207.</td>
+<td style="text-align: right">209.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=SMASHED&sll=40.7336244,-74.00608989999999&ll=40.7336244,-74.00608989999999" target="_blank">SMASHED</a></div>
     <div style="white-space: pre;">West Village, New York, NY</div>
@@ -2477,7 +2499,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">208.</td>
+<td style="text-align: right">210.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Dickson's Farmstand Meats&sll=40.7424931,-74.0062592&ll=40.7424931,-74.0062592" target="_blank">Dickson's Farmstand Meats</a></div>
     <div style="white-space: pre;">$  |  Chelsea, New York, NY</div>
@@ -2488,7 +2510,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">209.</td>
+<td style="text-align: right">211.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Liberty Bagels Midtown&sll=40.7524936,-73.99252969999999&ll=40.7524936,-73.99252969999999" target="_blank">Liberty Bagels Midtown</a></div>
     <div style="white-space: pre;">$  |  Midtown South, New York, NY</div>
@@ -2499,7 +2521,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">210.</td>
+<td style="text-align: right">212.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Moustache Pitza&sll=40.7322071,-74.0051987&ll=40.7322071,-74.0051987" target="_blank">Moustache Pitza</a></div>
     <div style="white-space: pre;">$$  |  West Village, New York, NY</div>
@@ -2510,7 +2532,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">211.</td>
+<td style="text-align: right">213.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=BigNorm&sll=40.6832009,-73.992633&ll=40.6832009,-73.992633" target="_blank">BigNorm</a></div>
     <div style="white-space: pre;">Carroll Gardens, New York, NY</div>
@@ -2521,7 +2543,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">212.</td>
+<td style="text-align: right">214.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Banter NYC - West Village&sll=40.7391397,-74.0057191&ll=40.7391397,-74.0057191" target="_blank">Banter NYC - West Village</a></div>
     <div style="white-space: pre;">$$  |  West Village, New York, NY</div>
@@ -2532,7 +2554,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">213.</td>
+<td style="text-align: right">215.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=The Grey Dog&sll=40.73001169999999,-74.0038879&ll=40.73001169999999,-74.0038879" target="_blank">The Grey Dog</a></div>
     <div style="white-space: pre;">$$  |  South Village, New York, NY</div>
@@ -2543,7 +2565,7 @@ td {
 </tr>
         
 <tr class="la">
-<td style="text-align: right">214.</td>
+<td style="text-align: right">216.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Seoulmates&sll=34.0725668,-118.3707825&ll=34.0725668,-118.3707825" target="_blank">Seoulmates</a></div>
     <div style="white-space: pre;">Beverly Grove, Los Angeles, CA</div>
@@ -2554,7 +2576,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">215.</td>
+<td style="text-align: right">217.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=TORI-BIEN&sll=40.7294946,-73.9883747&ll=40.7294946,-73.9883747" target="_blank">TORI-BIEN</a></div>
     <div style="white-space: pre;">Ukrainian Village, New York, NY</div>
@@ -2565,7 +2587,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">216.</td>
+<td style="text-align: right">218.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Masalawala & Sons&sll=40.67125599999999,-73.9842655&ll=40.67125599999999,-73.9842655" target="_blank">Masalawala & Sons</a></div>
     <div style="white-space: pre;">Park Slope, New York, NY</div>
@@ -2576,7 +2598,7 @@ td {
 </tr>
         
 <tr class="bay">
-<td style="text-align: right">217.</td>
+<td style="text-align: right">219.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=KoJa Kitchen&sll=37.8672057,-122.2586268&ll=37.8672057,-122.2586268" target="_blank">KoJa Kitchen</a></div>
     <div style="white-space: pre;">$$  |  Southside, Berkeley, CA</div>
@@ -2587,7 +2609,7 @@ td {
 </tr>
         
 <tr class="bay">
-<td style="text-align: right">218.</td>
+<td style="text-align: right">220.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Mezzo&sll=37.8661626,-122.2587909&ll=37.8661626,-122.2587909" target="_blank">Mezzo</a></div>
     <div style="white-space: pre;">$  |  Southside, Berkeley, CA</div>
@@ -2598,7 +2620,7 @@ td {
 </tr>
         
 <tr class="other">
-<td style="text-align: right">219.</td>
+<td style="text-align: right">221.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Ya Kun Kaya Toast&sll=1.2836577,103.8479747&ll=1.2836577,103.8479747" target="_blank">Ya Kun Kaya Toast</a></div>
     <div style="white-space: pre;">$  |  Outram, Singapore</div>
@@ -2609,7 +2631,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">220.</td>
+<td style="text-align: right">222.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Breakfast by Salt's Cure&sll=40.731173,-74.00447040000002&ll=40.731173,-74.00447040000002" target="_blank">Breakfast by Salt's Cure</a></div>
     <div style="white-space: pre;">$$  |  West Village, New York, NY</div>
@@ -2620,7 +2642,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">221.</td>
+<td style="text-align: right">223.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Murphy’s&sll=40.7273006,-73.9831177&ll=40.7273006,-73.9831177" target="_blank">Murphy’s</a></div>
     <div style="white-space: pre;">Ukrainian Village, New York, NY</div>
@@ -2631,7 +2653,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">222.</td>
+<td style="text-align: right">224.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Flip Sigi&sll=40.7344965,-74.0020674&ll=40.7344965,-74.0020674" target="_blank">Flip Sigi</a></div>
     <div style="white-space: pre;">$  |  West Village, New York, NY</div>
@@ -2642,7 +2664,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">223.</td>
+<td style="text-align: right">225.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Joe's Pizza&sll=40.7306597,-74.0021707&ll=40.7306597,-74.0021707" target="_blank">Joe's Pizza</a></div>
     <div style="white-space: pre;">$  |  South Village, New York, NY</div>
@@ -2653,7 +2675,7 @@ td {
 </tr>
         
 <tr class="georgia">
-<td style="text-align: right">224.</td>
+<td style="text-align: right">226.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Bikentia's Kebabery&sll=42.26961029999999,42.70195409999999&ll=42.26961029999999,42.70195409999999" target="_blank">Bikentia's Kebabery</a></div>
     <div style="white-space: pre;">$  |  Kutaisi</div>
@@ -2664,7 +2686,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">225.</td>
+<td style="text-align: right">227.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Doña Zita&sll=40.5748711,-73.9804993&ll=40.5748711,-73.9804993" target="_blank">Doña Zita</a></div>
     <div style="white-space: pre;">$  |  Coney Island, New York, NY</div>
@@ -2675,7 +2697,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">226.</td>
+<td style="text-align: right">228.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Great NY Noodletown&sll=40.71500849999999,-73.9970518&ll=40.71500849999999,-73.9970518" target="_blank">Great NY Noodletown</a></div>
     <div style="white-space: pre;">$  |  Chinatown, New York, NY</div>
@@ -2686,9 +2708,9 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">227.</td>
+<td style="text-align: right">229.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=Faicco's&sll=40.73111859999999,-74.0031248&ll=40.73111859999999,-74.0031248" target="_blank">Faicco's</a></div>
+    <div><a href="https://maps.google.com/maps?q=Faicco’s Italian Specialties&sll=40.73111859999999,-74.0031248&ll=40.73111859999999,-74.0031248" target="_blank">Faicco’s Italian Specialties</a></div>
     <div style="white-space: pre;">$$  |  West Village, New York, NY</div>
     <div></div>
 </td>
@@ -2697,7 +2719,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">228.</td>
+<td style="text-align: right">230.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=St. George Coffee&sll=40.732128,-74.00388079999999&ll=40.732128,-74.00388079999999" target="_blank">St. George Coffee</a></div>
     <div style="white-space: pre;">West Village, New York, NY</div>
@@ -2708,7 +2730,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">229.</td>
+<td style="text-align: right">231.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Pane Pasta&sll=40.7332651,-73.99907670000002&ll=40.7332651,-73.99907670000002" target="_blank">Pane Pasta</a></div>
     <div style="white-space: pre;">$$$$  |  Greenwich Village, New York, NY</div>
@@ -2719,7 +2741,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">230.</td>
+<td style="text-align: right">232.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Chrissy’s Pizza&sll=40.7274495,-73.98362279999999&ll=40.7274495,-73.98362279999999" target="_blank">Chrissy’s Pizza</a></div>
     <div style="white-space: pre;">Ukrainian Village, New York, NY</div>
@@ -2730,7 +2752,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">231.</td>
+<td style="text-align: right">233.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Xing Fu Tang&sll=40.7288305,-73.98785029999999&ll=40.7288305,-73.98785029999999" target="_blank">Xing Fu Tang</a></div>
     <div style="white-space: pre;">$  |  Ukrainian Village, New York, NY</div>
@@ -2741,7 +2763,7 @@ td {
 </tr>
         
 <tr class="bay">
-<td style="text-align: right">232.</td>
+<td style="text-align: right">234.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Steve's Korean Bar-B-Que&sll=37.8683144,-122.2580511&ll=37.8683144,-122.2580511" target="_blank">Steve's Korean Bar-B-Que</a></div>
     <div style="white-space: pre;">$  |  Southside, Berkeley, CA</div>
@@ -2752,7 +2774,7 @@ td {
 </tr>
         
 <tr class="bay">
-<td style="text-align: right">233.</td>
+<td style="text-align: right">235.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Toss Noodle Bar&sll=37.8680017,-122.2682188&ll=37.8680017,-122.2682188" target="_blank">Toss Noodle Bar</a></div>
     <div style="white-space: pre;">$  |  Downtown Berkeley, Berkeley, CA</div>
@@ -2763,7 +2785,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">234.</td>
+<td style="text-align: right">236.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Ivan Ramen&sll=40.7205819,-73.9845212&ll=40.7205819,-73.9845212" target="_blank">Ivan Ramen</a></div>
     <div style="white-space: pre;">$$  |  Lower East Side, New York, NY</div>
@@ -2774,7 +2796,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">235.</td>
+<td style="text-align: right">237.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Paola's Osteria&sll=40.7831445,-73.9573418&ll=40.7831445,-73.9573418" target="_blank">Paola's Osteria</a></div>
     <div style="white-space: pre;">Carnegie Hill, New York, NY</div>
@@ -2785,7 +2807,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">236.</td>
+<td style="text-align: right">238.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Taco Mahal&sll=40.7323211,-74.00330500000001&ll=40.7323211,-74.00330500000001" target="_blank">Taco Mahal</a></div>
     <div style="white-space: pre;">$  |  West Village, New York, NY</div>
@@ -2796,7 +2818,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">237.</td>
+<td style="text-align: right">239.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Fiaschetteria “Pistoia”&sll=40.7330884,-74.0053526&ll=40.7330884,-74.0053526" target="_blank">Fiaschetteria “Pistoia”</a></div>
     <div style="white-space: pre;">$$  |  West Village, New York, NY</div>
@@ -2807,7 +2829,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">238.</td>
+<td style="text-align: right">240.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=tava turkish and mediterranean&sll=40.6731536,-73.983283&ll=40.6731536,-73.983283" target="_blank">tava turkish and mediterranean</a></div>
     <div style="white-space: pre;">$$  |  Park Slope, New York, NY</div>
@@ -2818,7 +2840,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">239.</td>
+<td style="text-align: right">241.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Danji&sll=40.764031,-73.986859&ll=40.764031,-73.986859" target="_blank">Danji</a></div>
     <div style="white-space: pre;">$$$  |  Midtown West, New York, NY</div>
@@ -2829,7 +2851,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">240.</td>
+<td style="text-align: right">242.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Mountain House Manhattan 川山甲&sll=40.7291176,-73.9885834&ll=40.7291176,-73.9885834" target="_blank">Mountain House Manhattan 川山甲</a></div>
     <div style="white-space: pre;">$$  |  East Village, New York, NY</div>
@@ -2840,7 +2862,7 @@ td {
 </tr>
         
 <tr class="georgia">
-<td style="text-align: right">241.</td>
+<td style="text-align: right">243.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=OtsY&sll=41.6955638,44.80646950000001&ll=41.6955638,44.80646950000001" target="_blank">OtsY</a></div>
     <div style="white-space: pre;">Tbilisi</div>
@@ -2851,7 +2873,7 @@ td {
 </tr>
         
 <tr class="other">
-<td style="text-align: right">242.</td>
+<td style="text-align: right">244.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Bartolo's&sll=40.72165589999999,-111.5389825&ll=40.72165589999999,-111.5389825" target="_blank">Bartolo's</a></div>
     <div style="white-space: pre;">Park City, UT</div>
@@ -2862,7 +2884,7 @@ td {
 </tr>
         
 <tr class="la">
-<td style="text-align: right">243.</td>
+<td style="text-align: right">245.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Cilantro Mexican Grill&sll=34.2018343,-118.4048748&ll=34.2018343,-118.4048748" target="_blank">Cilantro Mexican Grill</a></div>
     <div style="white-space: pre;">$  |  Valley Glen, Los Angeles, CA</div>
@@ -2873,7 +2895,7 @@ td {
 </tr>
         
 <tr class="other">
-<td style="text-align: right">244.</td>
+<td style="text-align: right">246.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Bæjarins Beztu Pylsur&sll=64.1482785,-21.937986&ll=64.1482785,-21.937986" target="_blank">Bæjarins Beztu Pylsur</a></div>
     <div style="white-space: pre;">$  |  Centre, Reykjavík</div>
@@ -2884,7 +2906,7 @@ td {
 </tr>
         
 <tr class="bay">
-<td style="text-align: right">245.</td>
+<td style="text-align: right">247.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Sliver Pizzeria&sll=37.86981,-122.2684&ll=37.86981,-122.2684" target="_blank">Sliver Pizzeria</a></div>
     <div style="white-space: pre;">$$  |  Berkeley, CA</div>
@@ -2895,7 +2917,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">246.</td>
+<td style="text-align: right">248.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Munchiez&sll=40.7300242,-74.0003048&ll=40.7300242,-74.0003048" target="_blank">Munchiez</a></div>
     <div style="white-space: pre;">South Village, New York, NY</div>
@@ -2906,7 +2928,7 @@ td {
 </tr>
         
 <tr class="la">
-<td style="text-align: right">247.</td>
+<td style="text-align: right">249.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Leo's Tacos Truck&sll=34.04635,-118.34568&ll=34.04635,-118.34568" target="_blank">Leo's Tacos Truck</a></div>
     <div style="white-space: pre;">$  |  Mid City, Los Angeles, CA</div>
@@ -2917,7 +2939,7 @@ td {
 </tr>
         
 <tr class="la">
-<td style="text-align: right">248.</td>
+<td style="text-align: right">250.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Daikokuya Restaurant&sll=34.03798,-118.44083&ll=34.03798,-118.44083" target="_blank">Daikokuya Restaurant</a></div>
     <div style="white-space: pre;">$  |  West Los Angeles, Los Angeles, CA</div>
@@ -2928,7 +2950,7 @@ td {
 </tr>
         
 <tr class="bay">
-<td style="text-align: right">249.</td>
+<td style="text-align: right">251.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Yayoi Cupertino&sll=37.337091,-122.036416&ll=37.337091,-122.036416" target="_blank">Yayoi Cupertino</a></div>
     <div style="white-space: pre;">$$  |  Cupertino, CA</div>
@@ -2939,7 +2961,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">250.</td>
+<td style="text-align: right">252.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Leo's Bagels&sll=40.7049369,-74.0097345&ll=40.7049369,-74.0097345" target="_blank">Leo's Bagels</a></div>
     <div style="white-space: pre;">$  |  Financial District, New York, NY</div>
@@ -2950,7 +2972,7 @@ td {
 </tr>
         
 <tr class="bay">
-<td style="text-align: right">251.</td>
+<td style="text-align: right">253.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Top Dog&sll=37.8678571,-122.25738&ll=37.8678571,-122.25738" target="_blank">Top Dog</a></div>
     <div style="white-space: pre;">$  |  Southside, Berkeley, CA</div>
@@ -2961,7 +2983,7 @@ td {
 </tr>
         
 <tr class="other">
-<td style="text-align: right">252.</td>
+<td style="text-align: right">254.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=The Hainan Story Chapter One (Hotel Boss)&sll=1.3054275,103.8602641&ll=1.3054275,103.8602641" target="_blank">The Hainan Story Chapter One (Hotel Boss)</a></div>
     <div style="white-space: pre;">Kampong Glam, Singapore</div>
@@ -2972,7 +2994,7 @@ td {
 </tr>
         
 <tr class="other">
-<td style="text-align: right">253.</td>
+<td style="text-align: right">255.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Café Loki&sll=64.14240269999999,-21.9288523&ll=64.14240269999999,-21.9288523" target="_blank">Café Loki</a></div>
     <div style="white-space: pre;">$$  |  Downtown, Reykjavík</div>
@@ -2983,7 +3005,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">254.</td>
+<td style="text-align: right">256.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=AMMI&sll=40.7433384,-74.00929909999999&ll=40.7433384,-74.00929909999999" target="_blank">AMMI</a></div>
     <div style="white-space: pre;">New York, NY</div>
@@ -2994,7 +3016,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">255.</td>
+<td style="text-align: right">257.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=The Donut Pub&sll=40.7298007,-73.99288709999999&ll=40.7298007,-73.99288709999999" target="_blank">The Donut Pub</a></div>
     <div style="white-space: pre;">$$$  |  NoHo, New York, NY</div>
@@ -3005,7 +3027,7 @@ td {
 </tr>
         
 <tr class="other">
-<td style="text-align: right">256.</td>
+<td style="text-align: right">258.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Hajmeer Kwaja Muslim Food&sll=1.280085,103.8448609&ll=1.280085,103.8448609" target="_blank">Hajmeer Kwaja Muslim Food</a></div>
     <div style="white-space: pre;">$  |  Chinatown, Singapore</div>
@@ -3016,7 +3038,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">257.</td>
+<td style="text-align: right">259.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Pisillo Italian Panini&sll=40.71055399999999,-74.007593&ll=40.71055399999999,-74.007593" target="_blank">Pisillo Italian Panini</a></div>
     <div style="white-space: pre;">$$  |  Financial District, New York, NY</div>
@@ -3027,7 +3049,7 @@ td {
 </tr>
         
 <tr class="other">
-<td style="text-align: right">258.</td>
+<td style="text-align: right">260.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=db Bistro & Oyster Bar by Daniel Boulud&sll=1.2859317,103.8594874&ll=1.2859317,103.8594874" target="_blank">db Bistro & Oyster Bar by Daniel Boulud</a></div>
     <div style="white-space: pre;">$$$  |  Downtown Core, Singapore</div>
@@ -3038,7 +3060,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">259.</td>
+<td style="text-align: right">261.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Benihana&sll=40.76342989999999,-73.9766652&ll=40.76342989999999,-73.9766652" target="_blank">Benihana</a></div>
     <div style="white-space: pre;">$$$  |  Midtown West, New York, NY</div>
@@ -3049,7 +3071,7 @@ td {
 </tr>
         
 <tr class="la">
-<td style="text-align: right">260.</td>
+<td style="text-align: right">262.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Tasty Noodle House&sll=34.0719585,-118.3656739&ll=34.0719585,-118.3656739" target="_blank">Tasty Noodle House</a></div>
     <div style="white-space: pre;">$  |  Beverly Grove, Los Angeles, CA</div>
@@ -3060,9 +3082,9 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">261.</td>
+<td style="text-align: right">263.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=John's of Bleecker Street&sll=40.7316187,-74.00344679999999&ll=40.7316187,-74.00344679999999" target="_blank">John's of Bleecker Street</a></div>
+    <div><a href="https://maps.google.com/maps?q=John's&sll=40.7316187,-74.00344679999999&ll=40.7316187,-74.00344679999999" target="_blank">John's</a></div>
     <div style="white-space: pre;">$$  |  West Village, New York, NY</div>
     <div></div>
 </td>
@@ -3071,7 +3093,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">262.</td>
+<td style="text-align: right">264.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Don Poke&sll=40.7356406,-73.9940833&ll=40.7356406,-73.9940833" target="_blank">Don Poke</a></div>
     <div style="white-space: pre;">$  |  Greenwich Village, New York, NY</div>
@@ -3082,7 +3104,7 @@ td {
 </tr>
         
 <tr class="other">
-<td style="text-align: right">263.</td>
+<td style="text-align: right">265.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Genki Sushi Chinatown Point&sll=1.2852093,103.8447228&ll=1.2852093,103.8447228" target="_blank">Genki Sushi Chinatown Point</a></div>
     <div style="white-space: pre;">$$  |  Outram, Singapore</div>
@@ -3093,7 +3115,7 @@ td {
 </tr>
         
 <tr class="georgia">
-<td style="text-align: right">264.</td>
+<td style="text-align: right">266.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=პაოლო - Paolo&sll=42.2705163,42.7022354&ll=42.2705163,42.7022354" target="_blank">პაოლო - Paolo</a></div>
     <div style="white-space: pre;">$$  |  Kutaisi</div>
@@ -3104,7 +3126,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">265.</td>
+<td style="text-align: right">267.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Sapthagiri Taste Of India&sll=40.7351899,-74.0624029&ll=40.7351899,-74.0624029" target="_blank">Sapthagiri Taste Of India</a></div>
     <div style="white-space: pre;">$  |  Journal Square, Jersey City, NJ</div>
@@ -3115,7 +3137,7 @@ td {
 </tr>
         
 <tr class="bay">
-<td style="text-align: right">266.</td>
+<td style="text-align: right">268.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=MOD Pizza&sll=37.3356557,-122.0146635&ll=37.3356557,-122.0146635" target="_blank">MOD Pizza</a></div>
     <div style="white-space: pre;">$  |  Birdland Neighbors, Cupertino, CA</div>
@@ -3126,7 +3148,7 @@ td {
 </tr>
         
 <tr class="japan">
-<td style="text-align: right">267.</td>
+<td style="text-align: right">269.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Tsunahachi&sll=35.69084590000001,139.7034867&ll=35.69084590000001,139.7034867" target="_blank">Tsunahachi</a></div>
     <div style="white-space: pre;">$$  |  Tokyo</div>
@@ -3137,7 +3159,7 @@ td {
 </tr>
         
 <tr class="bay">
-<td style="text-align: right">268.</td>
+<td style="text-align: right">270.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Abe's Pizza&sll=37.8680438,-122.2592134&ll=37.8680438,-122.2592134" target="_blank">Abe's Pizza</a></div>
     <div style="white-space: pre;">$  |  Southside, Berkeley, CA</div>
@@ -3148,7 +3170,7 @@ td {
 </tr>
         
 <tr class="la">
-<td style="text-align: right">269.</td>
+<td style="text-align: right">271.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Javier's&sll=34.05909,-118.42075&ll=34.05909,-118.42075" target="_blank">Javier's</a></div>
     <div style="white-space: pre;">$$$  |  Century City, Los Angeles, CA</div>
@@ -3159,7 +3181,7 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">270.</td>
+<td style="text-align: right">272.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Soy & Sake Asian Eats&sll=40.6418796,-73.7919802&ll=40.6418796,-73.7919802" target="_blank">Soy & Sake Asian Eats</a></div>
     <div style="white-space: pre;">New York, NY</div>
@@ -3170,7 +3192,7 @@ td {
 </tr>
         
 <tr class="la">
-<td style="text-align: right">271.</td>
+<td style="text-align: right">273.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=BBQ Chicken Sawtelle&sll=34.0387913,-118.4423428&ll=34.0387913,-118.4423428" target="_blank">BBQ Chicken Sawtelle</a></div>
     <div style="white-space: pre;">$$$  |  Sawtelle Japantown, Los Angeles, CA</div>
@@ -3181,7 +3203,7 @@ td {
 </tr>
         
 <tr class="bay">
-<td style="text-align: right">272.</td>
+<td style="text-align: right">274.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Tasty Pot&sll=37.86872760000001,-122.2669248&ll=37.86872760000001,-122.2669248" target="_blank">Tasty Pot</a></div>
     <div style="white-space: pre;">$$  |  Downtown Berkeley, Berkeley, CA</div>
