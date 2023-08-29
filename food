@@ -279,7 +279,7 @@ td {
 <tr class="la">
 <td style="text-align: right">8.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=Sushi Katsu-Ya&sll=34.1408027,-118.3874229&ll=34.1408027,-118.3874229" target="_blank">Sushi Katsu-Ya</a></div>
+    <div><a href="https://maps.google.com/maps?q=Sushi Katsu-Ya Studio City&sll=34.1408027,-118.3874229&ll=34.1408027,-118.3874229" target="_blank">Sushi Katsu-Ya Studio City</a></div>
     <div style="white-space: pre;">$$$  |  Studio City, Los Angeles, CA</div>
     <div></div>
 </td>
@@ -782,19 +782,8 @@ td {
 <td style="text-align: right"></td>
 </tr>
         
-<tr class="bay">
-<td style="text-align: right">54.</td>
-<td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=Cheese Board Collective Pizzeria&sll=37.87987,-122.26948&ll=37.87987,-122.26948" target="_blank">Cheese Board Collective Pizzeria</a></div>
-    <div style="white-space: pre;">$  |  North Berkeley, Berkeley, CA</div>
-    <div></div>
-</td>
-<td class="good">9.3</td>
-<td style="text-align: right"></td>
-</tr>
-        
 <tr class="ny">
-<td style="text-align: right">55.</td>
+<td style="text-align: right">54.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Ghandi Cafe&sll=40.7319933,-74.0031348&ll=40.7319933,-74.0031348" target="_blank">Ghandi Cafe</a></div>
     <div style="white-space: pre;">$  |  West Village, New York, NY</div>
@@ -805,11 +794,22 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">56.</td>
+<td style="text-align: right">55.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Rowdy Rooster&sll=40.7284627,-73.98500709999999&ll=40.7284627,-73.98500709999999" target="_blank">Rowdy Rooster</a></div>
     <div style="white-space: pre;">$$  |  Ukrainian Village, New York, NY</div>
     <div><a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/87659/f69d5871-2932-4f68-9157-38b9733ff5a9/images/2evd9yi9y56hqc6w6ub.jpg">Big rowdy</a></div>
+</td>
+<td class="good">9.3</td>
+<td style="text-align: right"></td>
+</tr>
+        
+<tr class="bay">
+<td style="text-align: right">56.</td>
+<td style="text-align: left; padding-right: 20px">
+    <div><a href="https://maps.google.com/maps?q=The Cheeseboard Pizza&sll=37.87987,-122.26948&ll=37.87987,-122.26948" target="_blank">The Cheeseboard Pizza</a></div>
+    <div style="white-space: pre;">$  |  North Berkeley, Berkeley, CA</div>
+    <div></div>
 </td>
 <td class="good">9.3</td>
 <td style="text-align: right"></td>
@@ -3161,7 +3161,7 @@ td {
 <tr class="ny">
 <td style="text-align: right">270.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=Pisillo Italian Panini&sll=40.71055399999999,-74.007593&ll=40.71055399999999,-74.007593" target="_blank">Pisillo Italian Panini</a></div>
+    <div><a href="https://maps.google.com/maps?q=Pisillo Panini Italiani&sll=40.71055399999999,-74.007593&ll=40.71055399999999,-74.007593" target="_blank">Pisillo Panini Italiani</a></div>
     <div style="white-space: pre;">$$  |  Financial District, New York, NY</div>
     <div></div>
 </td>
@@ -3205,7 +3205,7 @@ td {
 <tr class="ny">
 <td style="text-align: right">274.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=John's of Bleecker Street&sll=40.7316187,-74.00344679999999&ll=40.7316187,-74.00344679999999" target="_blank">John's of Bleecker Street</a></div>
+    <div><a href="https://maps.google.com/maps?q=John's&sll=40.7316187,-74.00344679999999&ll=40.7316187,-74.00344679999999" target="_blank">John's</a></div>
     <div style="white-space: pre;">$$  |  West Village, New York, NY</div>
     <div></div>
 </td>
@@ -3315,7 +3315,7 @@ td {
 <tr class="la">
 <td style="text-align: right">284.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=bb.q Chicken Sawtelle&sll=34.0387913,-118.4423428&ll=34.0387913,-118.4423428" target="_blank">bb.q Chicken Sawtelle</a></div>
+    <div><a href="https://maps.google.com/maps?q=BBQ Chicken Sawtelle&sll=34.0387913,-118.4423428&ll=34.0387913,-118.4423428" target="_blank">BBQ Chicken Sawtelle</a></div>
     <div style="white-space: pre;">$$$  |  Sawtelle Japantown, Los Angeles, CA</div>
     <div></div>
 </td>
