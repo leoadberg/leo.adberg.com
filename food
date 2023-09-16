@@ -521,17 +521,6 @@ td {
 <tr class="ny">
 <td style="text-align: right">30.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=Misoya&sll=40.73461700000001,-74.00635439999999&ll=40.73461700000001,-74.00635439999999" target="_blank">Misoya</a></div>
-    <div style="white-space: pre;">$$  |  West Village, New York, NY</div>
-    <div></div>
-</td>
-<td class="good">9.7</td>
-<td style="text-align: right"></td>
-</tr>
-        
-<tr class="ny">
-<td style="text-align: right">31.</td>
-<td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Olio e Più&sll=40.7337945,-73.9997927&ll=40.7337945,-73.9997927" target="_blank">Olio e Più</a></div>
     <div style="white-space: pre;">$$  |  West Village, New York, NY</div>
     <div></div>
@@ -541,10 +530,21 @@ td {
 </tr>
         
 <tr class="la">
-<td style="text-align: right">32.</td>
+<td style="text-align: right">31.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Osteria Mozza&sll=34.083214,-118.33897&ll=34.083214,-118.33897" target="_blank">Osteria Mozza</a></div>
     <div style="white-space: pre;">$$$  |  Melrose, Los Angeles, CA</div>
+    <div></div>
+</td>
+<td class="good">9.7</td>
+<td style="text-align: right"></td>
+</tr>
+        
+<tr class="ny">
+<td style="text-align: right">32.</td>
+<td style="text-align: left; padding-right: 20px">
+    <div><a href="https://maps.google.com/maps?q=Ramen Misoya West Village&sll=40.73461700000001,-74.00635439999999&ll=40.73461700000001,-74.00635439999999" target="_blank">Ramen Misoya West Village</a></div>
+    <div style="white-space: pre;">$$  |  West Village, New York, NY</div>
     <div></div>
 </td>
 <td class="good">9.7</td>
@@ -950,7 +950,7 @@ td {
 <tr class="bay">
 <td style="text-align: right">69.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=Chez Panisse&sll=37.87959,-122.26893&ll=37.87959,-122.26893" target="_blank">Chez Panisse</a></div>
+    <div><a href="https://maps.google.com/maps?q=Chez Panisse&sll=37.8796069,-122.2689248&ll=37.8796069,-122.2689248" target="_blank">Chez Panisse</a></div>
     <div style="white-space: pre;">$$$$  |  North Berkeley, Berkeley, CA</div>
     <div></div>
 </td>
@@ -1995,7 +1995,7 @@ td {
 <tr class="ny">
 <td style="text-align: right">164.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=Joe's Shanghai&sll=40.7156587,-73.9966735&ll=40.7156587,-73.9966735" target="_blank">Joe's Shanghai</a></div>
+    <div><a href="https://maps.google.com/maps?q=Joe's Shanghai&sll=40.7156656,-73.99669879999999&ll=40.7156656,-73.99669879999999" target="_blank">Joe's Shanghai</a></div>
     <div style="white-space: pre;">$  |  Chinatown, New York, NY</div>
     <div></div>
 </td>
@@ -3128,7 +3128,7 @@ td {
 <tr class="ny">
 <td style="text-align: right">267.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=Emily: West Village&sll=40.72937369999999,-74.0038588&ll=40.72937369999999,-74.0038588" target="_blank">Emily: West Village</a></div>
+    <div><a href="https://maps.google.com/maps?q=Pizza Loves Emily: West Village&sll=40.72937369999999,-74.0038588&ll=40.72937369999999,-74.0038588" target="_blank">Pizza Loves Emily: West Village</a></div>
     <div style="white-space: pre;">$$  |  Greenwich Village, New York, NY</div>
     <div><a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/38/f69d5871-2932-4f68-9157-38b9733ff5a9/images/95v1t3hbeh4kjo22hhb.jpg">MVP</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/38/f69d5871-2932-4f68-9157-38b9733ff5a9/images/iasy736z9ck0pmk3l6.jpg">Burger</a></div>
 </td>
