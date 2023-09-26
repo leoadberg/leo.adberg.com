@@ -323,7 +323,7 @@ td {
 <tr class="japan">
 <td style="text-align: right">12.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=Udon Shin&sll=35.68648899999999,139.697001&ll=35.68648899999999,139.697001" target="_blank">Udon Shin</a></div>
+    <div><a href="https://maps.google.com/maps?q=Shin&sll=35.68648899999999,139.697001&ll=35.68648899999999,139.697001" target="_blank">Shin</a></div>
     <div style="white-space: pre;">$$  |  Tokyo</div>
     <div><a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/68371/f69d5871-2932-4f68-9157-38b9733ff5a9/images/pr13a49ecpdqssvunvy.jpg">Carbonara Udon</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/68371/f69d5871-2932-4f68-9157-38b9733ff5a9/images/3znbptz6j81czh7099m.jpg">Beef Udon</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/68371/f69d5871-2932-4f68-9157-38b9733ff5a9/images/enuvu9h215oinn5zdo6.jpg">Mochi Tempura</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/68371/f69d5871-2932-4f68-9157-38b9733ff5a9/images/4987y33uim3qvyrn8m0.jpg">Veggie Tempura</a></div>
 </td>
@@ -478,7 +478,7 @@ td {
 <td style="text-align: right">26.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Soothr&sll=40.7323017,-73.9873417&ll=40.7323017,-73.9873417" target="_blank">Soothr</a></div>
-    <div style="white-space: pre;">$$  |  East Village, New York, NY</div>
+    <div style="white-space: pre;">$$  |  Ukrainian Village, New York, NY</div>
     <div><a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/5429/f69d5871-2932-4f68-9157-38b9733ff5a9/images/2ydfbmsf25yiglg1a48.jpg">Beef Pad Si-iw</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/5429/f69d5871-2932-4f68-9157-38b9733ff5a9/images/mx7m26cdc6qpypz3ph.jpg">Chicken Khao Soi</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/5429/f69d5871-2932-4f68-9157-38b9733ff5a9/images/xfa062yv8uyuvhk6pn.jpg">Beef Masamun Curry</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/5429/f69d5871-2932-4f68-9157-38b9733ff5a9/images/niwqlbx5i4fr9ay7v55.jpg">Morning Glory</a></div>
 </td>
 <td class="good">9.7</td>
@@ -566,7 +566,7 @@ td {
 <td style="text-align: right">34.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Ginza Kagari Main Branch&sll=35.67126289999999,139.7613911&ll=35.67126289999999,139.7613911" target="_blank">Ginza Kagari Main Branch</a></div>
-    <div style="white-space: pre;">$$  |  Hibiya, Tokyo</div>
+    <div style="white-space: pre;">$$  |  Tokyo</div>
     <div><a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/58177/f69d5871-2932-4f68-9157-38b9733ff5a9/images/li7j5cear1plpxhmmo.jpg">Special chicken</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/58177/f69d5871-2932-4f68-9157-38b9733ff5a9/images/33azio0nbrmtporrbjt.jpg">Chicken rice</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/58177/f69d5871-2932-4f68-9157-38b9733ff5a9/images/3l2stbblycieo7kdx7c.jpg">Special chicken sides</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/58177/f69d5871-2932-4f68-9157-38b9733ff5a9/images/ma8uz05j2ctj02vvilo.jpg">Soy sauce chicken</a></div>
 </td>
 <td class="good">9.6</td>
@@ -793,8 +793,19 @@ td {
 <td style="text-align: right"></td>
 </tr>
         
-<tr class="ny">
+<tr class="bay">
 <td style="text-align: right">55.</td>
+<td style="text-align: left; padding-right: 20px">
+    <div><a href="https://maps.google.com/maps?q=Cheese Board Collective Pizzeria&sll=37.87987,-122.26948&ll=37.87987,-122.26948" target="_blank">Cheese Board Collective Pizzeria</a></div>
+    <div style="white-space: pre;">$  |  North Berkeley, Berkeley, CA</div>
+    <div></div>
+</td>
+<td class="good">9.3</td>
+<td style="text-align: right"></td>
+</tr>
+        
+<tr class="ny">
+<td style="text-align: right">56.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Ghandi Cafe&sll=40.7319718,-74.0032038&ll=40.7319718,-74.0032038" target="_blank">Ghandi Cafe</a></div>
     <div style="white-space: pre;">$  |  South Village, New York, NY</div>
@@ -805,22 +816,11 @@ td {
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">56.</td>
+<td style="text-align: right">57.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Rowdy Rooster&sll=40.7284627,-73.98500709999999&ll=40.7284627,-73.98500709999999" target="_blank">Rowdy Rooster</a></div>
     <div style="white-space: pre;">$$  |  Ukrainian Village, New York, NY</div>
     <div><a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/87659/f69d5871-2932-4f68-9157-38b9733ff5a9/images/2evd9yi9y56hqc6w6ub.jpg">Big rowdy</a></div>
-</td>
-<td class="good">9.3</td>
-<td style="text-align: right"></td>
-</tr>
-        
-<tr class="bay">
-<td style="text-align: right">57.</td>
-<td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=The Cheeseboard Pizza&sll=37.87987,-122.26948&ll=37.87987,-122.26948" target="_blank">The Cheeseboard Pizza</a></div>
-    <div style="white-space: pre;">$  |  North Berkeley, Berkeley, CA</div>
-    <div></div>
 </td>
 <td class="good">9.3</td>
 <td style="text-align: right"></td>
@@ -1368,7 +1368,7 @@ td {
 <tr class="ny">
 <td style="text-align: right">107.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=Shanghai You Garden&sll=40.7588918,-73.8304711&ll=40.7588918,-73.8304711" target="_blank">Shanghai You Garden</a></div>
+    <div><a href="https://maps.google.com/maps?q=Shanghai You Garden 上海豫园&sll=40.7588918,-73.8304711&ll=40.7588918,-73.8304711" target="_blank">Shanghai You Garden 上海豫园</a></div>
     <div style="white-space: pre;">$  |  Flushing, New York, NY</div>
     <div><a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/9227/f69d5871-2932-4f68-9157-38b9733ff5a9/images/3am7vm7gj8wzavu9b.jpg">Sheng Jian Bao</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/9227/f69d5871-2932-4f68-9157-38b9733ff5a9/images/p060f7ordbxr8dmr5n.jpg">Cucumber</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/9227/f69d5871-2932-4f68-9157-38b9733ff5a9/images/ntx04514u2q9llnye21.jpg">Pan fried beef noodle</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/9227/f69d5871-2932-4f68-9157-38b9733ff5a9/images/gzvba58eu2wad99pzt7.jpg">Beef scallion pancake</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/9227/f69d5871-2932-4f68-9157-38b9733ff5a9/images/ad9wta17eihv3m0sk4e.jpg">Free duck</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/9227/f69d5871-2932-4f68-9157-38b9733ff5a9/images/m670joy2ozavhhvglxb.jpg">Tripe</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/9227/f69d5871-2932-4f68-9157-38b9733ff5a9/images/8shamfpjtzssuz5spbw.jpg">Free dessert</a></div>
 </td>
@@ -2721,7 +2721,7 @@ td {
 <tr class="ny">
 <td style="text-align: right">230.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=The Grey Dog—West Village&sll=40.73001169999999,-74.0038879&ll=40.73001169999999,-74.0038879" target="_blank">The Grey Dog—West Village</a></div>
+    <div><a href="https://maps.google.com/maps?q=The Grey Dog&sll=40.73001169999999,-74.0038879&ll=40.73001169999999,-74.0038879" target="_blank">The Grey Dog</a></div>
     <div style="white-space: pre;">$$  |  South Village, New York, NY</div>
     <div><a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/6392/f69d5871-2932-4f68-9157-38b9733ff5a9/images/5h1jfcucja6mil87k44.jpg">Egg & Cheese Croissant</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/6392/f69d5871-2932-4f68-9157-38b9733ff5a9/images/ok715s5re5dm46uxqp.jpg">Spicy Kale Caesar</a></div>
 </td>
@@ -2886,7 +2886,7 @@ td {
 <tr class="ny">
 <td style="text-align: right">245.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=Faicco’s Italian Specialties&sll=40.73111859999999,-74.0031248&ll=40.73111859999999,-74.0031248" target="_blank">Faicco’s Italian Specialties</a></div>
+    <div><a href="https://maps.google.com/maps?q=Faicco's&sll=40.73111859999999,-74.0031248&ll=40.73111859999999,-74.0031248" target="_blank">Faicco's</a></div>
     <div style="white-space: pre;">$$  |  West Village, New York, NY</div>
     <div></div>
 </td>
@@ -3151,7 +3151,7 @@ td {
 <td style="text-align: right">269.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Munchiez&sll=40.7300242,-74.0003048&ll=40.7300242,-74.0003048" target="_blank">Munchiez</a></div>
-    <div style="white-space: pre;">South Village, New York, NY</div>
+    <div style="white-space: pre;">$  |  South Village, New York, NY</div>
     <div><a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/178121/f69d5871-2932-4f68-9157-38b9733ff5a9/images/l9mjiofgab8xxgdq4.jpg">Pineapple Roast Pork Bun</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/178121/f69d5871-2932-4f68-9157-38b9733ff5a9/images/tce7hd8vgjgmei269l.jpg">Fried Wonton</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/178121/f69d5871-2932-4f68-9157-38b9733ff5a9/images/q34y4ce9exkes8q85ra.jpg">Chicken Steamed Bun</a></div>
 </td>
 <td class="fine">5.3</td>
