@@ -196,6 +196,12 @@ td {
 <input type="checkbox" name="japan" id="japan" checked onclick="setFilter('japan', this.checked)"/>
 <label for="japan">Japan</label>
     
+<input type="checkbox" name="london" id="london" checked onclick="setFilter('london', this.checked)"/>
+<label for="london">London</label>
+    
+<input type="checkbox" name="paris" id="paris" checked onclick="setFilter('paris', this.checked)"/>
+<label for="paris">Paris</label>
+    
 <input type="checkbox" name="georgia" id="georgia" checked onclick="setFilter('georgia', this.checked)"/>
 <label for="georgia">Georgia</label>
     
@@ -1080,7 +1086,7 @@ td {
 <td style="text-align: right"></td>
 </tr>
         
-<tr class="other">
+<tr class="london">
 <td style="text-align: right">74.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Cocoro Bloomsbury&sll=51.5172842,-0.1259073&ll=51.5172842,-0.1259073" target="_blank">Cocoro Bloomsbury</a></div>
@@ -1152,7 +1158,7 @@ td {
 <td style="text-align: right"></td>
 </tr>
         
-<tr class="other">
+<tr class="london">
 <td style="text-align: right">80.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Phat Phuc Noodle Bar&sll=51.4877048,-0.1691486&ll=51.4877048,-0.1691486" target="_blank">Phat Phuc Noodle Bar</a></div>
@@ -1164,7 +1170,7 @@ td {
 <td style="text-align: right"></td>
 </tr>
         
-<tr class="other">
+<tr class="london">
 <td style="text-align: right">81.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Gloria&sll=51.5251057,-0.08135139999999999&ll=51.5251057,-0.08135139999999999" target="_blank">Gloria</a></div>
@@ -1356,7 +1362,7 @@ td {
 <td style="text-align: right"></td>
 </tr>
         
-<tr class="other">
+<tr class="london">
 <td style="text-align: right">97.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Bubala Spitalfields&sll=51.51783400000001,-0.07414810000000001&ll=51.51783400000001,-0.07414810000000001" target="_blank">Bubala Spitalfields</a></div>
@@ -1860,7 +1866,7 @@ td {
 <td style="text-align: right"></td>
 </tr>
         
-<tr class="other">
+<tr class="london">
 <td style="text-align: right">139.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Ottolenghi Spitalfields&sll=51.5182265,-0.0771835&ll=51.5182265,-0.0771835" target="_blank">Ottolenghi Spitalfields</a></div>
@@ -1956,7 +1962,7 @@ td {
 <td style="text-align: right"></td>
 </tr>
         
-<tr class="other">
+<tr class="london">
 <td style="text-align: right">147.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Dishoom Shoreditch&sll=51.524476,-0.0764941&ll=51.524476,-0.0764941" target="_blank">Dishoom Shoreditch</a></div>
@@ -2139,7 +2145,7 @@ EDIT: I think the steak tartare did something bad to my stomach, beware!"</div>
 <td style="text-align: right"></td>
 </tr>
         
-<tr class="other">
+<tr class="london">
 <td style="text-align: right">162.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Monohon Ramen&sll=51.5246945,-0.09341479999999999&ll=51.5246945,-0.09341479999999999" target="_blank">Monohon Ramen</a></div>
@@ -2403,7 +2409,7 @@ EDIT: I think the steak tartare did something bad to my stomach, beware!"</div>
 <td style="text-align: right"></td>
 </tr>
         
-<tr class="other">
+<tr class="london">
 <td style="text-align: right">184.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Brigadiers&sll=51.5126036,-0.0916715&ll=51.5126036,-0.0916715" target="_blank">Brigadiers</a></div>
@@ -2415,7 +2421,7 @@ EDIT: I think the steak tartare did something bad to my stomach, beware!"</div>
 <td style="text-align: right"></td>
 </tr>
         
-<tr class="other">
+<tr class="london">
 <td style="text-align: right">185.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Gymkhana&sll=51.50849119999999,-0.1414724&ll=51.50849119999999,-0.1414724" target="_blank">Gymkhana</a></div>
@@ -2643,7 +2649,7 @@ EDIT: I think the steak tartare did something bad to my stomach, beware!"</div>
 <td style="text-align: right"></td>
 </tr>
         
-<tr class="other">
+<tr class="paris">
 <td style="text-align: right">204.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Le Clarence&sll=48.8674268,2.3097739&ll=48.8674268,2.3097739" target="_blank">Le Clarence</a></div>
@@ -2751,7 +2757,7 @@ EDIT: I think the steak tartare did something bad to my stomach, beware!"</div>
 <td style="text-align: right"></td>
 </tr>
         
-<tr class="other">
+<tr class="london">
 <td style="text-align: right">213.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Noodle & Beer&sll=51.5177,-0.0762809&ll=51.5177,-0.0762809" target="_blank">Noodle & Beer</a></div>
@@ -2859,7 +2865,7 @@ EDIT: I think the steak tartare did something bad to my stomach, beware!"</div>
 <td style="text-align: right"></td>
 </tr>
         
-<tr class="other">
+<tr class="london">
 <td style="text-align: right">222.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=De Beauvoir Deli Cafe (dine-in only)&sll=51.5412181,-0.0852561&ll=51.5412181,-0.0852561" target="_blank">De Beauvoir Deli Cafe (dine-in only)</a></div>
@@ -2883,7 +2889,7 @@ EDIT: I think the steak tartare did something bad to my stomach, beware!"</div>
 <td style="text-align: right"></td>
 </tr>
         
-<tr class="other">
+<tr class="paris">
 <td style="text-align: right">224.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Au P'tit Grec&sll=48.8427708,2.3495575&ll=48.8427708,2.3495575" target="_blank">Au P'tit Grec</a></div>
@@ -2907,7 +2913,7 @@ EDIT: I think the steak tartare did something bad to my stomach, beware!"</div>
 <td style="text-align: right"></td>
 </tr>
         
-<tr class="other">
+<tr class="paris">
 <td style="text-align: right">226.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Candelaria&sll=48.8629825,2.3640307&ll=48.8629825,2.3640307" target="_blank">Candelaria</a></div>
@@ -2957,7 +2963,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 <td style="text-align: right"></td>
 </tr>
         
-<tr class="other">
+<tr class="paris">
 <td style="text-align: right">230.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Cosi&sll=48.86238719999999,2.3651796&ll=48.86238719999999,2.3651796" target="_blank">Cosi</a></div>
@@ -3005,7 +3011,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 <td style="text-align: right"></td>
 </tr>
         
-<tr class="other">
+<tr class="london">
 <td style="text-align: right">234.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Shiro Sushi&sll=51.5182988,-0.08301710000000001&ll=51.5182988,-0.08301710000000001" target="_blank">Shiro Sushi</a></div>
@@ -3017,7 +3023,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 <td style="text-align: right"></td>
 </tr>
         
-<tr class="other">
+<tr class="london">
 <td style="text-align: right">235.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Nobu Restaurant London Shoreditch&sll=51.5250101,-0.08245010000000001&ll=51.5250101,-0.08245010000000001" target="_blank">Nobu Restaurant London Shoreditch</a></div>
@@ -3041,7 +3047,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 <td style="text-align: right"></td>
 </tr>
         
-<tr class="other">
+<tr class="paris">
 <td style="text-align: right">237.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Le Rapide&sll=48.8721155,2.3433099&ll=48.8721155,2.3433099" target="_blank">Le Rapide</a></div>
@@ -3089,7 +3095,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 <td style="text-align: right"></td>
 </tr>
         
-<tr class="other">
+<tr class="paris">
 <td style="text-align: right">241.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Kodawari Ramen (Tsukiji)&sll=48.8643421,2.3362452&ll=48.8643421,2.3362452" target="_blank">Kodawari Ramen (Tsukiji)</a></div>
@@ -3101,7 +3107,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 <td style="text-align: right"></td>
 </tr>
         
-<tr class="other">
+<tr class="london">
 <td style="text-align: right">242.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Lusin Mayfair&sll=51.5091663,-0.1433412&ll=51.5091663,-0.1433412" target="_blank">Lusin Mayfair</a></div>
@@ -3125,7 +3131,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 <td style="text-align: right"></td>
 </tr>
         
-<tr class="other">
+<tr class="paris">
 <td style="text-align: right">244.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=La Baguette du Relais&sll=48.85756749999999,2.3544852&ll=48.85756749999999,2.3544852" target="_blank">La Baguette du Relais</a></div>
@@ -3257,7 +3263,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 <td style="text-align: right"></td>
 </tr>
         
-<tr class="other">
+<tr class="london">
 <td style="text-align: right">255.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Ozone Coffee Roasters, Shoreditch&sll=51.5247109,-0.08673439999999998&ll=51.5247109,-0.08673439999999998" target="_blank">Ozone Coffee Roasters, Shoreditch</a></div>
@@ -3617,7 +3623,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 <td style="text-align: right"></td>
 </tr>
         
-<tr class="other">
+<tr class="london">
 <td style="text-align: right">285.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=BAO Noodle Shop&sll=51.524387,-0.07696560000000002&ll=51.524387,-0.07696560000000002" target="_blank">BAO Noodle Shop</a></div>
@@ -3713,7 +3719,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 <td style="text-align: right"></td>
 </tr>
         
-<tr class="other">
+<tr class="london">
 <td style="text-align: right">293.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Beigel Bake Brick Lane Bakery&sll=51.52449849999999,-0.07176080000000001&ll=51.52449849999999,-0.07176080000000001" target="_blank">Beigel Bake Brick Lane Bakery</a></div>
@@ -3773,7 +3779,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 <td style="text-align: right"></td>
 </tr>
         
-<tr class="other">
+<tr class="london">
 <td style="text-align: right">298.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Scotti's Snack Bar&sll=51.5230146,-0.1055962&ll=51.5230146,-0.1055962" target="_blank">Scotti's Snack Bar</a></div>
@@ -4001,7 +4007,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 <td style="text-align: right"></td>
 </tr>
         
-<tr class="other">
+<tr class="london">
 <td style="text-align: right">317.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Hackney Church Brew Co.&sll=51.5473845,-0.0523933&ll=51.5473845,-0.0523933" target="_blank">Hackney Church Brew Co.</a></div>
@@ -4147,7 +4153,7 @@ The best part was actually the various apps they served before we sat (cheese br
 <td style="text-align: right"></td>
 </tr>
         
-<tr class="other">
+<tr class="paris">
 <td style="text-align: right">329.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=La Tour Montlhéry - Chez Denise&sll=48.86153400000001,2.344001&ll=48.86153400000001,2.344001" target="_blank">La Tour Montlhéry - Chez Denise</a></div>
@@ -4255,7 +4261,7 @@ The best part was actually the various apps they served before we sat (cheese br
 <td style="text-align: right"></td>
 </tr>
         
-<tr class="other">
+<tr class="london">
 <td style="text-align: right">338.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Tacos Padre&sll=51.5061414,-0.0907623&ll=51.5061414,-0.0907623" target="_blank">Tacos Padre</a></div>
@@ -4279,7 +4285,7 @@ The best part was actually the various apps they served before we sat (cheese br
 <td style="text-align: right"></td>
 </tr>
         
-<tr class="other">
+<tr class="london">
 <td style="text-align: right">340.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Horn OK Please&sll=51.5059943,-0.0909201&ll=51.5059943,-0.0909201" target="_blank">Horn OK Please</a></div>
@@ -4291,7 +4297,7 @@ The best part was actually the various apps they served before we sat (cheese br
 <td style="text-align: right"></td>
 </tr>
         
-<tr class="other">
+<tr class="london">
 <td style="text-align: right">341.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Kennedy's&sll=51.5236053,-0.09344440000000001&ll=51.5236053,-0.09344440000000001" target="_blank">Kennedy's</a></div>
@@ -4389,7 +4395,7 @@ Dumplings were good, rest was meh."</div>
 <td style="text-align: right"></td>
 </tr>
         
-<tr class="other">
+<tr class="london">
 <td style="text-align: right">349.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Jack The Chipper&sll=51.5161676,-0.06984969999999999&ll=51.5161676,-0.06984969999999999" target="_blank">Jack The Chipper</a></div>
@@ -4425,7 +4431,7 @@ Dumplings were good, rest was meh."</div>
 <td style="text-align: right"></td>
 </tr>
         
-<tr class="other">
+<tr class="paris">
 <td style="text-align: right">352.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Jixiao’s Buns&sll=48.8540473,2.3432704&ll=48.8540473,2.3432704" target="_blank">Jixiao’s Buns</a></div>
@@ -4743,7 +4749,7 @@ function setFilter(name, checked) {
 }
 
 if (window.location.hash.length > 1) {
-    for (const name of ['la', 'bay', 'ny', 'japan', 'georgia', 'other']) {
+    for (const name of ['la', 'bay', 'ny', 'japan', 'london', 'paris', 'georgia', 'other']) {
         const e = document.getElementById(name)
         e.checked = "#" + name == window.location.hash
         e.onclick()
