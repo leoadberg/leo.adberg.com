@@ -1,7 +1,10 @@
-#!/usr/bin/python3
-
-URL = "https://beli.cleverapps.io/api/rank-list/f69d5871-2932-4f68-9157-38b9733ff5a9/"
-IMAGEURL = "https://beli.cleverapps.io/api/user-business-photo/?user=f69d5871-2932-4f68-9157-38b9733ff5a9&business="
+#!/usr/bin/python3 
+USER = "f69d5871-2932-4f68-9157-38b9733ff5a9"
+API = "https://backoffice-service-t57o3dxfca-nn.a.run.app/api"
+RESTAURANTS = f"{API}/get-ranking/?user={USER}&category=RES"
+SCORES      = f"{API}/scores/{USER}/"
+NOTES       = f"{API}/datauserbusinesstext-sparse/?field__name=NOTES&user={USER}"
+IMAGEURL    = f"{API}/user-business-photo/?user={USER}&business="
 OUTPUT = "food"
 
 regions = [
@@ -18,35 +21,46 @@ from tqdm.contrib.concurrent import process_map
 
 def getImages(r, retries=4):
     try:
-        with urllib.request.urlopen(IMAGEURL+str(r["business__id"]), timeout=2) as imageurl:
+        id = r["business"]["id"]
+        with urllib.request.urlopen(IMAGEURL+str(id), timeout=2) as imageurl:
             imagedata = json.load(imageurl)
         return imagedata["results"]
     except Exception as e:
         if retries > 0:
             return getImages(r, retries-1)
-        print("Failed to get photos for " + r["business__name"])
+        print(f"Failed to get photos for {r=}")
         return []
-    # print(r["business__name"])
 
 if __name__ == "__main__":
-    with urllib.request.urlopen(URL) as url:
+    with urllib.request.urlopen(RESTAURANTS) as url:
         data = json.load(url)
+        data = data["results"]
 
-    # data.append({
-    #   "business__id": -1,
-    #   "business__name": "El Primo Tacos",
-    #   "score": 10,
-    #   "business__neighborhood": "Venice",
-    #   "business__city": "Los Angeles, CA",
-    #   "business__lat": 33.99858,
-    #   "business__lng": -118.46253,
-    #   "business__price": 1,
-    # })
+    with urllib.request.urlopen(SCORES) as url:
+        scores = json.load(url)
+        scoremap = {}
+        for item in scores:
+            if item["user_id"] == USER:
+                scoremap[item["business_id"]] = item["value"]
+
+    with urllib.request.urlopen(NOTES) as url:
+        notes = json.load(url)
+        notes = notes["results"]
+        notesmap = {}
+        for item in notes:
+            if item["user"] == USER:
+                notesmap[item["business"]] = item["value"]
+
+    for item in data:
+        business_id = item["business"]["id"]
+        item["score"] = scoremap[business_id]
+        if business_id in notesmap:
+            item["notes"] = notesmap[business_id]
 
     for i, im in enumerate(process_map(getImages, data, max_workers=50)):
         data[i]["images"] = im
 
-    data.sort(key=lambda r: (-r["score"], r["business__name"]))
+    data.sort(key=lambda r: (-r["score"], r["business"]["name"]))
 
     filters = ""
     for name, disp, _, _, _ in regions:
@@ -57,9 +71,10 @@ if __name__ == "__main__":
 
     body = ""
     for i, r in enumerate(data):
-        id = r["business__id"]
-        lat = float(r["business__lat"])
-        lon = float(r["business__lng"])
+        b = r["business"]
+        id = b["id"]
+        lat = float(b["lat"])
+        lon = float(b["lng"])
         region = "Other"
         for name, _, _lat, _lon, radius in regions:
             if math.sqrt((lat - _lat) ** 2 + (lon - _lon) ** 2) < radius:
@@ -68,9 +83,9 @@ if __name__ == "__main__":
         else:
             assert False
 
-        city = r.get("business__city")
-        neighborhood = r.get("business__neighborhood")
-        price = r.get("business__price")
+        city = b["city"]
+        neighborhood = b["neighborhood"]
+        price = b["price"]
         subtext = city
         if neighborhood is not None:
             subtext = neighborhood + ", " + subtext
@@ -90,13 +105,18 @@ if __name__ == "__main__":
         if score < 3.5:
             color = "bad"
 
+        note = ""
+        if "notes" in r:
+            note = f"""<div class="note">"{r["notes"]}"</div>"""
+
         body += f"""
 <tr class="{region}">
 <td style="text-align: right">{i+1}.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q={r["business__name"]}&sll={lat},{lon}&ll={lat},{lon}" target="_blank">{r["business__name"]}</a></div>
+    <div><a href="https://maps.google.com/maps?q={b["name"]}&sll={lat},{lon}&ll={lat},{lon}" target="_blank">{b["name"]}</a></div>
     <div style="white-space: pre;">{subtext}</div>
     <div>{images}</div>
+    {note}
 </td>
 <td class="{color}">{score:.1f}</td>
 <td style="text-align: right"></td>
@@ -272,6 +292,11 @@ td {
 
 .bad {
   color: #e22525;
+}
+
+.note {
+  font-style: italic;
+  padding-top: 0.5em;
 }
 
 </style>
