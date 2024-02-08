@@ -14,6 +14,7 @@ regions = [
     ("japan", "Japan", 35.7, 139.7, 10),
     ("london", "London", 51, 0, 2),
     ("paris", "Paris", 49, 2, 2),
+    ("singapore", "Singapore", 1, 104, 2),
     ("georgia", "Georgia", 42, 44, 4),
     ("other", "Other", 0, 0, 10000),
 ]

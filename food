@@ -202,6 +202,9 @@ td {
 <input type="checkbox" name="paris" id="paris" checked onclick="setFilter('paris', this.checked)"/>
 <label for="paris">Paris</label>
     
+<input type="checkbox" name="singapore" id="singapore" checked onclick="setFilter('singapore', this.checked)"/>
+<label for="singapore">Singapore</label>
+    
 <input type="checkbox" name="georgia" id="georgia" checked onclick="setFilter('georgia', this.checked)"/>
 <label for="georgia">Georgia</label>
     
@@ -738,7 +741,7 @@ td {
 <td style="text-align: right"></td>
 </tr>
         
-<tr class="other">
+<tr class="singapore">
 <td style="text-align: right">45.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Din Tai Fung @ Marina Bay Link Mall&sll=1.2806453,103.8537135&ll=1.2806453,103.8537135" target="_blank">Din Tai Fung @ Marina Bay Link Mall</a></div>
@@ -1278,7 +1281,7 @@ td {
 <td style="text-align: right"></td>
 </tr>
         
-<tr class="other">
+<tr class="singapore">
 <td style="text-align: right">90.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Artichoke&sll=1.2995512,103.8519462&ll=1.2995512,103.8519462" target="_blank">Artichoke</a></div>
@@ -1446,7 +1449,7 @@ td {
 <td style="text-align: right"></td>
 </tr>
         
-<tr class="other">
+<tr class="singapore">
 <td style="text-align: right">104.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Burnt Ends&sll=1.304606,103.8089925&ll=1.304606,103.8089925" target="_blank">Burnt Ends</a></div>
@@ -1902,7 +1905,7 @@ td {
 <td style="text-align: right"></td>
 </tr>
         
-<tr class="other">
+<tr class="singapore">
 <td style="text-align: right">142.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Shikar&sll=1.2795541,103.8445551&ll=1.2795541,103.8445551" target="_blank">Shikar</a></div>
@@ -2289,7 +2292,7 @@ EDIT: I think the steak tartare did something bad to my stomach, beware!"</div>
 <td style="text-align: right"></td>
 </tr>
         
-<tr class="other">
+<tr class="singapore">
 <td style="text-align: right">174.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Ah Heng Curry Chicken Bee Hoon Mee&sll=1.2853975,103.8458637&ll=1.2853975,103.8458637" target="_blank">Ah Heng Curry Chicken Bee Hoon Mee</a></div>
@@ -2373,7 +2376,7 @@ EDIT: I think the steak tartare did something bad to my stomach, beware!"</div>
 <td style="text-align: right"></td>
 </tr>
         
-<tr class="other">
+<tr class="singapore">
 <td style="text-align: right">181.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Ah Tai Hainanese Chicken Rice (#01-07)&sll=1.2802419,103.8449058&ll=1.2802419,103.8449058" target="_blank">Ah Tai Hainanese Chicken Rice (#01-07)</a></div>
@@ -2493,7 +2496,7 @@ EDIT: I think the steak tartare did something bad to my stomach, beware!"</div>
 <td style="text-align: right"></td>
 </tr>
         
-<tr class="other">
+<tr class="singapore">
 <td style="text-align: right">191.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Song Fa Bak Kut Teh Chinatown Point&sll=1.2852093,103.8447228&ll=1.2852093,103.8447228" target="_blank">Song Fa Bak Kut Teh Chinatown Point</a></div>
@@ -2625,7 +2628,7 @@ EDIT: I think the steak tartare did something bad to my stomach, beware!"</div>
 <td style="text-align: right"></td>
 </tr>
         
-<tr class="other">
+<tr class="singapore">
 <td style="text-align: right">202.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Toast Box @ Chinatown Point&sll=1.2856236,103.8449596&ll=1.2856236,103.8449596" target="_blank">Toast Box @ Chinatown Point</a></div>
@@ -2721,7 +2724,7 @@ EDIT: I think the steak tartare did something bad to my stomach, beware!"</div>
 <td style="text-align: right"></td>
 </tr>
         
-<tr class="other">
+<tr class="singapore">
 <td style="text-align: right">210.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Tanglin Crispy Curry Puff Original (Corner Stall#02-36)&sll=1.2853166,103.8458369&ll=1.2853166,103.8458369" target="_blank">Tanglin Crispy Curry Puff Original (Corner Stall#02-36)</a></div>
@@ -2999,7 +3002,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 <td style="text-align: right"></td>
 </tr>
         
-<tr class="other">
+<tr class="singapore">
 <td style="text-align: right">233.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=海底捞 Haidilao Hot Pot @Clarke Quay&sll=1.2898252,103.8455401&ll=1.2898252,103.8455401" target="_blank">海底捞 Haidilao Hot Pot @Clarke Quay</a></div>
@@ -3035,7 +3038,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 <td style="text-align: right"></td>
 </tr>
         
-<tr class="other">
+<tr class="singapore">
 <td style="text-align: right">236.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Flutes Restaurant . Bar&sll=1.2966058,103.8488293&ll=1.2966058,103.8488293" target="_blank">Flutes Restaurant . Bar</a></div>
@@ -3059,7 +3062,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 <td style="text-align: right"></td>
 </tr>
         
-<tr class="other">
+<tr class="singapore">
 <td style="text-align: right">238.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Tian Tian Hainanese Chicken Rice- Maxwell Food Centre&sll=1.2804528,103.8447987&ll=1.2804528,103.8447987" target="_blank">Tian Tian Hainanese Chicken Rice- Maxwell Food Centre</a></div>
@@ -3143,7 +3146,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 <td style="text-align: right"></td>
 </tr>
         
-<tr class="other">
+<tr class="singapore">
 <td style="text-align: right">245.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Lau Pa Sat&sll=1.2805121,103.8503809&ll=1.2805121,103.8503809" target="_blank">Lau Pa Sat</a></div>
@@ -3683,7 +3686,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 <td style="text-align: right"></td>
 </tr>
         
-<tr class="other">
+<tr class="singapore">
 <td style="text-align: right">290.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Ya Kun Kaya Toast&sll=1.2836577,103.8479747&ll=1.2836577,103.8479747" target="_blank">Ya Kun Kaya Toast</a></div>
@@ -4455,7 +4458,7 @@ Dumplings were good, rest was meh."</div>
 <td style="text-align: right"></td>
 </tr>
         
-<tr class="other">
+<tr class="singapore">
 <td style="text-align: right">354.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=The Hainan Story Chapter One (Hotel Boss)&sll=1.3054275,103.8602641&ll=1.3054275,103.8602641" target="_blank">The Hainan Story Chapter One (Hotel Boss)</a></div>
@@ -4503,7 +4506,7 @@ Dumplings were good, rest was meh."</div>
 <td style="text-align: right"></td>
 </tr>
         
-<tr class="other">
+<tr class="singapore">
 <td style="text-align: right">358.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Hajmeer Kwaja Muslim Food&sll=1.280085,103.8448609&ll=1.280085,103.8448609" target="_blank">Hajmeer Kwaja Muslim Food</a></div>
@@ -4527,7 +4530,7 @@ Dumplings were good, rest was meh."</div>
 <td style="text-align: right"></td>
 </tr>
         
-<tr class="other">
+<tr class="singapore">
 <td style="text-align: right">360.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=db Bistro & Oyster Bar by Daniel Boulud&sll=1.2859317,103.8594874&ll=1.2859317,103.8594874" target="_blank">db Bistro & Oyster Bar by Daniel Boulud</a></div>
@@ -4611,7 +4614,7 @@ Dumplings were good, rest was meh."</div>
 <td style="text-align: right"></td>
 </tr>
         
-<tr class="other">
+<tr class="singapore">
 <td style="text-align: right">367.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Genki Sushi Chinatown Point&sll=1.2852093,103.8447228&ll=1.2852093,103.8447228" target="_blank">Genki Sushi Chinatown Point</a></div>
@@ -4749,7 +4752,7 @@ function setFilter(name, checked) {
 }
 
 if (window.location.hash.length > 1) {
-    for (const name of ['la', 'bay', 'ny', 'japan', 'london', 'paris', 'georgia', 'other']) {
+    for (const name of ['la', 'bay', 'ny', 'japan', 'london', 'paris', 'singapore', 'georgia', 'other']) {
         const e = document.getElementById(name)
         e.checked = "#" + name == window.location.hash
         e.onclick()
