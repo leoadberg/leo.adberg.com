@@ -219,7 +219,7 @@ td {
     <div><a href="https://maps.google.com/maps?q=El Primo Taco&sll=33.998596,-118.4625137&ll=33.998596,-118.4625137" target="_blank">El Primo Taco</a></div>
     <div style="white-space: pre;">$  |  Venice, Los Angeles, CA</div>
     <div><a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/132998/f69d5871-2932-4f68-9157-38b9733ff5a9/images/0uz4ijqflsg4jgvuvrd.jpg">Al pastor tacos</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/132998/f69d5871-2932-4f68-9157-38b9733ff5a9/images/3hq2u5ngnmqexw5n8e5.jpg">Tacos, quesadilla, burrito</a></div>
-    
+    <div class="note">"Ask for pineapple with the al pastor tacos"</div>
 </td>
 <td class="good">10.0</td>
 <td style="text-align: right"></td>
@@ -1837,7 +1837,7 @@ td {
 <td style="text-align: right">136.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Menkoi Sato&sll=40.7317786,-74.0016198&ll=40.7317786,-74.0016198" target="_blank">Menkoi Sato</a></div>
-    <div style="white-space: pre;">$$$  |  South Village, New York, NY</div>
+    <div style="white-space: pre;">$$  |  South Village, New York, NY</div>
     <div><a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/6564/f69d5871-2932-4f68-9157-38b9733ff5a9/images/z1bvccms1mpcdpja39.jpg">Spicy Miso Vegetarian</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/6564/f69d5871-2932-4f68-9157-38b9733ff5a9/images/u8vl07wq68bjhm5i3a5.jpg">Cold Tantan</a></div>
     
 </td>
