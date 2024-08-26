@@ -1181,7 +1181,7 @@ td {
     <div></div>
     
 </td>
-<td class="good">9.3</td>
+<td class="good">9.4</td>
 <td style="text-align: right"></td>
 </tr>
         
@@ -1365,11 +1365,11 @@ td {
 <td style="text-align: right"></td>
 </tr>
         
-<tr class="la">
+<tr class="bay">
 <td style="text-align: right">97.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=Marugame Udon&sll=34.0401035,-118.4431794&ll=34.0401035,-118.4431794" target="_blank">Marugame Udon</a></div>
-    <div style="white-space: pre;">$  |  Sawtelle Japantown, Los Angeles, CA</div>
+    <div><a href="https://maps.google.com/maps?q=Marugame Udon&sll=37.8733801,-122.2682974&ll=37.8733801,-122.2682974" target="_blank">Marugame Udon</a></div>
+    <div style="white-space: pre;">$$  |  Downtown Berkeley, Berkeley, CA</div>
     <div></div>
     
 </td>
@@ -1377,11 +1377,11 @@ td {
 <td style="text-align: right"></td>
 </tr>
         
-<tr class="bay">
+<tr class="la">
 <td style="text-align: right">98.</td>
 <td style="text-align: left; padding-right: 20px">
-    <div><a href="https://maps.google.com/maps?q=Marugame Udon&sll=37.8733801,-122.2682974&ll=37.8733801,-122.2682974" target="_blank">Marugame Udon</a></div>
-    <div style="white-space: pre;">$$  |  Downtown Berkeley, Berkeley, CA</div>
+    <div><a href="https://maps.google.com/maps?q=Marugame Udon&sll=34.0401035,-118.4431794&ll=34.0401035,-118.4431794" target="_blank">Marugame Udon</a></div>
+    <div style="white-space: pre;">$  |  Sawtelle Japantown, Los Angeles, CA</div>
     <div></div>
     
 </td>
@@ -1627,7 +1627,7 @@ Miss: foie gras, ceviche, goi"</div>
     <div></div>
     
 </td>
-<td class="good">9.0</td>
+<td class="good">9.1</td>
 <td style="text-align: right"></td>
 </tr>
         
@@ -1799,8 +1799,20 @@ Miss: foie gras, ceviche, goi"</div>
 <td style="text-align: right"></td>
 </tr>
         
-<tr class="other">
+<tr class="ny">
 <td style="text-align: right">133.</td>
+<td style="text-align: left; padding-right: 20px">
+    <div><a href="https://maps.google.com/maps?q=Nili&sll=40.6793285,-73.9958123&ll=40.6793285,-73.9958123" target="_blank">Nili</a></div>
+    <div style="white-space: pre;">$  |  Carroll Gardens, New York, NY</div>
+    <div><a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/8206/f69d5871-2932-4f68-9157-38b9733ff5a9/images/eeolofykavcau8rhc6v.jpg">BEC on pita</a></div>
+    <div class="note">"Pita BEC was great but huge and greasy, good matcha latte too"</div>
+</td>
+<td class="good">8.9</td>
+<td style="text-align: right"></td>
+</tr>
+        
+<tr class="other">
+<td style="text-align: right">134.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Franklin Barbecue&sll=30.270125,-97.73134189999999&ll=30.270125,-97.73134189999999" target="_blank">Franklin Barbecue</a></div>
     <div style="white-space: pre;">$$  |  Central East Austin, Austin, TX</div>
@@ -1812,7 +1824,7 @@ Miss: foie gras, ceviche, goi"</div>
 </tr>
         
 <tr class="la">
-<td style="text-align: right">134.</td>
+<td style="text-align: right">135.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Hangari Kalguksu&sll=34.0628876,-118.2975914&ll=34.0628876,-118.2975914" target="_blank">Hangari Kalguksu</a></div>
     <div style="white-space: pre;">$$  |  Koreatown, Los Angeles, CA</div>
@@ -1824,7 +1836,7 @@ Miss: foie gras, ceviche, goi"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">135.</td>
+<td style="text-align: right">136.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Lemongrass Brooklyn&sll=40.68867339999999,-73.99312359999999&ll=40.68867339999999,-73.99312359999999" target="_blank">Lemongrass Brooklyn</a></div>
     <div style="white-space: pre;">$$  |  Cobble Hill, New York, NY</div>
@@ -1836,7 +1848,7 @@ Miss: foie gras, ceviche, goi"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">136.</td>
+<td style="text-align: right">137.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Shanghai You Garden 上海豫园&sll=40.7588918,-73.8304711&ll=40.7588918,-73.8304711" target="_blank">Shanghai You Garden 上海豫园</a></div>
     <div style="white-space: pre;">$  |  Flushing, New York, NY</div>
@@ -1848,7 +1860,7 @@ Miss: foie gras, ceviche, goi"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">137.</td>
+<td style="text-align: right">138.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Dhamaka&sll=40.7182426,-73.9879902&ll=40.7182426,-73.9879902" target="_blank">Dhamaka</a></div>
     <div style="white-space: pre;">$$$  |  Lower East Side, New York, NY</div>
@@ -1860,7 +1872,7 @@ Miss: foie gras, ceviche, goi"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">138.</td>
+<td style="text-align: right">139.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Au Cheval&sll=40.7181159,-74.0019617&ll=40.7181159,-74.0019617" target="_blank">Au Cheval</a></div>
     <div style="white-space: pre;">$$$  |  Chinatown, New York, NY</div>
@@ -1872,7 +1884,7 @@ Miss: foie gras, ceviche, goi"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">139.</td>
+<td style="text-align: right">140.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Farm To People - Kitchen, Bar & Online Farmers Market&sll=40.7052363,-73.9269348&ll=40.7052363,-73.9269348" target="_blank">Farm To People - Kitchen, Bar & Online Farmers Market</a></div>
     <div style="white-space: pre;">$$  |  East Williamsburg, New York, NY</div>
@@ -1884,7 +1896,7 @@ Miss: foie gras, ceviche, goi"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">140.</td>
+<td style="text-align: right">141.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Sonnyboy&sll=40.7205154,-73.9901841&ll=40.7205154,-73.9901841" target="_blank">Sonnyboy</a></div>
     <div style="white-space: pre;">$$  |  Bowery, New York, NY</div>
@@ -1896,7 +1908,7 @@ Miss: foie gras, ceviche, goi"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">141.</td>
+<td style="text-align: right">142.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=MiGarba NYC&sll=40.7326763,-74.0040228&ll=40.7326763,-74.0040228" target="_blank">MiGarba NYC</a></div>
     <div style="white-space: pre;">$$$  |  West Village, New York, NY</div>
@@ -1908,19 +1920,19 @@ Miss: foie gras, ceviche, goi"</div>
 </tr>
         
 <tr class="bay">
-<td style="text-align: right">142.</td>
+<td style="text-align: right">143.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Kinda Izakaya&sll=37.8719736,-122.2720792&ll=37.8719736,-122.2720792" target="_blank">Kinda Izakaya</a></div>
     <div style="white-space: pre;">$$  |  Downtown Berkeley, Berkeley, CA</div>
     <div><a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/594532/f69d5871-2932-4f68-9157-38b9733ff5a9/images/yvxxu7be3dz0us8pa0.jpg">Chicken Thigh</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/594532/f69d5871-2932-4f68-9157-38b9733ff5a9/images/y3q7l67yuidocqx5iiw.jpg">Bacon wrapped veg</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/594532/f69d5871-2932-4f68-9157-38b9733ff5a9/images/bpgo2z66io2ylzllk4.jpg">Okonomiyaki</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/594532/f69d5871-2932-4f68-9157-38b9733ff5a9/images/hgb7rr4p81eg38q9fn.jpg">Yellowtail Carpaccio</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/594532/f69d5871-2932-4f68-9157-38b9733ff5a9/images/5yphgzi5nd89tnsr8ng.jpg">Veg</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/594532/f69d5871-2932-4f68-9157-38b9733ff5a9/images/7ywdpgtw8hxya2bwapo.jpg">Veg Tempura</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/594532/f69d5871-2932-4f68-9157-38b9733ff5a9/images/e0yqjg3qjjfq9fef4gj.jpg">Corn</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/594532/f69d5871-2932-4f68-9157-38b9733ff5a9/images/9cnc3lh5uplnukuuli.jpg">Kinda Tofu</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/594532/f69d5871-2932-4f68-9157-38b9733ff5a9/images/hlvd9zkr5fahh3v0su.jpg">Agedashi Tofu</a></div>
     
 </td>
-<td class="good">8.9</td>
+<td class="good">8.8</td>
 <td style="text-align: right"></td>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">143.</td>
+<td style="text-align: right">144.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Utopia Bagels&sll=40.7802213,-73.79374059999999&ll=40.7802213,-73.79374059999999" target="_blank">Utopia Bagels</a></div>
     <div style="white-space: pre;">$  |  Whitestone, New York, NY</div>
@@ -1932,7 +1944,7 @@ Miss: foie gras, ceviche, goi"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">144.</td>
+<td style="text-align: right">145.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Menkoi Sato&sll=40.7317786,-74.0016198&ll=40.7317786,-74.0016198" target="_blank">Menkoi Sato</a></div>
     <div style="white-space: pre;">$$  |  South Village, New York, NY</div>
@@ -1944,7 +1956,7 @@ Miss: foie gras, ceviche, goi"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">145.</td>
+<td style="text-align: right">146.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Saigon Shack&sll=40.7296889,-74.000625&ll=40.7296889,-74.000625" target="_blank">Saigon Shack</a></div>
     <div style="white-space: pre;">$  |  South Village, New York, NY</div>
@@ -1956,7 +1968,7 @@ Miss: foie gras, ceviche, goi"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">146.</td>
+<td style="text-align: right">147.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=dhom&sll=40.7290594,-73.9809167&ll=40.7290594,-73.9809167" target="_blank">dhom</a></div>
     <div style="white-space: pre;">$$  |  Alphabet City, New York, NY</div>
@@ -1968,7 +1980,7 @@ Miss: foie gras, ceviche, goi"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">147.</td>
+<td style="text-align: right">148.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Golden Diner&sll=40.7124315,-73.99410449999999&ll=40.7124315,-73.99410449999999" target="_blank">Golden Diner</a></div>
     <div style="white-space: pre;">$$  |  Two Bridges, New York, NY</div>
@@ -1980,7 +1992,7 @@ Miss: foie gras, ceviche, goi"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">148.</td>
+<td style="text-align: right">149.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Baker & Co&sll=40.73134230000001,-74.0028995&ll=40.73134230000001,-74.0028995" target="_blank">Baker & Co</a></div>
     <div style="white-space: pre;">$$  |  South Village, New York, NY</div>
@@ -1992,7 +2004,7 @@ Miss: foie gras, ceviche, goi"</div>
 </tr>
         
 <tr class="bay">
-<td style="text-align: right">149.</td>
+<td style="text-align: right">150.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Comal&sll=37.87158069999999,-122.2686336&ll=37.87158069999999,-122.2686336" target="_blank">Comal</a></div>
     <div style="white-space: pre;">$$  |  Downtown Berkeley, Berkeley, CA</div>
@@ -2004,7 +2016,7 @@ Miss: foie gras, ceviche, goi"</div>
 </tr>
         
 <tr class="la">
-<td style="text-align: right">150.</td>
+<td style="text-align: right">151.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Seoul Tofu&sll=34.03924889999999,-118.4426108&ll=34.03924889999999,-118.4426108" target="_blank">Seoul Tofu</a></div>
     <div style="white-space: pre;">$$  |  Sawtelle Japantown, Los Angeles, CA</div>
@@ -2016,7 +2028,7 @@ Miss: foie gras, ceviche, goi"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">151.</td>
+<td style="text-align: right">152.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Streecha&sll=40.7284756,-73.9889486&ll=40.7284756,-73.9889486" target="_blank">Streecha</a></div>
     <div style="white-space: pre;">$  |  Ukrainian Village, New York, NY</div>
@@ -2028,7 +2040,7 @@ Miss: foie gras, ceviche, goi"</div>
 </tr>
         
 <tr class="la">
-<td style="text-align: right">152.</td>
+<td style="text-align: right">153.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Animal Restaurant&sll=34.0792438,-118.3617787&ll=34.0792438,-118.3617787" target="_blank">Animal Restaurant</a></div>
     <div style="white-space: pre;">$$$  |  Central LA, Los Angeles, CA</div>
@@ -2040,7 +2052,7 @@ Miss: foie gras, ceviche, goi"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">153.</td>
+<td style="text-align: right">154.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Jongro BBQ&sll=40.7475891,-73.986913&ll=40.7475891,-73.986913" target="_blank">Jongro BBQ</a></div>
     <div style="white-space: pre;">$$$  |  Koreatown, New York, NY</div>
@@ -2052,7 +2064,7 @@ Miss: foie gras, ceviche, goi"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">154.</td>
+<td style="text-align: right">155.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Euljiro Korean Bistro&sll=40.73198989999999,-74.0039956&ll=40.73198989999999,-74.0039956" target="_blank">Euljiro Korean Bistro</a></div>
     <div style="white-space: pre;">West Village, New York, NY</div>
@@ -2064,7 +2076,7 @@ Miss: foie gras, ceviche, goi"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">155.</td>
+<td style="text-align: right">156.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Thai Diner&sll=40.7207143,-73.99565&ll=40.7207143,-73.99565" target="_blank">Thai Diner</a></div>
     <div style="white-space: pre;">$$  |  Nolita, New York, NY</div>
@@ -2076,7 +2088,7 @@ Miss: foie gras, ceviche, goi"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">156.</td>
+<td style="text-align: right">157.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=HOJOKBAN NYC&sll=40.7457255,-73.98477749999999&ll=40.7457255,-73.98477749999999" target="_blank">HOJOKBAN NYC</a></div>
     <div style="white-space: pre;">$$$  |  Midtown South, New York, NY</div>
@@ -2088,7 +2100,7 @@ Miss: foie gras, ceviche, goi"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">157.</td>
+<td style="text-align: right">158.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Foxface Natural&sll=40.7289789,-73.9816763&ll=40.7289789,-73.9816763" target="_blank">Foxface Natural</a></div>
     <div style="white-space: pre;">$$$  |  Ukrainian Village, New York, NY</div>
@@ -2100,7 +2112,7 @@ Miss: foie gras, ceviche, goi"</div>
 </tr>
         
 <tr class="other">
-<td style="text-align: right">158.</td>
+<td style="text-align: right">159.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Veracruz All Natural&sll=30.2629831,-97.7138705&ll=30.2629831,-97.7138705" target="_blank">Veracruz All Natural</a></div>
     <div style="white-space: pre;">$  |  Blackshear-Prospect Hill, Austin, TX</div>
@@ -2112,7 +2124,7 @@ Miss: foie gras, ceviche, goi"</div>
 </tr>
         
 <tr class="bay">
-<td style="text-align: right">159.</td>
+<td style="text-align: right">160.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Good To Eat&sll=37.8472012,-122.2905755&ll=37.8472012,-122.2905755" target="_blank">Good To Eat</a></div>
     <div style="white-space: pre;">$$$  |  Emeryville, CA</div>
@@ -2124,7 +2136,7 @@ Miss: foie gras, ceviche, goi"</div>
 </tr>
         
 <tr class="bay">
-<td style="text-align: right">160.</td>
+<td style="text-align: right">161.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Grégoire Restaurant&sll=37.8785833,-122.2685778&ll=37.8785833,-122.2685778" target="_blank">Grégoire Restaurant</a></div>
     <div style="white-space: pre;">$$  |  North Berkeley, Berkeley, CA</div>
@@ -2136,7 +2148,7 @@ Miss: foie gras, ceviche, goi"</div>
 </tr>
         
 <tr class="london">
-<td style="text-align: right">161.</td>
+<td style="text-align: right">162.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Ottolenghi Spitalfields&sll=51.5182265,-0.0771835&ll=51.5182265,-0.0771835" target="_blank">Ottolenghi Spitalfields</a></div>
     <div style="white-space: pre;">$$$  |  London</div>
@@ -2148,7 +2160,7 @@ Miss: foie gras, ceviche, goi"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">162.</td>
+<td style="text-align: right">163.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=noreetuh&sll=40.7273295,-73.9852902&ll=40.7273295,-73.9852902" target="_blank">noreetuh</a></div>
     <div style="white-space: pre;">$$  |  Ukrainian Village, New York, NY</div>
@@ -2160,7 +2172,7 @@ Miss: foie gras, ceviche, goi"</div>
 </tr>
         
 <tr class="la">
-<td style="text-align: right">163.</td>
+<td style="text-align: right">164.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Sugarfish&sll=34.0734662,-118.3442674&ll=34.0734662,-118.3442674" target="_blank">Sugarfish</a></div>
     <div style="white-space: pre;">$$$  |  La Brea, Los Angeles, CA</div>
@@ -2172,7 +2184,7 @@ Miss: foie gras, ceviche, goi"</div>
 </tr>
         
 <tr class="singapore">
-<td style="text-align: right">164.</td>
+<td style="text-align: right">165.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Shikar&sll=1.2795541,103.8445551&ll=1.2795541,103.8445551" target="_blank">Shikar</a></div>
     <div style="white-space: pre;">$$$$  |  Chinatown, Singapore</div>
@@ -2184,7 +2196,7 @@ Miss: foie gras, ceviche, goi"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">165.</td>
+<td style="text-align: right">166.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=The Drunken Munkey - UES&sll=40.7808386,-73.9476236&ll=40.7808386,-73.9476236" target="_blank">The Drunken Munkey - UES</a></div>
     <div style="white-space: pre;">$$  |  Upper East Side, New York, NY</div>
@@ -2196,7 +2208,7 @@ Miss: foie gras, ceviche, goi"</div>
 </tr>
         
 <tr class="georgia">
-<td style="text-align: right">166.</td>
+<td style="text-align: right">167.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=The Kitchen&sll=41.7055556,44.78722219999999&ll=41.7055556,44.78722219999999" target="_blank">The Kitchen</a></div>
     <div style="white-space: pre;">$$$  |  Tbilisi</div>
@@ -2208,19 +2220,19 @@ Miss: foie gras, ceviche, goi"</div>
 </tr>
         
 <tr class="la">
-<td style="text-align: right">167.</td>
+<td style="text-align: right">168.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=MIAN West Adams&sll=34.032787,-118.357406&ll=34.032787,-118.357406" target="_blank">MIAN West Adams</a></div>
     <div style="white-space: pre;">$$  |  Los Angeles, CA</div>
     <div><a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/59991/f69d5871-2932-4f68-9157-38b9733ff5a9/images/03hj0gfomh82wa96pjwx.jpg">Fried Pork Dumpling</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/59991/f69d5871-2932-4f68-9157-38b9733ff5a9/images/irsd0vpwpnjodry2s3.jpg">Mapo</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/59991/f69d5871-2932-4f68-9157-38b9733ff5a9/images/wb78kqevlv2yru9g81.jpg">Steamed Egg & Pork</a></div>
     
 </td>
-<td class="good">8.7</td>
+<td class="good">8.6</td>
 <td style="text-align: right"></td>
 </tr>
         
 <tr class="la">
-<td style="text-align: right">168.</td>
+<td style="text-align: right">169.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Saffy's&sll=34.095555,-118.2952027&ll=34.095555,-118.2952027" target="_blank">Saffy's</a></div>
     <div style="white-space: pre;">$$$  |  Little Armenia, Los Angeles, CA</div>
@@ -2232,7 +2244,7 @@ Miss: foie gras, ceviche, goi"</div>
 </tr>
         
 <tr class="london">
-<td style="text-align: right">169.</td>
+<td style="text-align: right">170.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Dishoom Shoreditch&sll=51.524476,-0.0764941&ll=51.524476,-0.0764941" target="_blank">Dishoom Shoreditch</a></div>
     <div style="white-space: pre;">$$  |  London</div>
@@ -2244,7 +2256,7 @@ Miss: foie gras, ceviche, goi"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">170.</td>
+<td style="text-align: right">171.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Llama San&sll=40.7322744,-74.00082789999999&ll=40.7322744,-74.00082789999999" target="_blank">Llama San</a></div>
     <div style="white-space: pre;">$$$$  |  West Village, New York, NY</div>
@@ -2256,7 +2268,7 @@ Miss: foie gras, ceviche, goi"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">171.</td>
+<td style="text-align: right">172.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Chalong NYC&sll=40.7639556,-73.98899449999999&ll=40.7639556,-73.98899449999999" target="_blank">Chalong NYC</a></div>
     <div style="white-space: pre;">$$$  |  Hell's Kitchen, New York, NY</div>
@@ -2268,7 +2280,7 @@ Miss: foie gras, ceviche, goi"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">172.</td>
+<td style="text-align: right">173.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Lingo&sll=40.7298614,-73.9597307&ll=40.7298614,-73.9597307" target="_blank">Lingo</a></div>
     <div style="white-space: pre;">$$$  |  Greenpoint, New York, NY</div>
@@ -2280,7 +2292,7 @@ Miss: foie gras, ceviche, goi"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">173.</td>
+<td style="text-align: right">174.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Silver Apricot&sll=40.7312758,-74.0019894&ll=40.7312758,-74.0019894" target="_blank">Silver Apricot</a></div>
     <div style="white-space: pre;">$$$  |  South Village, New York, NY</div>
@@ -2292,7 +2304,7 @@ Miss: foie gras, ceviche, goi"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">174.</td>
+<td style="text-align: right">175.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Nami Nori&sll=40.7302914,-74.0032496&ll=40.7302914,-74.0032496" target="_blank">Nami Nori</a></div>
     <div style="white-space: pre;">$$$  |  South Village, New York, NY</div>
@@ -2304,7 +2316,7 @@ Miss: foie gras, ceviche, goi"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">175.</td>
+<td style="text-align: right">176.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Buvette&sll=40.7326259,-74.00432839999999&ll=40.7326259,-74.00432839999999" target="_blank">Buvette</a></div>
     <div style="white-space: pre;">$$$  |  West Village, New York, NY</div>
@@ -2316,7 +2328,7 @@ Miss: foie gras, ceviche, goi"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">176.</td>
+<td style="text-align: right">177.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Katz's Delicatessen&sll=40.722233,-73.98742899999999&ll=40.722233,-73.98742899999999" target="_blank">Katz's Delicatessen</a></div>
     <div style="white-space: pre;">$$  |  Lower East Side, New York, NY</div>
@@ -2328,7 +2340,7 @@ Miss: foie gras, ceviche, goi"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">177.</td>
+<td style="text-align: right">178.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Kimura&sll=40.7290321,-73.9882174&ll=40.7290321,-73.9882174" target="_blank">Kimura</a></div>
     <div style="white-space: pre;">$$$  |  Ukrainian Village, New York, NY</div>
@@ -2340,7 +2352,7 @@ Miss: foie gras, ceviche, goi"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">178.</td>
+<td style="text-align: right">179.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Katana Kitten&sll=40.7342547,-74.0064852&ll=40.7342547,-74.0064852" target="_blank">Katana Kitten</a></div>
     <div style="white-space: pre;">$$  |  West Village, New York, NY</div>
@@ -2352,19 +2364,19 @@ Miss: foie gras, ceviche, goi"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">179.</td>
+<td style="text-align: right">180.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Bird Dog&sll=40.7340579,-74.00653199999999&ll=40.7340579,-74.00653199999999" target="_blank">Bird Dog</a></div>
     <div style="white-space: pre;">$$$  |  West Village, New York, NY</div>
     <div><a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/57480/f69d5871-2932-4f68-9157-38b9733ff5a9/images/oxl982n6j0d7vj1ikpd.jpg">Doritos</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/57480/f69d5871-2932-4f68-9157-38b9733ff5a9/images/v53i502lf2f0x0ev3le.jpg">Apps</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/57480/f69d5871-2932-4f68-9157-38b9733ff5a9/images/lab1db5rf3jxu9qngr.jpg">Some Pasta</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/57480/f69d5871-2932-4f68-9157-38b9733ff5a9/images/nkaf2ncrskceje8biom.jpg">Agnolotti</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/57480/f69d5871-2932-4f68-9157-38b9733ff5a9/images/vy2ycix7bqr9vssun.jpg">Burnt Pasta with Pork Shoulder</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/57480/f69d5871-2932-4f68-9157-38b9733ff5a9/images/bwa0vis5dsvcev6g1hh.jpg">Some Pasta</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/57480/f69d5871-2932-4f68-9157-38b9733ff5a9/images/7n8jnkhlpmtfjnau6a9.jpg">Some Pasta</a></div>
     <div class="note">"Pastas and fried chicken were great, apps were ok. Chef's tasting menu was expensive ($98) and wayyy too much food, so would go for less next time. Maybe during the half off happy hour (before 6pm)?"</div>
 </td>
-<td class="good">8.6</td>
+<td class="good">8.5</td>
 <td style="text-align: right"></td>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">180.</td>
+<td style="text-align: right">181.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=COTE Korean Steakhouse&sll=40.7413041,-73.99125269999999&ll=40.7413041,-73.99125269999999" target="_blank">COTE Korean Steakhouse</a></div>
     <div style="white-space: pre;">$$$$  |  Flatiron District, New York, NY</div>
@@ -2379,7 +2391,7 @@ EDIT: I think the steak tartare did something bad to my stomach, beware!"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">181.</td>
+<td style="text-align: right">182.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Sushi Kai - West Village&sll=40.73263799999999,-74.00237299999999&ll=40.73263799999999,-74.00237299999999" target="_blank">Sushi Kai - West Village</a></div>
     <div style="white-space: pre;">$$$  |  South Village, New York, NY</div>
@@ -2391,7 +2403,7 @@ EDIT: I think the steak tartare did something bad to my stomach, beware!"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">182.</td>
+<td style="text-align: right">183.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Bowery Meat Company&sll=40.7245665,-73.9918409&ll=40.7245665,-73.9918409" target="_blank">Bowery Meat Company</a></div>
     <div style="white-space: pre;">$$$  |  Bowery, New York, NY</div>
@@ -2403,7 +2415,7 @@ EDIT: I think the steak tartare did something bad to my stomach, beware!"</div>
 </tr>
         
 <tr class="la">
-<td style="text-align: right">183.</td>
+<td style="text-align: right">184.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=India's Grill&sll=34.0708687,-118.3757998&ll=34.0708687,-118.3757998" target="_blank">India's Grill</a></div>
     <div style="white-space: pre;">$$  |  Beverly Grove, Los Angeles, CA</div>
@@ -2415,7 +2427,7 @@ EDIT: I think the steak tartare did something bad to my stomach, beware!"</div>
 </tr>
         
 <tr class="la">
-<td style="text-align: right">184.</td>
+<td style="text-align: right">185.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Mogu Mogu&sll=34.0359933,-118.4454036&ll=34.0359933,-118.4454036" target="_blank">Mogu Mogu</a></div>
     <div style="white-space: pre;">$$  |  Sawtelle, Los Angeles, CA</div>
@@ -2427,7 +2439,7 @@ EDIT: I think the steak tartare did something bad to my stomach, beware!"</div>
 </tr>
         
 <tr class="la">
-<td style="text-align: right">185.</td>
+<td style="text-align: right">186.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Mercado&sll=34.0713025,-118.3620613&ll=34.0713025,-118.3620613" target="_blank">Mercado</a></div>
     <div style="white-space: pre;">$$  |  Central LA, Los Angeles, CA</div>
@@ -2439,7 +2451,7 @@ EDIT: I think the steak tartare did something bad to my stomach, beware!"</div>
 </tr>
         
 <tr class="la">
-<td style="text-align: right">186.</td>
+<td style="text-align: right">187.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Northern Cafe&sll=34.0762222,-118.3751883&ll=34.0762222,-118.3751883" target="_blank">Northern Cafe</a></div>
     <div style="white-space: pre;">$$  |  Beverly Grove, Los Angeles, CA</div>
@@ -2451,7 +2463,7 @@ EDIT: I think the steak tartare did something bad to my stomach, beware!"</div>
 </tr>
         
 <tr class="la">
-<td style="text-align: right">187.</td>
+<td style="text-align: right">188.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Saucy Chick Goat Mafia&sll=34.1428429,-118.0736532&ll=34.1428429,-118.0736532" target="_blank">Saucy Chick Goat Mafia</a></div>
     <div style="white-space: pre;">$$  |  Pasadena, CA</div>
@@ -2463,7 +2475,7 @@ EDIT: I think the steak tartare did something bad to my stomach, beware!"</div>
 </tr>
         
 <tr class="la">
-<td style="text-align: right">188.</td>
+<td style="text-align: right">189.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Escuela Taqueria&sll=34.0760245,-118.3523827&ll=34.0760245,-118.3523827" target="_blank">Escuela Taqueria</a></div>
     <div style="white-space: pre;">$$  |  Fairfax, Los Angeles, CA</div>
@@ -2475,7 +2487,7 @@ EDIT: I think the steak tartare did something bad to my stomach, beware!"</div>
 </tr>
         
 <tr class="bay">
-<td style="text-align: right">189.</td>
+<td style="text-align: right">190.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Red Hot Wok&sll=37.322093,-122.0148731&ll=37.322093,-122.0148731" target="_blank">Red Hot Wok</a></div>
     <div style="white-space: pre;">$$  |  Cupertino, CA</div>
@@ -2487,7 +2499,7 @@ EDIT: I think the steak tartare did something bad to my stomach, beware!"</div>
 </tr>
         
 <tr class="bay">
-<td style="text-align: right">190.</td>
+<td style="text-align: right">191.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Tofu Plus Korean BBQ&sll=37.3361564,-122.0150863&ll=37.3361564,-122.0150863" target="_blank">Tofu Plus Korean BBQ</a></div>
     <div style="white-space: pre;">$$  |  Cupertino, CA</div>
@@ -2499,7 +2511,7 @@ EDIT: I think the steak tartare did something bad to my stomach, beware!"</div>
 </tr>
         
 <tr class="london">
-<td style="text-align: right">191.</td>
+<td style="text-align: right">192.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Monohon Ramen&sll=51.5246945,-0.09341479999999999&ll=51.5246945,-0.09341479999999999" target="_blank">Monohon Ramen</a></div>
     <div style="white-space: pre;">$$  |  London</div>
@@ -2511,7 +2523,7 @@ EDIT: I think the steak tartare did something bad to my stomach, beware!"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">192.</td>
+<td style="text-align: right">193.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Ofrenda&sll=40.73393639999999,-74.0023856&ll=40.73393639999999,-74.0023856" target="_blank">Ofrenda</a></div>
     <div style="white-space: pre;">$$  |  West Village, New York, NY</div>
@@ -2523,7 +2535,7 @@ EDIT: I think the steak tartare did something bad to my stomach, beware!"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">193.</td>
+<td style="text-align: right">194.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=PALPAL&sll=40.7457255,-73.98477749999999&ll=40.7457255,-73.98477749999999" target="_blank">PALPAL</a></div>
     <div style="white-space: pre;">$$  |  Midtown South, New York, NY</div>
@@ -2535,7 +2547,7 @@ EDIT: I think the steak tartare did something bad to my stomach, beware!"</div>
 </tr>
         
 <tr class="other">
-<td style="text-align: right">194.</td>
+<td style="text-align: right">195.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Prairie Canary Restaurant & Bar&sll=41.744189,-92.725579&ll=41.744189,-92.725579" target="_blank">Prairie Canary Restaurant & Bar</a></div>
     <div style="white-space: pre;">$$  |  Grinnell, IA</div>
@@ -2547,7 +2559,7 @@ EDIT: I think the steak tartare did something bad to my stomach, beware!"</div>
 </tr>
         
 <tr class="japan">
-<td style="text-align: right">195.</td>
+<td style="text-align: right">196.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Kushiyaki Manten - Shijo Karasuma&sll=35.00430619999999,135.760996&ll=35.00430619999999,135.760996" target="_blank">Kushiyaki Manten - Shijo Karasuma</a></div>
     <div style="white-space: pre;">$$  |  Kyoto</div>
@@ -2559,7 +2571,7 @@ EDIT: I think the steak tartare did something bad to my stomach, beware!"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">196.</td>
+<td style="text-align: right">197.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=The Dolar Shop Hot Pot Manhattan&sll=40.7310965,-73.98850790000002&ll=40.7310965,-73.98850790000002" target="_blank">The Dolar Shop Hot Pot Manhattan</a></div>
     <div style="white-space: pre;">$$  |  Ukrainian Village, New York, NY</div>
@@ -2571,7 +2583,7 @@ EDIT: I think the steak tartare did something bad to my stomach, beware!"</div>
 </tr>
         
 <tr class="la">
-<td style="text-align: right">197.</td>
+<td style="text-align: right">198.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Pizzeria Sei&sll=34.0549589,-118.383437&ll=34.0549589,-118.383437" target="_blank">Pizzeria Sei</a></div>
     <div style="white-space: pre;">$$  |  Pico - Robertson, Los Angeles, CA</div>
@@ -2583,7 +2595,7 @@ EDIT: I think the steak tartare did something bad to my stomach, beware!"</div>
 </tr>
         
 <tr class="la">
-<td style="text-align: right">198.</td>
+<td style="text-align: right">199.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Chinchikurin&sll=34.0390205,-118.4424146&ll=34.0390205,-118.4424146" target="_blank">Chinchikurin</a></div>
     <div style="white-space: pre;">$$  |  Sawtelle Japantown, Los Angeles, CA</div>
@@ -2595,7 +2607,7 @@ EDIT: I think the steak tartare did something bad to my stomach, beware!"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">199.</td>
+<td style="text-align: right">200.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Hanoi House&sll=40.7270085,-73.9835497&ll=40.7270085,-73.9835497" target="_blank">Hanoi House</a></div>
     <div style="white-space: pre;">$$  |  Ukrainian Village, New York, NY</div>
@@ -2607,7 +2619,7 @@ EDIT: I think the steak tartare did something bad to my stomach, beware!"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">200.</td>
+<td style="text-align: right">201.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Bessou&sll=40.7430964,-74.00916959999999&ll=40.7430964,-74.00916959999999" target="_blank">Bessou</a></div>
     <div style="white-space: pre;">$$  |  New York, NY</div>
@@ -2619,7 +2631,7 @@ EDIT: I think the steak tartare did something bad to my stomach, beware!"</div>
 </tr>
         
 <tr class="la">
-<td style="text-align: right">201.</td>
+<td style="text-align: right">202.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Kismet&sll=34.10022469999999,-118.2907264&ll=34.10022469999999,-118.2907264" target="_blank">Kismet</a></div>
     <div style="white-space: pre;">$$  |  East Hollywood, Los Angeles, CA</div>
@@ -2631,7 +2643,7 @@ EDIT: I think the steak tartare did something bad to my stomach, beware!"</div>
 </tr>
         
 <tr class="bay">
-<td style="text-align: right">202.</td>
+<td style="text-align: right">203.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Ebiko&sll=37.8266924,-122.2518331&ll=37.8266924,-122.2518331" target="_blank">Ebiko</a></div>
     <div style="white-space: pre;">$  |  Piedmont Avenue, Oakland, CA</div>
@@ -2643,7 +2655,7 @@ EDIT: I think the steak tartare did something bad to my stomach, beware!"</div>
 </tr>
         
 <tr class="other">
-<td style="text-align: right">203.</td>
+<td style="text-align: right">204.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=tupelo Park City&sll=40.6638581,-111.500101&ll=40.6638581,-111.500101" target="_blank">tupelo Park City</a></div>
     <div style="white-space: pre;">$$$  |  Park City, UT</div>
@@ -2655,7 +2667,7 @@ EDIT: I think the steak tartare did something bad to my stomach, beware!"</div>
 </tr>
         
 <tr class="bay">
-<td style="text-align: right">204.</td>
+<td style="text-align: right">205.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Creekwood Restaurant&sll=37.8509806,-122.2782417&ll=37.8509806,-122.2782417" target="_blank">Creekwood Restaurant</a></div>
     <div style="white-space: pre;">$$  |  South Berkeley, Berkeley, CA</div>
@@ -2667,7 +2679,7 @@ EDIT: I think the steak tartare did something bad to my stomach, beware!"</div>
 </tr>
         
 <tr class="singapore">
-<td style="text-align: right">205.</td>
+<td style="text-align: right">206.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Ah Heng Curry Chicken Bee Hoon Mee&sll=1.2853975,103.8458637&ll=1.2853975,103.8458637" target="_blank">Ah Heng Curry Chicken Bee Hoon Mee</a></div>
     <div style="white-space: pre;">Outram, Singapore</div>
@@ -2679,7 +2691,7 @@ EDIT: I think the steak tartare did something bad to my stomach, beware!"</div>
 </tr>
         
 <tr class="other">
-<td style="text-align: right">206.</td>
+<td style="text-align: right">207.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Marmalade&sll=18.4656092,-66.11331659999999&ll=18.4656092,-66.11331659999999" target="_blank">Marmalade</a></div>
     <div style="white-space: pre;">$$$$  |  San Francisco, San Juan</div>
@@ -2691,7 +2703,7 @@ EDIT: I think the steak tartare did something bad to my stomach, beware!"</div>
 </tr>
         
 <tr class="other">
-<td style="text-align: right">207.</td>
+<td style="text-align: right">208.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Central 9th Market&sll=40.74954260000001,-111.8958269&ll=40.74954260000001,-111.8958269" target="_blank">Central 9th Market</a></div>
     <div style="white-space: pre;">$$  |  Ballpark, Salt Lake City, UT</div>
@@ -2703,7 +2715,7 @@ EDIT: I think the steak tartare did something bad to my stomach, beware!"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">208.</td>
+<td style="text-align: right">209.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Little Owl&sll=40.732398,-74.005318&ll=40.732398,-74.005318" target="_blank">Little Owl</a></div>
     <div style="white-space: pre;">$$$  |  West Village, New York, NY</div>
@@ -2715,7 +2727,7 @@ EDIT: I think the steak tartare did something bad to my stomach, beware!"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">209.</td>
+<td style="text-align: right">210.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Altro Paradiso&sll=40.7254266,-74.0046926&ll=40.7254266,-74.0046926" target="_blank">Altro Paradiso</a></div>
     <div style="white-space: pre;">$$$  |  Hudson Square, New York, NY</div>
@@ -2727,7 +2739,7 @@ EDIT: I think the steak tartare did something bad to my stomach, beware!"</div>
 </tr>
         
 <tr class="la">
-<td style="text-align: right">210.</td>
+<td style="text-align: right">211.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Tatsu Ramen&sll=34.0388722,-118.4423879&ll=34.0388722,-118.4423879" target="_blank">Tatsu Ramen</a></div>
     <div style="white-space: pre;">$$  |  West Los Angeles, Los Angeles, CA</div>
@@ -2739,7 +2751,7 @@ EDIT: I think the steak tartare did something bad to my stomach, beware!"</div>
 </tr>
         
 <tr class="la">
-<td style="text-align: right">211.</td>
+<td style="text-align: right">212.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=KazuNori: The Original Hand Roll Bar&sll=34.0635521,-118.3647168&ll=34.0635521,-118.3647168" target="_blank">KazuNori: The Original Hand Roll Bar</a></div>
     <div style="white-space: pre;">$$  |  Beverly Grove, Los Angeles, CA</div>
@@ -2751,7 +2763,7 @@ EDIT: I think the steak tartare did something bad to my stomach, beware!"</div>
 </tr>
         
 <tr class="la">
-<td style="text-align: right">212.</td>
+<td style="text-align: right">213.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=In-N-Out Burger&sll=34.026461,-118.394292&ll=34.026461,-118.394292" target="_blank">In-N-Out Burger</a></div>
     <div style="white-space: pre;">$  |  Palms, Los Angeles, CA</div>
@@ -2763,7 +2775,7 @@ EDIT: I think the steak tartare did something bad to my stomach, beware!"</div>
 </tr>
         
 <tr class="la">
-<td style="text-align: right">213.</td>
+<td style="text-align: right">214.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Sticky Rice on 3rd&sll=34.0718773,-118.3653948&ll=34.0718773,-118.3653948" target="_blank">Sticky Rice on 3rd</a></div>
     <div style="white-space: pre;">$$  |  Central LA, Los Angeles, CA</div>
@@ -2775,7 +2787,7 @@ EDIT: I think the steak tartare did something bad to my stomach, beware!"</div>
 </tr>
         
 <tr class="la">
-<td style="text-align: right">214.</td>
+<td style="text-align: right">215.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Eataly&sll=34.0604534,-118.4186983&ll=34.0604534,-118.4186983" target="_blank">Eataly</a></div>
     <div style="white-space: pre;">$$$  |  Century City, Los Angeles, CA</div>
@@ -2787,7 +2799,7 @@ EDIT: I think the steak tartare did something bad to my stomach, beware!"</div>
 </tr>
         
 <tr class="singapore">
-<td style="text-align: right">215.</td>
+<td style="text-align: right">216.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Ah Tai Hainanese Chicken Rice (#01-07)&sll=1.2802419,103.8449058&ll=1.2802419,103.8449058" target="_blank">Ah Tai Hainanese Chicken Rice (#01-07)</a></div>
     <div style="white-space: pre;">$  |  Chinatown, Singapore</div>
@@ -2799,19 +2811,19 @@ EDIT: I think the steak tartare did something bad to my stomach, beware!"</div>
 </tr>
         
 <tr class="other">
-<td style="text-align: right">216.</td>
+<td style="text-align: right">217.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Firewood&sll=40.6421296,-111.4948719&ll=40.6421296,-111.4948719" target="_blank">Firewood</a></div>
     <div style="white-space: pre;">$$$  |  Park City, UT</div>
     <div><a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/49109/f69d5871-2932-4f68-9157-38b9733ff5a9/images/p7x1qid2dqlpw4re8h.jpg">Pork belly</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/49109/f69d5871-2932-4f68-9157-38b9733ff5a9/images/uxbng4xw5ije29xkq3r.jpg">Trout</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/49109/f69d5871-2932-4f68-9157-38b9733ff5a9/images/yebrfmhpta65t6sfuw.jpg">Hamachi Caesar</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/49109/f69d5871-2932-4f68-9157-38b9733ff5a9/images/14jmpcimwn8c58zh19g.jpg">Beets</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/49109/f69d5871-2932-4f68-9157-38b9733ff5a9/images/47ox76tfxcqccs3ydch.jpg">Winter veggies</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/49109/f69d5871-2932-4f68-9157-38b9733ff5a9/images/xktrggu4ewtb0vlyq9g.jpg">Beef tartare</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/49109/f69d5871-2932-4f68-9157-38b9733ff5a9/images/17gbpvq7cu6je0ex753.jpg">Wagyu Manhattan</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/49109/f69d5871-2932-4f68-9157-38b9733ff5a9/images/ikptphhxs8r7k0bz2zc.jpg">Salmon</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/49109/f69d5871-2932-4f68-9157-38b9733ff5a9/images/tdsi0czgdfytomah6w.jpg">Berry chocolate pavlova</a></div>
     
 </td>
-<td class="good">8.3</td>
+<td class="good">8.2</td>
 <td style="text-align: right"></td>
 </tr>
         
 <tr class="la">
-<td style="text-align: right">217.</td>
+<td style="text-align: right">218.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Here's Looking At You&sll=34.063681,-118.308081&ll=34.063681,-118.308081" target="_blank">Here's Looking At You</a></div>
     <div style="white-space: pre;">$$$  |  Koreatown, Los Angeles, CA</div>
@@ -2823,7 +2835,7 @@ EDIT: I think the steak tartare did something bad to my stomach, beware!"</div>
 </tr>
         
 <tr class="other">
-<td style="text-align: right">218.</td>
+<td style="text-align: right">219.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Interstellar BBQ&sll=30.4614797,-97.815213&ll=30.4614797,-97.815213" target="_blank">Interstellar BBQ</a></div>
     <div style="white-space: pre;">$$$  |  Village At Anderson Mill, Austin, TX</div>
@@ -2835,7 +2847,7 @@ EDIT: I think the steak tartare did something bad to my stomach, beware!"</div>
 </tr>
         
 <tr class="london">
-<td style="text-align: right">219.</td>
+<td style="text-align: right">220.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Brigadiers&sll=51.5126036,-0.0916715&ll=51.5126036,-0.0916715" target="_blank">Brigadiers</a></div>
     <div style="white-space: pre;">$$$  |  London</div>
@@ -2847,7 +2859,7 @@ EDIT: I think the steak tartare did something bad to my stomach, beware!"</div>
 </tr>
         
 <tr class="london">
-<td style="text-align: right">220.</td>
+<td style="text-align: right">221.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Gymkhana&sll=51.50849119999999,-0.1414724&ll=51.50849119999999,-0.1414724" target="_blank">Gymkhana</a></div>
     <div style="white-space: pre;">$$$$  |  London</div>
@@ -2859,7 +2871,7 @@ EDIT: I think the steak tartare did something bad to my stomach, beware!"</div>
 </tr>
         
 <tr class="la">
-<td style="text-align: right">221.</td>
+<td style="text-align: right">222.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Pasta Sisters&sll=34.0299497,-118.3839104&ll=34.0299497,-118.3839104" target="_blank">Pasta Sisters</a></div>
     <div style="white-space: pre;">$$  |  Art District, Culver City, CA</div>
@@ -2871,7 +2883,7 @@ EDIT: I think the steak tartare did something bad to my stomach, beware!"</div>
 </tr>
         
 <tr class="la">
-<td style="text-align: right">222.</td>
+<td style="text-align: right">223.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Roberta's&sll=34.0274806,-118.3871861&ll=34.0274806,-118.3871861" target="_blank">Roberta's</a></div>
     <div style="white-space: pre;">$$  |  Lucerne - Higuera, Culver City, CA</div>
@@ -2883,7 +2895,7 @@ EDIT: I think the steak tartare did something bad to my stomach, beware!"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">223.</td>
+<td style="text-align: right">224.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Joe's Shanghai&sll=40.7156656,-73.99669879999999&ll=40.7156656,-73.99669879999999" target="_blank">Joe's Shanghai</a></div>
     <div style="white-space: pre;">$$  |  Chinatown, New York, NY</div>
@@ -2895,7 +2907,7 @@ EDIT: I think the steak tartare did something bad to my stomach, beware!"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">224.</td>
+<td style="text-align: right">225.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Tacombi&sll=40.7311047,-74.0027424&ll=40.7311047,-74.0027424" target="_blank">Tacombi</a></div>
     <div style="white-space: pre;">$$  |  South Village, New York, NY</div>
@@ -2907,7 +2919,7 @@ EDIT: I think the steak tartare did something bad to my stomach, beware!"</div>
 </tr>
         
 <tr class="other">
-<td style="text-align: right">225.</td>
+<td style="text-align: right">226.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Twisted Fern&sll=40.6620145,-111.5075807&ll=40.6620145,-111.5075807" target="_blank">Twisted Fern</a></div>
     <div style="white-space: pre;">$$  |  Park City, UT</div>
@@ -2919,7 +2931,7 @@ EDIT: I think the steak tartare did something bad to my stomach, beware!"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">226.</td>
+<td style="text-align: right">227.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Very Fresh Noodles&sll=40.74208970000001,-74.0054987&ll=40.74208970000001,-74.0054987" target="_blank">Very Fresh Noodles</a></div>
     <div style="white-space: pre;">$$  |  Chelsea, New York, NY</div>
@@ -2931,7 +2943,7 @@ EDIT: I think the steak tartare did something bad to my stomach, beware!"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">227.</td>
+<td style="text-align: right">228.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Nan Xiang Xiao Long Bao&sll=40.729312,-73.9888568&ll=40.729312,-73.9888568" target="_blank">Nan Xiang Xiao Long Bao</a></div>
     <div style="white-space: pre;">$$$  |  Ukrainian Village, New York, NY</div>
@@ -2943,7 +2955,7 @@ EDIT: I think the steak tartare did something bad to my stomach, beware!"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">228.</td>
+<td style="text-align: right">229.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Mắm&sll=40.7170509,-73.9932757&ll=40.7170509,-73.9932757" target="_blank">Mắm</a></div>
     <div style="white-space: pre;">$$  |  Bowery, New York, NY</div>
@@ -2955,7 +2967,7 @@ EDIT: I think the steak tartare did something bad to my stomach, beware!"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">229.</td>
+<td style="text-align: right">230.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Breakfast by Salt's Cure&sll=40.731173,-74.00447040000002&ll=40.731173,-74.00447040000002" target="_blank">Breakfast by Salt's Cure</a></div>
     <div style="white-space: pre;">$$  |  West Village, New York, NY</div>
@@ -2969,7 +2981,7 @@ Short line on weekdays but brutal line on weekends so plan accordingly!"</div>
 </tr>
         
 <tr class="la">
-<td style="text-align: right">230.</td>
+<td style="text-align: right">231.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=AVI CUE&sll=34.1403961,-118.3754474&ll=34.1403961,-118.3754474" target="_blank">AVI CUE</a></div>
     <div style="white-space: pre;">$$  |  Studio City, Los Angeles, CA</div>
@@ -2981,7 +2993,7 @@ Short line on weekdays but brutal line on weekends so plan accordingly!"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">231.</td>
+<td style="text-align: right">232.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=TLK- by Tigerlily Kitchen&sll=40.7311593,-73.9890863&ll=40.7311593,-73.9890863" target="_blank">TLK- by Tigerlily Kitchen</a></div>
     <div style="white-space: pre;">$$  |  Gramercy Park, New York, NY</div>
@@ -2993,7 +3005,7 @@ Short line on weekdays but brutal line on weekends so plan accordingly!"</div>
 </tr>
         
 <tr class="singapore">
-<td style="text-align: right">232.</td>
+<td style="text-align: right">233.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Song Fa Bak Kut Teh Chinatown Point&sll=1.2852093,103.8447228&ll=1.2852093,103.8447228" target="_blank">Song Fa Bak Kut Teh Chinatown Point</a></div>
     <div style="white-space: pre;">$$  |  Outram, Singapore</div>
@@ -3005,7 +3017,7 @@ Short line on weekdays but brutal line on weekends so plan accordingly!"</div>
 </tr>
         
 <tr class="japan">
-<td style="text-align: right">233.</td>
+<td style="text-align: right">234.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=ひるがお 東京駅店&sll=35.6801261,139.7678405&ll=35.6801261,139.7678405" target="_blank">ひるがお 東京駅店</a></div>
     <div style="white-space: pre;">$$  |  Tokyo</div>
@@ -3017,7 +3029,7 @@ Short line on weekdays but brutal line on weekends so plan accordingly!"</div>
 </tr>
         
 <tr class="bay">
-<td style="text-align: right">234.</td>
+<td style="text-align: right">235.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Otra&sll=37.77192799999999,-122.4334751&ll=37.77192799999999,-122.4334751" target="_blank">Otra</a></div>
     <div style="white-space: pre;">$$$  |  Lower Haight, San Francisco, CA</div>
@@ -3029,7 +3041,7 @@ Short line on weekdays but brutal line on weekends so plan accordingly!"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">235.</td>
+<td style="text-align: right">236.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=ME CHICKEN RICE&sll=40.7304931,-74.0004539&ll=40.7304931,-74.0004539" target="_blank">ME CHICKEN RICE</a></div>
     <div style="white-space: pre;">$  |  South Village, New York, NY</div>
@@ -3041,7 +3053,7 @@ Short line on weekdays but brutal line on weekends so plan accordingly!"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">236.</td>
+<td style="text-align: right">237.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Fong On&sll=40.7141916,-73.99374759999999&ll=40.7141916,-73.99374759999999" target="_blank">Fong On</a></div>
     <div style="white-space: pre;">$  |  Chinatown, New York, NY</div>
@@ -3053,7 +3065,7 @@ Short line on weekdays but brutal line on weekends so plan accordingly!"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">237.</td>
+<td style="text-align: right">238.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Shan&sll=40.685206,-73.9912052&ll=40.685206,-73.9912052" target="_blank">Shan</a></div>
     <div style="white-space: pre;">$$  |  Boerum Hill, New York, NY</div>
@@ -3065,7 +3077,7 @@ Short line on weekdays but brutal line on weekends so plan accordingly!"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">238.</td>
+<td style="text-align: right">239.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Tasty Hand-Pulled Noodles&sll=40.7142425,-73.9978903&ll=40.7142425,-73.9978903" target="_blank">Tasty Hand-Pulled Noodles</a></div>
     <div style="white-space: pre;">$  |  Chinatown, New York, NY</div>
@@ -3077,7 +3089,7 @@ Short line on weekdays but brutal line on weekends so plan accordingly!"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">239.</td>
+<td style="text-align: right">240.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Houseman&sll=40.72566080000001,-74.0093204&ll=40.72566080000001,-74.0093204" target="_blank">Houseman</a></div>
     <div style="white-space: pre;">$$$  |  Hudson Square, New York, NY</div>
@@ -3089,7 +3101,7 @@ Short line on weekdays but brutal line on weekends so plan accordingly!"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">240.</td>
+<td style="text-align: right">241.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Katsune Donkatsu Cafe&sll=40.84556980000001,-73.9785869&ll=40.84556980000001,-73.9785869" target="_blank">Katsune Donkatsu Cafe</a></div>
     <div style="white-space: pre;">$  |  Fort Lee, NJ</div>
@@ -3101,7 +3113,7 @@ Short line on weekdays but brutal line on weekends so plan accordingly!"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">241.</td>
+<td style="text-align: right">242.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Nowon East Village&sll=40.7253574,-73.9833014&ll=40.7253574,-73.9833014" target="_blank">Nowon East Village</a></div>
     <div style="white-space: pre;">$$  |  Alphabet City, New York, NY</div>
@@ -3113,7 +3125,7 @@ Short line on weekdays but brutal line on weekends so plan accordingly!"</div>
 </tr>
         
 <tr class="bay">
-<td style="text-align: right">242.</td>
+<td style="text-align: right">243.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Kura Revolving Sushi Bar&sll=37.3253658,-122.0118873&ll=37.3253658,-122.0118873" target="_blank">Kura Revolving Sushi Bar</a></div>
     <div style="white-space: pre;">$$  |  Cupertino, CA</div>
@@ -3125,7 +3137,7 @@ Short line on weekdays but brutal line on weekends so plan accordingly!"</div>
 </tr>
         
 <tr class="la">
-<td style="text-align: right">243.</td>
+<td style="text-align: right">244.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=The Bop&sll=34.0723804,-118.3691753&ll=34.0723804,-118.3691753" target="_blank">The Bop</a></div>
     <div style="white-space: pre;">$$  |  Beverly Grove, Los Angeles, CA</div>
@@ -3137,7 +3149,7 @@ Short line on weekdays but brutal line on weekends so plan accordingly!"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">244.</td>
+<td style="text-align: right">245.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Eyval&sll=40.70414239999999,-73.9331596&ll=40.70414239999999,-73.9331596" target="_blank">Eyval</a></div>
     <div style="white-space: pre;">$$$  |  Bushwick, New York, NY</div>
@@ -3149,7 +3161,7 @@ Short line on weekdays but brutal line on weekends so plan accordingly!"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">245.</td>
+<td style="text-align: right">246.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Bangkok Degree&sll=40.6747108,-73.97579200000001&ll=40.6747108,-73.97579200000001" target="_blank">Bangkok Degree</a></div>
     <div style="white-space: pre;">$$  |  Park Slope, New York, NY</div>
@@ -3161,7 +3173,7 @@ Short line on weekdays but brutal line on weekends so plan accordingly!"</div>
 </tr>
         
 <tr class="singapore">
-<td style="text-align: right">246.</td>
+<td style="text-align: right">247.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Toast Box @ Chinatown Point&sll=1.2856236,103.8449596&ll=1.2856236,103.8449596" target="_blank">Toast Box @ Chinatown Point</a></div>
     <div style="white-space: pre;">$  |  Outram, Singapore</div>
@@ -3173,7 +3185,7 @@ Short line on weekdays but brutal line on weekends so plan accordingly!"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">247.</td>
+<td style="text-align: right">248.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Bleecker Street Pizza&sll=40.732198,-74.0034014&ll=40.732198,-74.0034014" target="_blank">Bleecker Street Pizza</a></div>
     <div style="white-space: pre;">$  |  South Village, New York, NY</div>
@@ -3185,7 +3197,7 @@ Short line on weekdays but brutal line on weekends so plan accordingly!"</div>
 </tr>
         
 <tr class="paris">
-<td style="text-align: right">248.</td>
+<td style="text-align: right">249.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Le Clarence&sll=48.8674268,2.3097739&ll=48.8674268,2.3097739" target="_blank">Le Clarence</a></div>
     <div style="white-space: pre;">$$$$  |  Champs-Élysées, Paris</div>
@@ -3197,7 +3209,7 @@ Short line on weekdays but brutal line on weekends so plan accordingly!"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">249.</td>
+<td style="text-align: right">250.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Ci Siamo&sll=40.7526152,-73.9989141&ll=40.7526152,-73.9989141" target="_blank">Ci Siamo</a></div>
     <div style="white-space: pre;">$$$  |  Chelsea, New York, NY</div>
@@ -3209,7 +3221,7 @@ Short line on weekdays but brutal line on weekends so plan accordingly!"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">250.</td>
+<td style="text-align: right">251.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Hearth&sll=40.7300263,-73.9831883&ll=40.7300263,-73.9831883" target="_blank">Hearth</a></div>
     <div style="white-space: pre;">$$$  |  Ukrainian Village, New York, NY</div>
@@ -3221,7 +3233,7 @@ Short line on weekdays but brutal line on weekends so plan accordingly!"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">251.</td>
+<td style="text-align: right">252.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Kazu Nori&sll=40.72933049999999,-74.0020201&ll=40.72933049999999,-74.0020201" target="_blank">Kazu Nori</a></div>
     <div style="white-space: pre;">$$$  |  South Village, New York, NY</div>
@@ -3233,7 +3245,7 @@ Short line on weekdays but brutal line on weekends so plan accordingly!"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">252.</td>
+<td style="text-align: right">253.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Le Crocodile&sll=40.72196399999999,-73.9580438&ll=40.72196399999999,-73.9580438" target="_blank">Le Crocodile</a></div>
     <div style="white-space: pre;">$$$  |  Williamsburg, New York, NY</div>
@@ -3245,19 +3257,19 @@ Short line on weekdays but brutal line on weekends so plan accordingly!"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">253.</td>
+<td style="text-align: right">254.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Osamil Upstairs&sll=40.746961,-73.9864309&ll=40.746961,-73.9864309" target="_blank">Osamil Upstairs</a></div>
     <div style="white-space: pre;">$$$  |  Koreatown, New York, NY</div>
     <div><a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/13773/f69d5871-2932-4f68-9157-38b9733ff5a9/images/bbv086k09pn5009io4d.jpg">Chicken</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/13773/f69d5871-2932-4f68-9157-38b9733ff5a9/images/eaabsnvh2cl416e1zuq.jpg">Steak Tartare</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/13773/f69d5871-2932-4f68-9157-38b9733ff5a9/images/zlpmk7tjtdmyis0zkjp.jpg">Steamed Egg</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/13773/f69d5871-2932-4f68-9157-38b9733ff5a9/images/1b4auvnu4nako1um7zo.jpg">CC</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/13773/f69d5871-2932-4f68-9157-38b9733ff5a9/images/2781hw8huiak4x127fw.jpg">LP</a></div>
     <div class="note">"Good drinks, cool vibe, food was mixed. Fried chicken was amazing, steamed egg was bad."</div>
 </td>
-<td class="good">8.0</td>
+<td class="good">7.9</td>
 <td style="text-align: right"></td>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">254.</td>
+<td style="text-align: right">255.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Carne Mare&sll=40.705645,-74.0021484&ll=40.705645,-74.0021484" target="_blank">Carne Mare</a></div>
     <div style="white-space: pre;">$$$  |  Seaport, New York, NY</div>
@@ -3269,7 +3281,7 @@ Short line on weekdays but brutal line on weekends so plan accordingly!"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">255.</td>
+<td style="text-align: right">256.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=RedFarm&sll=40.7820674,-73.9805501&ll=40.7820674,-73.9805501" target="_blank">RedFarm</a></div>
     <div style="white-space: pre;">$$$  |  Upper West Side, New York, NY</div>
@@ -3281,7 +3293,7 @@ Short line on weekdays but brutal line on weekends so plan accordingly!"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">256.</td>
+<td style="text-align: right">257.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=ottoburger&sll=40.3903508,-74.7566118&ll=40.3903508,-74.7566118" target="_blank">ottoburger</a></div>
     <div style="white-space: pre;">Hopewell, NJ</div>
@@ -3293,7 +3305,7 @@ Short line on weekdays but brutal line on weekends so plan accordingly!"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">257.</td>
+<td style="text-align: right">258.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Little Kirin&sll=40.7278725,-73.9854694&ll=40.7278725,-73.9854694" target="_blank">Little Kirin</a></div>
     <div style="white-space: pre;">$$  |  Ukrainian Village, New York, NY</div>
@@ -3305,7 +3317,7 @@ Short line on weekdays but brutal line on weekends so plan accordingly!"</div>
 </tr>
         
 <tr class="singapore">
-<td style="text-align: right">258.</td>
+<td style="text-align: right">259.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Tanglin Crispy Curry Puff Original (Corner Stall#02-36)&sll=1.2853166,103.8458369&ll=1.2853166,103.8458369" target="_blank">Tanglin Crispy Curry Puff Original (Corner Stall#02-36)</a></div>
     <div style="white-space: pre;">Outram, Singapore</div>
@@ -3317,7 +3329,7 @@ Short line on weekdays but brutal line on weekends so plan accordingly!"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">259.</td>
+<td style="text-align: right">260.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Avant Garden&sll=40.7256613,-73.98408189999999&ll=40.7256613,-73.98408189999999" target="_blank">Avant Garden</a></div>
     <div style="white-space: pre;">$$$  |  Ukrainian Village, New York, NY</div>
@@ -3329,7 +3341,7 @@ Short line on weekdays but brutal line on weekends so plan accordingly!"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">260.</td>
+<td style="text-align: right">261.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Shukette&sll=40.74715459999999,-74.0005218&ll=40.74715459999999,-74.0005218" target="_blank">Shukette</a></div>
     <div style="white-space: pre;">$$$  |  Chelsea, New York, NY</div>
@@ -3341,7 +3353,7 @@ Short line on weekdays but brutal line on weekends so plan accordingly!"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">261.</td>
+<td style="text-align: right">262.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=GupShup&sll=40.7368777,-73.98764&ll=40.7368777,-73.98764" target="_blank">GupShup</a></div>
     <div style="white-space: pre;">$$$  |  Gramercy Park, New York, NY</div>
@@ -3353,7 +3365,7 @@ Short line on weekdays but brutal line on weekends so plan accordingly!"</div>
 </tr>
         
 <tr class="other">
-<td style="text-align: right">262.</td>
+<td style="text-align: right">263.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Tiki Tatsu-Ya&sll=30.2538369,-97.7633369&ll=30.2538369,-97.7633369" target="_blank">Tiki Tatsu-Ya</a></div>
     <div style="white-space: pre;">$$$  |  Zilker, Austin, TX</div>
@@ -3365,7 +3377,7 @@ Short line on weekdays but brutal line on weekends so plan accordingly!"</div>
 </tr>
         
 <tr class="london">
-<td style="text-align: right">263.</td>
+<td style="text-align: right">264.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Noodle & Beer&sll=51.5177,-0.0762809&ll=51.5177,-0.0762809" target="_blank">Noodle & Beer</a></div>
     <div style="white-space: pre;">$$  |  London</div>
@@ -3377,7 +3389,7 @@ Short line on weekdays but brutal line on weekends so plan accordingly!"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">264.</td>
+<td style="text-align: right">265.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=SHOGUN OMAKASE | Manhattan Sushi Restaurant&sll=40.751834,-73.97929119999999&ll=40.751834,-73.97929119999999" target="_blank">SHOGUN OMAKASE | Manhattan Sushi Restaurant</a></div>
     <div style="white-space: pre;">$$$$  |  Murray Hill, New York, NY</div>
@@ -3391,7 +3403,7 @@ Most fish had too many toppings to taste any fish."</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">265.</td>
+<td style="text-align: right">266.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=1803 NYC&sll=40.715475,-74.0072809&ll=40.715475,-74.0072809" target="_blank">1803 NYC</a></div>
     <div style="white-space: pre;">$$$  |  Tribeca, New York, NY</div>
@@ -3403,7 +3415,7 @@ Most fish had too many toppings to taste any fish."</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">266.</td>
+<td style="text-align: right">267.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Mission Ceviche&sll=40.7691005,-73.9578631&ll=40.7691005,-73.9578631" target="_blank">Mission Ceviche</a></div>
     <div style="white-space: pre;">$$$  |  Lenox Hill, New York, NY</div>
@@ -3415,7 +3427,7 @@ Most fish had too many toppings to taste any fish."</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">267.</td>
+<td style="text-align: right">268.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=TAO Downtown Restaurant&sll=40.74253760000001,-74.0038464&ll=40.74253760000001,-74.0038464" target="_blank">TAO Downtown Restaurant</a></div>
     <div style="white-space: pre;">$$$$  |  Chelsea, New York, NY</div>
@@ -3427,7 +3439,7 @@ Most fish had too many toppings to taste any fish."</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">268.</td>
+<td style="text-align: right">269.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Oiji Mi&sll=40.7396687,-73.9924795&ll=40.7396687,-73.9924795" target="_blank">Oiji Mi</a></div>
     <div style="white-space: pre;">$$$$  |  Midtown Manhattan, New York, NY</div>
@@ -3439,7 +3451,7 @@ Most fish had too many toppings to taste any fish."</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">269.</td>
+<td style="text-align: right">270.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Jajaja Mexicana&sll=40.7298848,-74.00460389999999&ll=40.7298848,-74.00460389999999" target="_blank">Jajaja Mexicana</a></div>
     <div style="white-space: pre;">$$  |  South Village, New York, NY</div>
@@ -3451,7 +3463,7 @@ Most fish had too many toppings to taste any fish."</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">270.</td>
+<td style="text-align: right">271.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Paulie Gee's&sll=40.729615,-73.95855200000001&ll=40.729615,-73.95855200000001" target="_blank">Paulie Gee's</a></div>
     <div style="white-space: pre;">$$  |  Greenpoint, New York, NY</div>
@@ -3463,7 +3475,7 @@ Most fish had too many toppings to taste any fish."</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">271.</td>
+<td style="text-align: right">272.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Joe's Steam Rice Roll&sll=40.7189689,-74.0006772&ll=40.7189689,-74.0006772" target="_blank">Joe's Steam Rice Roll</a></div>
     <div style="white-space: pre;">$  |  Lower Manhattan, New York, NY</div>
@@ -3475,7 +3487,7 @@ Most fish had too many toppings to taste any fish."</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">272.</td>
+<td style="text-align: right">273.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Shinzo Omakase&sll=40.72371529999999,-73.98768890000001&ll=40.72371529999999,-73.98768890000001" target="_blank">Shinzo Omakase</a></div>
     <div style="white-space: pre;">$$$$  |  Ukrainian Village, New York, NY</div>
@@ -3487,7 +3499,7 @@ Most fish had too many toppings to taste any fish."</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">273.</td>
+<td style="text-align: right">274.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Sushi 456&sll=40.73145509999999,-74.0064215&ll=40.73145509999999,-74.0064215" target="_blank">Sushi 456</a></div>
     <div style="white-space: pre;">$$$  |  West Village, New York, NY</div>
@@ -3499,7 +3511,7 @@ Most fish had too many toppings to taste any fish."</div>
 </tr>
         
 <tr class="london">
-<td style="text-align: right">274.</td>
+<td style="text-align: right">275.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=De Beauvoir Deli Cafe (dine-in only)&sll=51.5412181,-0.0852561&ll=51.5412181,-0.0852561" target="_blank">De Beauvoir Deli Cafe (dine-in only)</a></div>
     <div style="white-space: pre;">London</div>
@@ -3511,7 +3523,7 @@ Most fish had too many toppings to taste any fish."</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">275.</td>
+<td style="text-align: right">276.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Pocha 32&sll=40.7477222,-73.9863775&ll=40.7477222,-73.9863775" target="_blank">Pocha 32</a></div>
     <div style="white-space: pre;">$$  |  Midtown South, New York, NY</div>
@@ -3523,7 +3535,7 @@ Most fish had too many toppings to taste any fish."</div>
 </tr>
         
 <tr class="paris">
-<td style="text-align: right">276.</td>
+<td style="text-align: right">277.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Au P'tit Grec&sll=48.8427708,2.3495575&ll=48.8427708,2.3495575" target="_blank">Au P'tit Grec</a></div>
     <div style="white-space: pre;">$  |  Val-de-Grâce, Paris</div>
@@ -3535,7 +3547,7 @@ Most fish had too many toppings to taste any fish."</div>
 </tr>
         
 <tr class="la">
-<td style="text-align: right">277.</td>
+<td style="text-align: right">278.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Simpang Asia&sll=34.02908189999999,-118.4117044&ll=34.02908189999999,-118.4117044" target="_blank">Simpang Asia</a></div>
     <div style="white-space: pre;">$  |  Palms, Los Angeles, CA</div>
@@ -3547,7 +3559,7 @@ Most fish had too many toppings to taste any fish."</div>
 </tr>
         
 <tr class="paris">
-<td style="text-align: right">278.</td>
+<td style="text-align: right">279.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Candelaria&sll=48.8629825,2.3640307&ll=48.8629825,2.3640307" target="_blank">Candelaria</a></div>
     <div style="white-space: pre;">$$  |  Enfants-Rouges, Paris</div>
@@ -3559,7 +3571,7 @@ Most fish had too many toppings to taste any fish."</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">279.</td>
+<td style="text-align: right">280.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=COQODAQ&sll=40.7400559,-73.9887467&ll=40.7400559,-73.9887467" target="_blank">COQODAQ</a></div>
     <div style="white-space: pre;">$$$  |  Flatiron District, New York, NY</div>
@@ -3577,7 +3589,7 @@ Earl grey mocktail was great!"</div>
 </tr>
         
 <tr class="other">
-<td style="text-align: right">280.</td>
+<td style="text-align: right">281.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=TacoWey&sll=30.2668662,-97.739612&ll=30.2668662,-97.739612" target="_blank">TacoWey</a></div>
     <div style="white-space: pre;">Sixth Street Historic District, Austin, TX</div>
@@ -3589,7 +3601,7 @@ Earl grey mocktail was great!"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">281.</td>
+<td style="text-align: right">282.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=DIG on Bleecker&sll=40.730217,-74.0025145&ll=40.730217,-74.0025145" target="_blank">DIG on Bleecker</a></div>
     <div style="white-space: pre;">$$  |  South Village, New York, NY</div>
@@ -3601,7 +3613,7 @@ Earl grey mocktail was great!"</div>
 </tr>
         
 <tr class="la">
-<td style="text-align: right">282.</td>
+<td style="text-align: right">283.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Pijja Palace&sll=34.0811009,-118.2704567&ll=34.0811009,-118.2704567" target="_blank">Pijja Palace</a></div>
     <div style="white-space: pre;">$$  |  Silver Lake, Los Angeles, CA</div>
@@ -3613,7 +3625,7 @@ Earl grey mocktail was great!"</div>
 </tr>
         
 <tr class="japan">
-<td style="text-align: right">283.</td>
+<td style="text-align: right">284.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Potohar&sll=35.6857346,139.6934272&ll=35.6857346,139.6934272" target="_blank">Potohar</a></div>
     <div style="white-space: pre;">$$  |  Tokyo</div>
@@ -3625,7 +3637,7 @@ Earl grey mocktail was great!"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">284.</td>
+<td style="text-align: right">285.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Mokyo&sll=40.7271382,-73.9839549&ll=40.7271382,-73.9839549" target="_blank">Mokyo</a></div>
     <div style="white-space: pre;">$$$  |  Ukrainian Village, New York, NY</div>
@@ -3639,7 +3651,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="paris">
-<td style="text-align: right">285.</td>
+<td style="text-align: right">286.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Cosi&sll=48.86238719999999,2.3651796&ll=48.86238719999999,2.3651796" target="_blank">Cosi</a></div>
     <div style="white-space: pre;">Enfants-Rouges, Paris</div>
@@ -3651,7 +3663,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">286.</td>
+<td style="text-align: right">287.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Little Alley&sll=40.7474165,-73.9772212&ll=40.7474165,-73.9772212" target="_blank">Little Alley</a></div>
     <div style="white-space: pre;">$$  |  Murray Hill, New York, NY</div>
@@ -3663,7 +3675,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="japan">
-<td style="text-align: right">287.</td>
+<td style="text-align: right">288.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Hidakaya Higashi-Ginza shop&sll=35.6691406,139.7668989&ll=35.6691406,139.7668989" target="_blank">Hidakaya Higashi-Ginza shop</a></div>
     <div style="white-space: pre;">$  |  Tokyo</div>
@@ -3675,7 +3687,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="singapore">
-<td style="text-align: right">288.</td>
+<td style="text-align: right">289.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=海底捞 Haidilao Hot Pot @Clarke Quay&sll=1.2898252,103.8455401&ll=1.2898252,103.8455401" target="_blank">海底捞 Haidilao Hot Pot @Clarke Quay</a></div>
     <div style="white-space: pre;">$$$  |  Singapore River, Singapore</div>
@@ -3687,7 +3699,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="london">
-<td style="text-align: right">289.</td>
+<td style="text-align: right">290.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Shiro Sushi&sll=51.5182988,-0.08301710000000001&ll=51.5182988,-0.08301710000000001" target="_blank">Shiro Sushi</a></div>
     <div style="white-space: pre;">London</div>
@@ -3699,19 +3711,19 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="london">
-<td style="text-align: right">290.</td>
+<td style="text-align: right">291.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Nobu Restaurant London Shoreditch&sll=51.5250101,-0.08245010000000001&ll=51.5250101,-0.08245010000000001" target="_blank">Nobu Restaurant London Shoreditch</a></div>
     <div style="white-space: pre;">$$$$  |  London</div>
     <div><a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/68448/f69d5871-2932-4f68-9157-38b9733ff5a9/images/kxo9ow1immge40w3vl1.jpg">3 levels of tuna, wagyu, salmon, yellowtail scallion</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/68448/f69d5871-2932-4f68-9157-38b9733ff5a9/images/cgv9zvair1er7qzd772.jpg">Broccoli shiso</a></div>
     <div class="note">"I could be misremembering but this felt more expensive and worse than Nobu in the US."</div>
 </td>
-<td class="good">7.7</td>
+<td class="good">7.6</td>
 <td style="text-align: right"></td>
 </tr>
         
 <tr class="other">
-<td style="text-align: right">291.</td>
+<td style="text-align: right">292.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Cuantos Tacos&sll=30.2727937,-97.7282515&ll=30.2727937,-97.7282515" target="_blank">Cuantos Tacos</a></div>
     <div style="white-space: pre;">$  |  Central East Austin, Austin, TX</div>
@@ -3723,7 +3735,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="singapore">
-<td style="text-align: right">292.</td>
+<td style="text-align: right">293.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Flutes Restaurant . Bar&sll=1.2966058,103.8488293&ll=1.2966058,103.8488293" target="_blank">Flutes Restaurant . Bar</a></div>
     <div style="white-space: pre;">$$$  |  Museum, Singapore</div>
@@ -3735,7 +3747,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="paris">
-<td style="text-align: right">293.</td>
+<td style="text-align: right">294.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Le Rapide&sll=48.8721155,2.3433099&ll=48.8721155,2.3433099" target="_blank">Le Rapide</a></div>
     <div style="white-space: pre;">Faubourg-Montmartre, Paris</div>
@@ -3747,7 +3759,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="singapore">
-<td style="text-align: right">294.</td>
+<td style="text-align: right">295.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Tian Tian Hainanese Chicken Rice- Maxwell Food Centre&sll=1.2804528,103.8447987&ll=1.2804528,103.8447987" target="_blank">Tian Tian Hainanese Chicken Rice- Maxwell Food Centre</a></div>
     <div style="white-space: pre;">$  |  Chinatown, Singapore</div>
@@ -3759,7 +3771,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">295.</td>
+<td style="text-align: right">296.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Zooba&sll=40.72129329999999,-73.9973098&ll=40.72129329999999,-73.9973098" target="_blank">Zooba</a></div>
     <div style="white-space: pre;">$  |  Nolita, New York, NY</div>
@@ -3771,7 +3783,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">296.</td>
+<td style="text-align: right">297.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Okiboru House of Tsukemen&sll=40.7193338,-73.9897685&ll=40.7193338,-73.9897685" target="_blank">Okiboru House of Tsukemen</a></div>
     <div style="white-space: pre;">$$  |  Lower East Side, New York, NY</div>
@@ -3783,7 +3795,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="paris">
-<td style="text-align: right">297.</td>
+<td style="text-align: right">298.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Kodawari Ramen (Tsukiji)&sll=48.8643421,2.3362452&ll=48.8643421,2.3362452" target="_blank">Kodawari Ramen (Tsukiji)</a></div>
     <div style="white-space: pre;">$  |  Palais-Royal, Paris</div>
@@ -3795,7 +3807,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="london">
-<td style="text-align: right">298.</td>
+<td style="text-align: right">299.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Lusin Mayfair&sll=51.5091663,-0.1433412&ll=51.5091663,-0.1433412" target="_blank">Lusin Mayfair</a></div>
     <div style="white-space: pre;">$$$$  |  London</div>
@@ -3807,7 +3819,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="la">
-<td style="text-align: right">299.</td>
+<td style="text-align: right">300.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Pho Saigon Pearl&sll=34.0668719,-118.3615729&ll=34.0668719,-118.3615729" target="_blank">Pho Saigon Pearl</a></div>
     <div style="white-space: pre;">$$  |  Central LA, Los Angeles, CA</div>
@@ -3819,7 +3831,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="paris">
-<td style="text-align: right">300.</td>
+<td style="text-align: right">301.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=La Baguette du Relais&sll=48.85756749999999,2.3544852&ll=48.85756749999999,2.3544852" target="_blank">La Baguette du Relais</a></div>
     <div style="white-space: pre;">$  |  Saint Gervais, Paris</div>
@@ -3831,7 +3843,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">301.</td>
+<td style="text-align: right">302.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Boqueria Soho&sll=40.7249228,-74.00215539999999&ll=40.7249228,-74.00215539999999" target="_blank">Boqueria Soho</a></div>
     <div style="white-space: pre;">$$  |  SoHo, New York, NY</div>
@@ -3843,7 +3855,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="bay">
-<td style="text-align: right">302.</td>
+<td style="text-align: right">303.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Standard Fare&sll=37.85713969999999,-122.2917822&ll=37.85713969999999,-122.2917822" target="_blank">Standard Fare</a></div>
     <div style="white-space: pre;">$$  |  Southwest Berkeley, Berkeley, CA</div>
@@ -3855,7 +3867,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="singapore">
-<td style="text-align: right">303.</td>
+<td style="text-align: right">304.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Lau Pa Sat&sll=1.2805121,103.8503809&ll=1.2805121,103.8503809" target="_blank">Lau Pa Sat</a></div>
     <div style="white-space: pre;">$  |  Downtown Core, Singapore</div>
@@ -3867,7 +3879,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="bay">
-<td style="text-align: right">304.</td>
+<td style="text-align: right">305.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Gypsy's Trattoria Italiana&sll=37.868046,-122.258165&ll=37.868046,-122.258165" target="_blank">Gypsy's Trattoria Italiana</a></div>
     <div style="white-space: pre;">$  |  Southside, Berkeley, CA</div>
@@ -3879,7 +3891,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">305.</td>
+<td style="text-align: right">306.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Coppelia&sll=40.7388889,-74.0&ll=40.7388889,-74.0" target="_blank">Coppelia</a></div>
     <div style="white-space: pre;">$$  |  Chelsea, New York, NY</div>
@@ -3891,7 +3903,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="bay">
-<td style="text-align: right">306.</td>
+<td style="text-align: right">307.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Mashallah Halal Pakistani Food Restaurant&sll=37.7841217,-122.4063903&ll=37.7841217,-122.4063903" target="_blank">Mashallah Halal Pakistani Food Restaurant</a></div>
     <div style="white-space: pre;">Yerba Buena, San Francisco, CA</div>
@@ -3903,7 +3915,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">307.</td>
+<td style="text-align: right">308.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=United Polaris lounge&sll=40.6956875,-74.1783055&ll=40.6956875,-74.1783055" target="_blank">United Polaris lounge</a></div>
     <div style="white-space: pre;">$$  |  Newark, NJ</div>
@@ -3915,7 +3927,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="bay">
-<td style="text-align: right">308.</td>
+<td style="text-align: right">309.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=IPPUDO BERKELEY&sll=37.8719195,-122.267603&ll=37.8719195,-122.267603" target="_blank">IPPUDO BERKELEY</a></div>
     <div style="white-space: pre;">$$  |  Downtown Berkeley, Berkeley, CA</div>
@@ -3927,7 +3939,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="other">
-<td style="text-align: right">309.</td>
+<td style="text-align: right">310.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Pho Real Kitchen and Bar&sll=41.5851544,-93.621878&ll=41.5851544,-93.621878" target="_blank">Pho Real Kitchen and Bar</a></div>
     <div style="white-space: pre;">$$  |  Downtown Des Moines, Des Moines, IA</div>
@@ -3939,7 +3951,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="bay">
-<td style="text-align: right">310.</td>
+<td style="text-align: right">311.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=La Note&sll=37.866206,-122.267249&ll=37.866206,-122.267249" target="_blank">La Note</a></div>
     <div style="white-space: pre;">$$  |  Downtown Berkeley, Berkeley, CA</div>
@@ -3951,7 +3963,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">311.</td>
+<td style="text-align: right">312.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=7th Street Burger East Village&sll=40.726932,-73.9853588&ll=40.726932,-73.9853588" target="_blank">7th Street Burger East Village</a></div>
     <div style="white-space: pre;">$  |  Ukrainian Village, New York, NY</div>
@@ -3963,7 +3975,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="bay">
-<td style="text-align: right">312.</td>
+<td style="text-align: right">313.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Artichoke Basille's Pizza&sll=37.86793609999999,-122.2568562&ll=37.86793609999999,-122.2568562" target="_blank">Artichoke Basille's Pizza</a></div>
     <div style="white-space: pre;">$  |  Southside, Berkeley, CA</div>
@@ -3975,7 +3987,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">313.</td>
+<td style="text-align: right">314.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Charlie Bird&sll=40.7278191,-74.0028447&ll=40.7278191,-74.0028447" target="_blank">Charlie Bird</a></div>
     <div style="white-space: pre;">$$$  |  SoHo, New York, NY</div>
@@ -3987,7 +3999,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="london">
-<td style="text-align: right">314.</td>
+<td style="text-align: right">315.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Ozone Coffee Roasters, Shoreditch&sll=51.5247109,-0.08673439999999998&ll=51.5247109,-0.08673439999999998" target="_blank">Ozone Coffee Roasters, Shoreditch</a></div>
     <div style="white-space: pre;">$$  |  London</div>
@@ -3999,7 +4011,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="georgia">
-<td style="text-align: right">315.</td>
+<td style="text-align: right">316.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Machakhela&sll=41.6897662,44.8088333&ll=41.6897662,44.8088333" target="_blank">Machakhela</a></div>
     <div style="white-space: pre;">$$  |  Tbilisi</div>
@@ -4011,7 +4023,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="georgia">
-<td style="text-align: right">316.</td>
+<td style="text-align: right">317.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Ninia’s Garden&sll=41.7115754,44.79319559999999&ll=41.7115754,44.79319559999999" target="_blank">Ninia’s Garden</a></div>
     <div style="white-space: pre;">Tbilisi</div>
@@ -4023,7 +4035,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">317.</td>
+<td style="text-align: right">318.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Russ & Daughters&sll=40.7225803,-73.9883134&ll=40.7225803,-73.9883134" target="_blank">Russ & Daughters</a></div>
     <div style="white-space: pre;">$$  |  Lower East Side, New York, NY</div>
@@ -4035,7 +4047,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="georgia">
-<td style="text-align: right">318.</td>
+<td style="text-align: right">319.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Acharulebi Laghidzeze&sll=41.7001414,44.7960344&ll=41.7001414,44.7960344" target="_blank">Acharulebi Laghidzeze</a></div>
     <div style="white-space: pre;">Tbilisi</div>
@@ -4047,7 +4059,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="la">
-<td style="text-align: right">319.</td>
+<td style="text-align: right">320.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Destroyer&sll=34.02454,-118.38115&ll=34.02454,-118.38115" target="_blank">Destroyer</a></div>
     <div style="white-space: pre;">$$$  |  Hayden Tract, Culver City, CA</div>
@@ -4059,7 +4071,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">320.</td>
+<td style="text-align: right">321.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Ravagh Persian Grill&sll=40.7472556,-73.9831166&ll=40.7472556,-73.9831166" target="_blank">Ravagh Persian Grill</a></div>
     <div style="white-space: pre;">$$  |  Midtown South, New York, NY</div>
@@ -4071,7 +4083,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">321.</td>
+<td style="text-align: right">322.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Pinch Chinese&sll=40.7264492,-74.001798&ll=40.7264492,-74.001798" target="_blank">Pinch Chinese</a></div>
     <div style="white-space: pre;">$$$  |  SoHo, New York, NY</div>
@@ -4083,7 +4095,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">322.</td>
+<td style="text-align: right">323.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=NY Dosas&sll=40.7305625,-73.9988367&ll=40.7305625,-73.9988367" target="_blank">NY Dosas</a></div>
     <div style="white-space: pre;">$  |  Greenwich Village, New York, NY</div>
@@ -4095,7 +4107,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">323.</td>
+<td style="text-align: right">324.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Torch & Crown Brewing Company&sll=40.72621049999999,-74.0043149&ll=40.72621049999999,-74.0043149" target="_blank">Torch & Crown Brewing Company</a></div>
     <div style="white-space: pre;">$$  |  South Village, New York, NY</div>
@@ -4107,7 +4119,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="other">
-<td style="text-align: right">324.</td>
+<td style="text-align: right">325.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Hlöllabátar&sll=64.1483069,-21.9412588&ll=64.1483069,-21.9412588" target="_blank">Hlöllabátar</a></div>
     <div style="white-space: pre;">$  |  Centre, Reykjavík</div>
@@ -4119,7 +4131,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">325.</td>
+<td style="text-align: right">326.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Leon's Bagels&sll=40.72768540000001,-74.0004606&ll=40.72768540000001,-74.0004606" target="_blank">Leon's Bagels</a></div>
     <div style="white-space: pre;">$$  |  South Village, New York, NY</div>
@@ -4131,7 +4143,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">326.</td>
+<td style="text-align: right">327.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Kebab Express | Halal Grill&sll=40.73058940000001,-74.0024921&ll=40.73058940000001,-74.0024921" target="_blank">Kebab Express | Halal Grill</a></div>
     <div style="white-space: pre;">$  |  South Village, New York, NY</div>
@@ -4143,19 +4155,19 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">327.</td>
+<td style="text-align: right">328.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Chama Mama Chelsea&sll=40.73844129999999,-73.9988997&ll=40.73844129999999,-73.9988997" target="_blank">Chama Mama Chelsea</a></div>
     <div style="white-space: pre;">$$  |  Chelsea, New York, NY</div>
     <div><a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/5492/f69d5871-2932-4f68-9157-38b9733ff5a9/images/8mpuvp1h5n9y8l0k91a.jpg">Meat platter</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/5492/f69d5871-2932-4f68-9157-38b9733ff5a9/images/eec8j2jjakp6h6nb6x3.jpg">Megruli Kharsho</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/5492/f69d5871-2932-4f68-9157-38b9733ff5a9/images/y4g72uy97496mkzq2zw.jpg">Megruli Khachapuri</a>, <a target="_blank" class="photo" href="https://photos2.beliapp.cloud/file/beli-b2/userbusiness/5492/f69d5871-2932-4f68-9157-38b9733ff5a9/images/vtn5m5heoakklp6z0u8.jpg">Kvari</a></div>
     <div class="note">"Reranking: went again after having visited Georgia and it doesn't really measure up. Old Tbilisi Garden and Ubani are both better. Also they didn't have tarkhun which was disappointing."</div>
 </td>
-<td class="good">7.4</td>
+<td class="good">7.3</td>
 <td style="text-align: right"></td>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">328.</td>
+<td style="text-align: right">329.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Sophra Grill&sll=40.7466502,-73.97719479999999&ll=40.7466502,-73.97719479999999" target="_blank">Sophra Grill</a></div>
     <div style="white-space: pre;">$$  |  Murray Hill, New York, NY</div>
@@ -4167,7 +4179,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">329.</td>
+<td style="text-align: right">330.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Kong Sihk Tong&sll=40.7153773,-73.9981397&ll=40.7153773,-73.9981397" target="_blank">Kong Sihk Tong</a></div>
     <div style="white-space: pre;">$  |  Chinatown, New York, NY</div>
@@ -4179,7 +4191,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="bay">
-<td style="text-align: right">330.</td>
+<td style="text-align: right">331.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Brenda's Meat & Three&sll=37.7781752,-122.4386952&ll=37.7781752,-122.4386952" target="_blank">Brenda's Meat & Three</a></div>
     <div style="white-space: pre;">$$  |  North of the Panhandle, San Francisco, CA</div>
@@ -4191,7 +4203,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">331.</td>
+<td style="text-align: right">332.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Thelewala&sll=40.72959779999999,-74.0006102&ll=40.72959779999999,-74.0006102" target="_blank">Thelewala</a></div>
     <div style="white-space: pre;">$  |  South Village, New York, NY</div>
@@ -4203,7 +4215,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="other">
-<td style="text-align: right">332.</td>
+<td style="text-align: right">333.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Glyn Thai Restaurant and Bar&sll=40.7239269,-111.5409202&ll=40.7239269,-111.5409202" target="_blank">Glyn Thai Restaurant and Bar</a></div>
     <div style="white-space: pre;">$$  |  Park City, UT</div>
@@ -4215,7 +4227,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="bay">
-<td style="text-align: right">333.</td>
+<td style="text-align: right">334.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=DAYTRIP&sll=37.83190889999999,-122.263417&ll=37.83190889999999,-122.263417" target="_blank">DAYTRIP</a></div>
     <div style="white-space: pre;">$$$  |  Temescal, Oakland, CA</div>
@@ -4227,7 +4239,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="other">
-<td style="text-align: right">334.</td>
+<td style="text-align: right">335.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Vibras Juice Bar&sll=36.6059176,-118.0633391&ll=36.6059176,-118.0633391" target="_blank">Vibras Juice Bar</a></div>
     <div style="white-space: pre;">$$  |  Lone Pine, CA</div>
@@ -4239,7 +4251,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">335.</td>
+<td style="text-align: right">336.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Mikes Deli&sll=40.8542278,-73.8882528&ll=40.8542278,-73.8882528" target="_blank">Mikes Deli</a></div>
     <div style="white-space: pre;">$  |  Little Italy, New York, NY</div>
@@ -4251,7 +4263,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">336.</td>
+<td style="text-align: right">337.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=SMASHED&sll=40.7336244,-74.00608989999999&ll=40.7336244,-74.00608989999999" target="_blank">SMASHED</a></div>
     <div style="white-space: pre;">$$  |  West Village, New York, NY</div>
@@ -4263,7 +4275,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">337.</td>
+<td style="text-align: right">338.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Dickson's Farmstand Meats&sll=40.7424931,-74.0062592&ll=40.7424931,-74.0062592" target="_blank">Dickson's Farmstand Meats</a></div>
     <div style="white-space: pre;">$  |  Chelsea, New York, NY</div>
@@ -4275,7 +4287,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">338.</td>
+<td style="text-align: right">339.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=LOS MARISCOS&sll=40.7421853,-74.00578589999999&ll=40.7421853,-74.00578589999999" target="_blank">LOS MARISCOS</a></div>
     <div style="white-space: pre;">$  |  Chelsea, New York, NY</div>
@@ -4287,7 +4299,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">339.</td>
+<td style="text-align: right">340.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Liberty Bagels Midtown&sll=40.7524936,-73.99252969999999&ll=40.7524936,-73.99252969999999" target="_blank">Liberty Bagels Midtown</a></div>
     <div style="white-space: pre;">$  |  Garment District, New York, NY</div>
@@ -4299,7 +4311,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">340.</td>
+<td style="text-align: right">341.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Moustache Pitza&sll=40.7322071,-74.0051987&ll=40.7322071,-74.0051987" target="_blank">Moustache Pitza</a></div>
     <div style="white-space: pre;">$$  |  West Village, New York, NY</div>
@@ -4311,7 +4323,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">341.</td>
+<td style="text-align: right">342.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Ayat&sll=40.6557142,-74.00694349999999&ll=40.6557142,-74.00694349999999" target="_blank">Ayat</a></div>
     <div style="white-space: pre;">$$  |  Sunset Park, New York, NY</div>
@@ -4323,7 +4335,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">342.</td>
+<td style="text-align: right">343.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Fons - Plant Based Empanadas&sll=40.73011,-74.002515&ll=40.73011,-74.002515" target="_blank">Fons - Plant Based Empanadas</a></div>
     <div style="white-space: pre;">South Village, New York, NY</div>
@@ -4335,7 +4347,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">343.</td>
+<td style="text-align: right">344.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=India Restaurant&sll=41.8560877,-71.39176909999999&ll=41.8560877,-71.39176909999999" target="_blank">India Restaurant</a></div>
     <div style="white-space: pre;">$$  |  Hope, Providence, RI</div>
@@ -4347,7 +4359,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">344.</td>
+<td style="text-align: right">345.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=BigNorm&sll=40.6832009,-73.992633&ll=40.6832009,-73.992633" target="_blank">BigNorm</a></div>
     <div style="white-space: pre;">$  |  Carroll Gardens, New York, NY</div>
@@ -4359,7 +4371,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">345.</td>
+<td style="text-align: right">346.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Banter NYC - West Village&sll=40.7391397,-74.0057191&ll=40.7391397,-74.0057191" target="_blank">Banter NYC - West Village</a></div>
     <div style="white-space: pre;">$$  |  West Village, New York, NY</div>
@@ -4371,7 +4383,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="la">
-<td style="text-align: right">346.</td>
+<td style="text-align: right">347.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Sweet Maple & U Dessert Story&sll=34.0098496,-118.4926698&ll=34.0098496,-118.4926698" target="_blank">Sweet Maple & U Dessert Story</a></div>
     <div style="white-space: pre;">$$  |  Santa Monica, CA</div>
@@ -4383,7 +4395,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">347.</td>
+<td style="text-align: right">348.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=C as in Charlie&sll=40.7255039,-73.99270179999999&ll=40.7255039,-73.99270179999999" target="_blank">C as in Charlie</a></div>
     <div style="white-space: pre;">$$  |  NoHo, New York, NY</div>
@@ -4395,7 +4407,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">348.</td>
+<td style="text-align: right">349.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Cauldron Chicken&sll=40.7290373,-74.0015817&ll=40.7290373,-74.0015817" target="_blank">Cauldron Chicken</a></div>
     <div style="white-space: pre;">$  |  South Village, New York, NY</div>
@@ -4407,7 +4419,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">349.</td>
+<td style="text-align: right">350.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Mama's TOO! Pizzeria West Village&sll=40.7332891,-74.0040441&ll=40.7332891,-74.0040441" target="_blank">Mama's TOO! Pizzeria West Village</a></div>
     <div style="white-space: pre;">$$  |  West Village, New York, NY</div>
@@ -4419,7 +4431,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">350.</td>
+<td style="text-align: right">351.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=The Grey Dog - West Village&sll=40.73001169999999,-74.0038879&ll=40.73001169999999,-74.0038879" target="_blank">The Grey Dog - West Village</a></div>
     <div style="white-space: pre;">$$  |  South Village, New York, NY</div>
@@ -4431,7 +4443,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="la">
-<td style="text-align: right">351.</td>
+<td style="text-align: right">352.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Seoulmates&sll=34.0725668,-118.3707825&ll=34.0725668,-118.3707825" target="_blank">Seoulmates</a></div>
     <div style="white-space: pre;">$$  |  Beverly Grove, Los Angeles, CA</div>
@@ -4443,7 +4455,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">352.</td>
+<td style="text-align: right">353.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=TORI-BIEN&sll=40.7294946,-73.9883747&ll=40.7294946,-73.9883747" target="_blank">TORI-BIEN</a></div>
     <div style="white-space: pre;">$  |  Ukrainian Village, New York, NY</div>
@@ -4455,7 +4467,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">353.</td>
+<td style="text-align: right">354.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Masalawala & Sons&sll=40.67125599999999,-73.9842655&ll=40.67125599999999,-73.9842655" target="_blank">Masalawala & Sons</a></div>
     <div style="white-space: pre;">$$$  |  Park Slope, New York, NY</div>
@@ -4467,7 +4479,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">354.</td>
+<td style="text-align: right">355.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Baar Baar&sll=40.7244269,-73.9915532&ll=40.7244269,-73.9915532" target="_blank">Baar Baar</a></div>
     <div style="white-space: pre;">$$$  |  Bowery, New York, NY</div>
@@ -4479,7 +4491,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">355.</td>
+<td style="text-align: right">356.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Leitao&sll=40.734927,-74.00640899999999&ll=40.734927,-74.00640899999999" target="_blank">Leitao</a></div>
     <div style="white-space: pre;">$$$  |  West Village, New York, NY</div>
@@ -4491,7 +4503,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">356.</td>
+<td style="text-align: right">357.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=The Osprey&sll=40.7023497,-73.99559409999999&ll=40.7023497,-73.99559409999999" target="_blank">The Osprey</a></div>
     <div style="white-space: pre;">$$$  |  Fulton Ferry District, New York, NY</div>
@@ -4503,7 +4515,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">357.</td>
+<td style="text-align: right">358.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Atithi&sll=40.714817,-73.9615759&ll=40.714817,-73.9615759" target="_blank">Atithi</a></div>
     <div style="white-space: pre;">$$  |  Williamsburg, New York, NY</div>
@@ -4515,7 +4527,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="london">
-<td style="text-align: right">358.</td>
+<td style="text-align: right">359.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=BAO Noodle Shop&sll=51.524387,-0.07696560000000002&ll=51.524387,-0.07696560000000002" target="_blank">BAO Noodle Shop</a></div>
     <div style="white-space: pre;">$$  |  London</div>
@@ -4527,7 +4539,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">359.</td>
+<td style="text-align: right">360.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Carlitos Barbecue Taqueria&sll=40.6835736,-74.18322429999999&ll=40.6835736,-74.18322429999999" target="_blank">Carlitos Barbecue Taqueria</a></div>
     <div style="white-space: pre;">$  |  Newark, NJ</div>
@@ -4539,7 +4551,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">360.</td>
+<td style="text-align: right">361.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Ahgassi Gopchang NYC&sll=40.7470799,-73.9850233&ll=40.7470799,-73.9850233" target="_blank">Ahgassi Gopchang NYC</a></div>
     <div style="white-space: pre;">$$$  |  Midtown South, New York, NY</div>
@@ -4551,7 +4563,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">361.</td>
+<td style="text-align: right">362.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Tea & Sympathy&sll=40.738313,-74.00193&ll=40.738313,-74.00193" target="_blank">Tea & Sympathy</a></div>
     <div style="white-space: pre;">$$  |  West Village, New York, NY</div>
@@ -4563,7 +4575,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="other">
-<td style="text-align: right">362.</td>
+<td style="text-align: right">363.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Little Brother Coffee & Kolaches&sll=30.248496,-97.7505149&ll=30.248496,-97.7505149" target="_blank">Little Brother Coffee & Kolaches</a></div>
     <div style="white-space: pre;">Bouldin Creek, Austin, TX</div>
@@ -4575,7 +4587,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="other">
-<td style="text-align: right">363.</td>
+<td style="text-align: right">364.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=hana ramen bar&sll=40.7251414,-111.5467692&ll=40.7251414,-111.5467692" target="_blank">hana ramen bar</a></div>
     <div style="white-space: pre;">$$  |  Park City, UT</div>
@@ -4587,7 +4599,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">364.</td>
+<td style="text-align: right">365.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=CafeDelia&sll=40.7311025,-73.9933102&ll=40.7311025,-73.9933102" target="_blank">CafeDelia</a></div>
     <div style="white-space: pre;">$  |  Greenwich Village, New York, NY</div>
@@ -4599,7 +4611,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="la">
-<td style="text-align: right">365.</td>
+<td style="text-align: right">366.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Katsu Bar&sll=34.0394457,-118.4726748&ll=34.0394457,-118.4726748" target="_blank">Katsu Bar</a></div>
     <div style="white-space: pre;">$$  |  Mid-City, Santa Monica, CA</div>
@@ -4611,7 +4623,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="la">
-<td style="text-align: right">366.</td>
+<td style="text-align: right">367.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=SOBAR&sll=33.9968164,-118.4286366&ll=33.9968164,-118.4286366" target="_blank">SOBAR</a></div>
     <div style="white-space: pre;">$$  |  Culver - West, Los Angeles, CA</div>
@@ -4623,7 +4635,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="bay">
-<td style="text-align: right">367.</td>
+<td style="text-align: right">368.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=KoJa Kitchen&sll=37.8672057,-122.2586268&ll=37.8672057,-122.2586268" target="_blank">KoJa Kitchen</a></div>
     <div style="white-space: pre;">$$  |  Southside, Berkeley, CA</div>
@@ -4635,7 +4647,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="bay">
-<td style="text-align: right">368.</td>
+<td style="text-align: right">369.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Mezzo&sll=37.86617769999999,-122.2588189&ll=37.86617769999999,-122.2588189" target="_blank">Mezzo</a></div>
     <div style="white-space: pre;">$$  |  Southside, Berkeley, CA</div>
@@ -4647,7 +4659,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="other">
-<td style="text-align: right">369.</td>
+<td style="text-align: right">370.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Bird Bird Biscuit&sll=30.2849343,-97.7139929&ll=30.2849343,-97.7139929" target="_blank">Bird Bird Biscuit</a></div>
     <div style="white-space: pre;">$  |  East Austin, Austin, TX</div>
@@ -4659,7 +4671,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="singapore">
-<td style="text-align: right">370.</td>
+<td style="text-align: right">371.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Ya Kun Kaya Toast&sll=1.2836577,103.8479747&ll=1.2836577,103.8479747" target="_blank">Ya Kun Kaya Toast</a></div>
     <div style="white-space: pre;">$  |  Outram, Singapore</div>
@@ -4671,7 +4683,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="la">
-<td style="text-align: right">371.</td>
+<td style="text-align: right">372.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Azai Hand Roll Sushi&sll=34.07182599999999,-118.3651209&ll=34.07182599999999,-118.3651209" target="_blank">Azai Hand Roll Sushi</a></div>
     <div style="white-space: pre;">$$  |  Beverly Grove, Los Angeles, CA</div>
@@ -4683,7 +4695,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="london">
-<td style="text-align: right">372.</td>
+<td style="text-align: right">373.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Beigel Bake Brick Lane Bakery&sll=51.52449849999999,-0.07176080000000001&ll=51.52449849999999,-0.07176080000000001" target="_blank">Beigel Bake Brick Lane Bakery</a></div>
     <div style="white-space: pre;">$  |  London</div>
@@ -4695,7 +4707,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">373.</td>
+<td style="text-align: right">374.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Murphy’s&sll=40.7273006,-73.9831177&ll=40.7273006,-73.9831177" target="_blank">Murphy’s</a></div>
     <div style="white-space: pre;">$$  |  Ukrainian Village, New York, NY</div>
@@ -4707,7 +4719,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">374.</td>
+<td style="text-align: right">375.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Local Roots Chelsea&sll=40.7430964,-74.00916959999999&ll=40.7430964,-74.00916959999999" target="_blank">Local Roots Chelsea</a></div>
     <div style="white-space: pre;">$  |  New York, NY</div>
@@ -4719,7 +4731,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">375.</td>
+<td style="text-align: right">376.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Flip Sigi West Village&sll=40.73436410000001,-74.0007935&ll=40.73436410000001,-74.0007935" target="_blank">Flip Sigi West Village</a></div>
     <div style="white-space: pre;">$  |  West Village, New York, NY</div>
@@ -4731,7 +4743,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">376.</td>
+<td style="text-align: right">377.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Joe's Pizza&sll=40.7306597,-74.0021707&ll=40.7306597,-74.0021707" target="_blank">Joe's Pizza</a></div>
     <div style="white-space: pre;">$  |  South Village, New York, NY</div>
@@ -4743,7 +4755,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="georgia">
-<td style="text-align: right">377.</td>
+<td style="text-align: right">378.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Bikentia's Kebabery&sll=42.26961029999999,42.70195409999999&ll=42.26961029999999,42.70195409999999" target="_blank">Bikentia's Kebabery</a></div>
     <div style="white-space: pre;">$  |  Kutaisi</div>
@@ -4755,7 +4767,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="london">
-<td style="text-align: right">378.</td>
+<td style="text-align: right">379.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Scotti's Snack Bar&sll=51.5230146,-0.1055962&ll=51.5230146,-0.1055962" target="_blank">Scotti's Snack Bar</a></div>
     <div style="white-space: pre;">$  |  London</div>
@@ -4767,7 +4779,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">379.</td>
+<td style="text-align: right">380.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Leo&sll=40.7125596,-73.9567886&ll=40.7125596,-73.9567886" target="_blank">Leo</a></div>
     <div style="white-space: pre;">$$  |  Williamsburg, New York, NY</div>
@@ -4779,7 +4791,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">380.</td>
+<td style="text-align: right">381.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Doña Zita&sll=40.5748711,-73.9804993&ll=40.5748711,-73.9804993" target="_blank">Doña Zita</a></div>
     <div style="white-space: pre;">$  |  Coney Island, New York, NY</div>
@@ -4791,7 +4803,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">381.</td>
+<td style="text-align: right">382.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Karczma&sll=40.7299969,-73.9551152&ll=40.7299969,-73.9551152" target="_blank">Karczma</a></div>
     <div style="white-space: pre;">$  |  Greenpoint, New York, NY</div>
@@ -4803,7 +4815,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">382.</td>
+<td style="text-align: right">383.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Great NY Noodletown&sll=40.71500849999999,-73.9970518&ll=40.71500849999999,-73.9970518" target="_blank">Great NY Noodletown</a></div>
     <div style="white-space: pre;">$  |  Chinatown, New York, NY</div>
@@ -4815,7 +4827,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">383.</td>
+<td style="text-align: right">384.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Faicco’s Italian Specialties&sll=40.73111859999999,-74.0031248&ll=40.73111859999999,-74.0031248" target="_blank">Faicco’s Italian Specialties</a></div>
     <div style="white-space: pre;">$$  |  South Village, New York, NY</div>
@@ -4827,7 +4839,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">384.</td>
+<td style="text-align: right">385.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Gigino Trattoria&sll=40.71726470000001,-74.0104673&ll=40.71726470000001,-74.0104673" target="_blank">Gigino Trattoria</a></div>
     <div style="white-space: pre;">$$  |  Tribeca, New York, NY</div>
@@ -4839,7 +4851,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="other">
-<td style="text-align: right">385.</td>
+<td style="text-align: right">386.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Tumble22&sll=30.2780879,-97.7716591&ll=30.2780879,-97.7716591" target="_blank">Tumble22</a></div>
     <div style="white-space: pre;">$$  |  Westfield, Austin, TX</div>
@@ -4851,7 +4863,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">386.</td>
+<td style="text-align: right">387.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Gunbae&sll=40.71463709999999,-74.0103209&ll=40.71463709999999,-74.0103209" target="_blank">Gunbae</a></div>
     <div style="white-space: pre;">$$  |  Financial District, New York, NY</div>
@@ -4863,7 +4875,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">387.</td>
+<td style="text-align: right">388.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Kerber's Farm NYC&sll=40.73122619999999,-74.0031637&ll=40.73122619999999,-74.0031637" target="_blank">Kerber's Farm NYC</a></div>
     <div style="white-space: pre;">$$  |  South Village, New York, NY</div>
@@ -4875,7 +4887,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">388.</td>
+<td style="text-align: right">389.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=St. George Coffee&sll=40.732128,-74.00388079999999&ll=40.732128,-74.00388079999999" target="_blank">St. George Coffee</a></div>
     <div style="white-space: pre;">$$  |  West Village, New York, NY</div>
@@ -4887,7 +4899,7 @@ Bad: too much truffle on stuff, even things that didn't have truffle listed on t
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">389.</td>
+<td style="text-align: right">390.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Postcard&sll=40.7302612,-74.0031537&ll=40.7302612,-74.0031537" target="_blank">Postcard</a></div>
     <div style="white-space: pre;">$$  |  South Village, New York, NY</div>
@@ -4901,7 +4913,7 @@ Super cute interior"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">390.</td>
+<td style="text-align: right">391.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Sushi Oku&sll=40.7153411,-73.991428&ll=40.7153411,-73.991428" target="_blank">Sushi Oku</a></div>
     <div style="white-space: pre;">$$$$  |  Chinatown, New York, NY</div>
@@ -4913,7 +4925,7 @@ Super cute interior"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">391.</td>
+<td style="text-align: right">392.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Jean's&sll=40.7285389,-73.9921165&ll=40.7285389,-73.9921165" target="_blank">Jean's</a></div>
     <div style="white-space: pre;">$$$  |  NoHo, New York, NY</div>
@@ -4925,7 +4937,7 @@ Super cute interior"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">392.</td>
+<td style="text-align: right">393.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Pane Pasta&sll=40.7332651,-73.99907670000002&ll=40.7332651,-73.99907670000002" target="_blank">Pane Pasta</a></div>
     <div style="white-space: pre;">$$  |  Greenwich Village, New York, NY</div>
@@ -4937,7 +4949,7 @@ Super cute interior"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">393.</td>
+<td style="text-align: right">394.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Daily Provisions - West Village&sll=40.72922059999999,-74.0037316&ll=40.72922059999999,-74.0037316" target="_blank">Daily Provisions - West Village</a></div>
     <div style="white-space: pre;">$$  |  South Village, New York, NY</div>
@@ -4949,7 +4961,7 @@ Super cute interior"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">394.</td>
+<td style="text-align: right">395.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Meadowsweet&sll=40.7104294,-73.96312189999999&ll=40.7104294,-73.96312189999999" target="_blank">Meadowsweet</a></div>
     <div style="white-space: pre;">$$$  |  Southside, New York, NY</div>
@@ -4961,7 +4973,7 @@ Super cute interior"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">395.</td>
+<td style="text-align: right">396.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Hudson Clearwater&sll=40.7311111,-74.0069444&ll=40.7311111,-74.0069444" target="_blank">Hudson Clearwater</a></div>
     <div style="white-space: pre;">$$  |  West Village, New York, NY</div>
@@ -4973,7 +4985,7 @@ Super cute interior"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">396.</td>
+<td style="text-align: right">397.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Chrissy’s Pizza&sll=40.7274495,-73.98362279999999&ll=40.7274495,-73.98362279999999" target="_blank">Chrissy’s Pizza</a></div>
     <div style="white-space: pre;">$$  |  Ukrainian Village, New York, NY</div>
@@ -4985,7 +4997,7 @@ Super cute interior"</div>
 </tr>
         
 <tr class="other">
-<td style="text-align: right">397.</td>
+<td style="text-align: right">398.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Edelweiss Bar & Grill&sll=18.3807364,-65.7353749&ll=18.3807364,-65.7353749" target="_blank">Edelweiss Bar & Grill</a></div>
     <div style="white-space: pre;">$$  |  Luquillo</div>
@@ -4997,7 +5009,7 @@ Super cute interior"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">398.</td>
+<td style="text-align: right">399.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Xing Fu Tang&sll=40.7288305,-73.98785029999999&ll=40.7288305,-73.98785029999999" target="_blank">Xing Fu Tang</a></div>
     <div style="white-space: pre;">$$  |  Ukrainian Village, New York, NY</div>
@@ -5009,7 +5021,7 @@ Super cute interior"</div>
 </tr>
         
 <tr class="bay">
-<td style="text-align: right">399.</td>
+<td style="text-align: right">400.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Steve's Korean Bar-B-Que&sll=37.8683144,-122.2580511&ll=37.8683144,-122.2580511" target="_blank">Steve's Korean Bar-B-Que</a></div>
     <div style="white-space: pre;">$  |  Southside, Berkeley, CA</div>
@@ -5021,7 +5033,7 @@ Super cute interior"</div>
 </tr>
         
 <tr class="bay">
-<td style="text-align: right">400.</td>
+<td style="text-align: right">401.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Toss Noodle Bar&sll=37.8680017,-122.2682188&ll=37.8680017,-122.2682188" target="_blank">Toss Noodle Bar</a></div>
     <div style="white-space: pre;">$  |  Downtown Berkeley, Berkeley, CA</div>
@@ -5033,7 +5045,7 @@ Super cute interior"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">401.</td>
+<td style="text-align: right">402.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Manousheh Bleecker&sll=40.7293904,-74.00133310000001&ll=40.7293904,-74.00133310000001" target="_blank">Manousheh Bleecker</a></div>
     <div style="white-space: pre;">$  |  South Village, New York, NY</div>
@@ -5045,7 +5057,7 @@ Super cute interior"</div>
 </tr>
         
 <tr class="london">
-<td style="text-align: right">402.</td>
+<td style="text-align: right">403.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Hackney Church Brew Co.&sll=51.5473845,-0.0523933&ll=51.5473845,-0.0523933" target="_blank">Hackney Church Brew Co.</a></div>
     <div style="white-space: pre;">$$  |  London</div>
@@ -5057,7 +5069,7 @@ Super cute interior"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">403.</td>
+<td style="text-align: right">404.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Shu Jiao Fu Zhou&sll=40.7174109,-73.9920876&ll=40.7174109,-73.9920876" target="_blank">Shu Jiao Fu Zhou</a></div>
     <div style="white-space: pre;">$  |  Bowery, New York, NY</div>
@@ -5069,7 +5081,7 @@ Super cute interior"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">404.</td>
+<td style="text-align: right">405.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Greenberg’s Bagels&sll=40.7299274,-74.0029971&ll=40.7299274,-74.0029971" target="_blank">Greenberg’s Bagels</a></div>
     <div style="white-space: pre;">$  |  South Village, New York, NY</div>
@@ -5081,7 +5093,7 @@ Super cute interior"</div>
 </tr>
         
 <tr class="la">
-<td style="text-align: right">405.</td>
+<td style="text-align: right">406.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Zhengyalov Hatz&sll=34.1461556,-118.2517715&ll=34.1461556,-118.2517715" target="_blank">Zhengyalov Hatz</a></div>
     <div style="white-space: pre;">$  |  Downtown, Glendale, CA</div>
@@ -5093,7 +5105,7 @@ Super cute interior"</div>
 </tr>
         
 <tr class="bay">
-<td style="text-align: right">406.</td>
+<td style="text-align: right">407.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=La Taqueria&sll=37.7509,-122.41809&ll=37.7509,-122.41809" target="_blank">La Taqueria</a></div>
     <div style="white-space: pre;">$  |  Mission District, San Francisco, CA</div>
@@ -5105,7 +5117,7 @@ Super cute interior"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">407.</td>
+<td style="text-align: right">408.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Mountain House Manhattan 川山甲&sll=40.7291176,-73.9885834&ll=40.7291176,-73.9885834" target="_blank">Mountain House Manhattan 川山甲</a></div>
     <div style="white-space: pre;">$$  |  Ukrainian Village, New York, NY</div>
@@ -5117,7 +5129,7 @@ Super cute interior"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">408.</td>
+<td style="text-align: right">409.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Uncle Lou&sll=40.7162246,-73.9992347&ll=40.7162246,-73.9992347" target="_blank">Uncle Lou</a></div>
     <div style="white-space: pre;">$$  |  Chinatown, New York, NY</div>
@@ -5129,7 +5141,7 @@ Super cute interior"</div>
 </tr>
         
 <tr class="la">
-<td style="text-align: right">409.</td>
+<td style="text-align: right">410.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Kura Revolving Sushi Bar&sll=34.0392907,-118.4416805&ll=34.0392907,-118.4416805" target="_blank">Kura Revolving Sushi Bar</a></div>
     <div style="white-space: pre;">$$  |  Sawtelle Japantown, Los Angeles, CA</div>
@@ -5141,7 +5153,7 @@ Super cute interior"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">410.</td>
+<td style="text-align: right">411.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Ivan Ramen&sll=40.7205819,-73.9845212&ll=40.7205819,-73.9845212" target="_blank">Ivan Ramen</a></div>
     <div style="white-space: pre;">$$  |  Lower East Side, New York, NY</div>
@@ -5153,7 +5165,7 @@ Super cute interior"</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">411.</td>
+<td style="text-align: right">412.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Lafayette Grand Café & Bakery&sll=40.7275934,-73.9937017&ll=40.7275934,-73.9937017" target="_blank">Lafayette Grand Café & Bakery</a></div>
     <div style="white-space: pre;">$$$  |  NoHo, New York, NY</div>
@@ -5167,7 +5179,7 @@ The best part was actually the various apps they served before we sat (cheese br
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">412.</td>
+<td style="text-align: right">413.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Mēdüzā Mediterrania New York&sll=40.7397483,-74.00552619999999&ll=40.7397483,-74.00552619999999" target="_blank">Mēdüzā Mediterrania New York</a></div>
     <div style="white-space: pre;">$$$  |  Meatpacking District, New York, NY</div>
@@ -5181,7 +5193,7 @@ Besides that, all the food was good but no standouts."</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">413.</td>
+<td style="text-align: right">414.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Paola's Osteria&sll=40.7831967,-73.9572878&ll=40.7831967,-73.9572878" target="_blank">Paola's Osteria</a></div>
     <div style="white-space: pre;">$$$  |  Carnegie Hill, New York, NY</div>
@@ -5193,7 +5205,7 @@ Besides that, all the food was good but no standouts."</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">414.</td>
+<td style="text-align: right">415.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Taco Mahal&sll=40.7323211,-74.00330500000001&ll=40.7323211,-74.00330500000001" target="_blank">Taco Mahal</a></div>
     <div style="white-space: pre;">$  |  South Village, New York, NY</div>
@@ -5205,7 +5217,7 @@ Besides that, all the food was good but no standouts."</div>
 </tr>
         
 <tr class="bay">
-<td style="text-align: right">415.</td>
+<td style="text-align: right">416.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Otto's Uptown Kitchen&sll=37.8136064,-122.265624&ll=37.8136064,-122.265624" target="_blank">Otto's Uptown Kitchen</a></div>
     <div style="white-space: pre;">Northgate - Waverly, Oakland, CA</div>
@@ -5217,7 +5229,7 @@ Besides that, all the food was good but no standouts."</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">416.</td>
+<td style="text-align: right">417.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Fiaschetteria “Pistoia”&sll=40.7330884,-74.0053526&ll=40.7330884,-74.0053526" target="_blank">Fiaschetteria “Pistoia”</a></div>
     <div style="white-space: pre;">$$  |  West Village, New York, NY</div>
@@ -5229,7 +5241,7 @@ Besides that, all the food was good but no standouts."</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">417.</td>
+<td style="text-align: right">418.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Mezcali&sll=40.70745460000001,-74.0074691&ll=40.70745460000001,-74.0074691" target="_blank">Mezcali</a></div>
     <div style="white-space: pre;">$$  |  Financial District, New York, NY</div>
@@ -5241,7 +5253,7 @@ Besides that, all the food was good but no standouts."</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">418.</td>
+<td style="text-align: right">419.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Bar Moga&sll=40.7278195,-74.0010896&ll=40.7278195,-74.0010896" target="_blank">Bar Moga</a></div>
     <div style="white-space: pre;">$$$  |  South Village, New York, NY</div>
@@ -5253,7 +5265,7 @@ Besides that, all the food was good but no standouts."</div>
 </tr>
         
 <tr class="paris">
-<td style="text-align: right">419.</td>
+<td style="text-align: right">420.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=La Tour Montlhéry - Chez Denise&sll=48.86153400000001,2.344001&ll=48.86153400000001,2.344001" target="_blank">La Tour Montlhéry - Chez Denise</a></div>
     <div style="white-space: pre;">$$  |  Les Halles, Paris</div>
@@ -5265,7 +5277,7 @@ Besides that, all the food was good but no standouts."</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">420.</td>
+<td style="text-align: right">421.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=tava turkish and mediterranean&sll=40.6731536,-73.983283&ll=40.6731536,-73.983283" target="_blank">tava turkish and mediterranean</a></div>
     <div style="white-space: pre;">$$  |  Park Slope, New York, NY</div>
@@ -5277,7 +5289,7 @@ Besides that, all the food was good but no standouts."</div>
 </tr>
         
 <tr class="other">
-<td style="text-align: right">421.</td>
+<td style="text-align: right">422.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Velvet Taco&sll=30.2679585,-97.74317239999999&ll=30.2679585,-97.74317239999999" target="_blank">Velvet Taco</a></div>
     <div style="white-space: pre;">$$  |  Congress Avenue Historic District, Austin, TX</div>
@@ -5289,7 +5301,7 @@ Besides that, all the food was good but no standouts."</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">422.</td>
+<td style="text-align: right">423.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Danji&sll=40.764031,-73.986859&ll=40.764031,-73.986859" target="_blank">Danji</a></div>
     <div style="white-space: pre;">$$$  |  Hell's Kitchen, New York, NY</div>
@@ -5301,7 +5313,7 @@ Besides that, all the food was good but no standouts."</div>
 </tr>
         
 <tr class="other">
-<td style="text-align: right">423.</td>
+<td style="text-align: right">424.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Néctar Restaurant - Puerto Rico&sll=18.4179749,-65.7942869&ll=18.4179749,-65.7942869" target="_blank">Néctar Restaurant - Puerto Rico</a></div>
     <div style="white-space: pre;">$$$  |  Río Grande</div>
@@ -5313,7 +5325,7 @@ Besides that, all the food was good but no standouts."</div>
 </tr>
         
 <tr class="georgia">
-<td style="text-align: right">424.</td>
+<td style="text-align: right">425.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=OtsY&sll=41.6955638,44.80646950000001&ll=41.6955638,44.80646950000001" target="_blank">OtsY</a></div>
     <div style="white-space: pre;">$$$  |  Tbilisi</div>
@@ -5325,7 +5337,7 @@ Besides that, all the food was good but no standouts."</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">425.</td>
+<td style="text-align: right">426.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Manhatta&sll=40.70799739999999,-74.00888259999999&ll=40.70799739999999,-74.00888259999999" target="_blank">Manhatta</a></div>
     <div style="white-space: pre;">$$$$  |  Financial District, New York, NY</div>
@@ -5337,7 +5349,7 @@ Besides that, all the food was good but no standouts."</div>
 </tr>
         
 <tr class="other">
-<td style="text-align: right">426.</td>
+<td style="text-align: right">427.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Bartolo's Park City&sll=40.72165589999999,-111.5389825&ll=40.72165589999999,-111.5389825" target="_blank">Bartolo's Park City</a></div>
     <div style="white-space: pre;">Park City, UT</div>
@@ -5349,7 +5361,7 @@ Besides that, all the food was good but no standouts."</div>
 </tr>
         
 <tr class="la">
-<td style="text-align: right">427.</td>
+<td style="text-align: right">428.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Cilantro Mexican Grill&sll=34.2018343,-118.4048748&ll=34.2018343,-118.4048748" target="_blank">Cilantro Mexican Grill</a></div>
     <div style="white-space: pre;">$$  |  Valley Glen, Los Angeles, CA</div>
@@ -5361,7 +5373,7 @@ Besides that, all the food was good but no standouts."</div>
 </tr>
         
 <tr class="other">
-<td style="text-align: right">428.</td>
+<td style="text-align: right">429.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Bæjarins Beztu Pylsur&sll=64.1482785,-21.937986&ll=64.1482785,-21.937986" target="_blank">Bæjarins Beztu Pylsur</a></div>
     <div style="white-space: pre;">$  |  Centre, Reykjavík</div>
@@ -5373,7 +5385,7 @@ Besides that, all the food was good but no standouts."</div>
 </tr>
         
 <tr class="bay">
-<td style="text-align: right">429.</td>
+<td style="text-align: right">430.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Sliver Pizzeria&sll=37.8698077,-122.2684016&ll=37.8698077,-122.2684016" target="_blank">Sliver Pizzeria</a></div>
     <div style="white-space: pre;">$$  |  Downtown Berkeley, Berkeley, CA</div>
@@ -5385,7 +5397,7 @@ Besides that, all the food was good but no standouts."</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">430.</td>
+<td style="text-align: right">431.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Sing&sll=40.7289284,-74.0010574&ll=40.7289284,-74.0010574" target="_blank">Sing</a></div>
     <div style="white-space: pre;">$  |  South Village, New York, NY</div>
@@ -5397,7 +5409,7 @@ Besides that, all the food was good but no standouts."</div>
 </tr>
         
 <tr class="london">
-<td style="text-align: right">431.</td>
+<td style="text-align: right">432.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Tacos Padre&sll=51.5061414,-0.0907623&ll=51.5061414,-0.0907623" target="_blank">Tacos Padre</a></div>
     <div style="white-space: pre;">$$  |  London</div>
@@ -5409,7 +5421,7 @@ Besides that, all the food was good but no standouts."</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">432.</td>
+<td style="text-align: right">433.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Munchiez&sll=40.7300242,-74.0003048&ll=40.7300242,-74.0003048" target="_blank">Munchiez</a></div>
     <div style="white-space: pre;">$  |  South Village, New York, NY</div>
@@ -5421,7 +5433,7 @@ Besides that, all the food was good but no standouts."</div>
 </tr>
         
 <tr class="london">
-<td style="text-align: right">433.</td>
+<td style="text-align: right">434.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Horn OK Please&sll=51.5059943,-0.0909201&ll=51.5059943,-0.0909201" target="_blank">Horn OK Please</a></div>
     <div style="white-space: pre;">$$  |  London</div>
@@ -5433,7 +5445,7 @@ Besides that, all the food was good but no standouts."</div>
 </tr>
         
 <tr class="london">
-<td style="text-align: right">434.</td>
+<td style="text-align: right">435.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Kennedy's&sll=51.5236053,-0.09344440000000001&ll=51.5236053,-0.09344440000000001" target="_blank">Kennedy's</a></div>
     <div style="white-space: pre;">$  |  London</div>
@@ -5445,7 +5457,7 @@ Besides that, all the food was good but no standouts."</div>
 </tr>
         
 <tr class="la">
-<td style="text-align: right">435.</td>
+<td style="text-align: right">436.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Leo's Tacos Truck&sll=34.046205,-118.3457754&ll=34.046205,-118.3457754" target="_blank">Leo's Tacos Truck</a></div>
     <div style="white-space: pre;">$  |  Mid City, Los Angeles, CA</div>
@@ -5457,7 +5469,7 @@ Besides that, all the food was good but no standouts."</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">436.</td>
+<td style="text-align: right">437.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Ole and Steen&sll=40.7129389,-74.0097459&ll=40.7129389,-74.0097459" target="_blank">Ole and Steen</a></div>
     <div style="white-space: pre;">$$  |  Tribeca, New York, NY</div>
@@ -5469,7 +5481,7 @@ Besides that, all the food was good but no standouts."</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">437.</td>
+<td style="text-align: right">438.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Rafele&sll=40.7309582,-74.0040978&ll=40.7309582,-74.0040978" target="_blank">Rafele</a></div>
     <div style="white-space: pre;">$$  |  South Village, New York, NY</div>
@@ -5481,7 +5493,7 @@ Besides that, all the food was good but no standouts."</div>
 </tr>
         
 <tr class="other">
-<td style="text-align: right">438.</td>
+<td style="text-align: right">439.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Pizza Factory&sll=36.6038947,-118.0627166&ll=36.6038947,-118.0627166" target="_blank">Pizza Factory</a></div>
     <div style="white-space: pre;">$$  |  Lone Pine, CA</div>
@@ -5493,7 +5505,7 @@ Besides that, all the food was good but no standouts."</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">439.</td>
+<td style="text-align: right">440.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Emily: West Village&sll=40.72937369999999,-74.0038588&ll=40.72937369999999,-74.0038588" target="_blank">Emily: West Village</a></div>
     <div style="white-space: pre;">$$  |  South Village, New York, NY</div>
@@ -5505,7 +5517,7 @@ Besides that, all the food was good but no standouts."</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">440.</td>
+<td style="text-align: right">441.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Mr.R - Fusion Street Food&sll=41.48339199999999,-71.30776709999999&ll=41.48339199999999,-71.30776709999999" target="_blank">Mr.R - Fusion Street Food</a></div>
     <div style="white-space: pre;">Newport, RI</div>
@@ -5519,7 +5531,7 @@ Dumplings were good, rest was meh."</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">441.</td>
+<td style="text-align: right">442.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Épicerie Boulud&sll=40.7120658,-74.01179379999999&ll=40.7120658,-74.01179379999999" target="_blank">Épicerie Boulud</a></div>
     <div style="white-space: pre;">$$  |  World Trade Center, New York, NY</div>
@@ -5531,7 +5543,7 @@ Dumplings were good, rest was meh."</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">442.</td>
+<td style="text-align: right">443.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Ramen DANBO West Village&sll=40.7299116,-74.00347579999999&ll=40.7299116,-74.00347579999999" target="_blank">Ramen DANBO West Village</a></div>
     <div style="white-space: pre;">$$  |  South Village, New York, NY</div>
@@ -5543,7 +5555,7 @@ Dumplings were good, rest was meh."</div>
 </tr>
         
 <tr class="la">
-<td style="text-align: right">443.</td>
+<td style="text-align: right">444.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Daikokuya - Sawtelle&sll=34.03798,-118.44083&ll=34.03798,-118.44083" target="_blank">Daikokuya - Sawtelle</a></div>
     <div style="white-space: pre;">$$  |  West Los Angeles, Los Angeles, CA</div>
@@ -5555,7 +5567,7 @@ Dumplings were good, rest was meh."</div>
 </tr>
         
 <tr class="bay">
-<td style="text-align: right">444.</td>
+<td style="text-align: right">445.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Yayoi Cupertino&sll=37.3372235,-122.0364616&ll=37.3372235,-122.0364616" target="_blank">Yayoi Cupertino</a></div>
     <div style="white-space: pre;">$$  |  Cupertino, CA</div>
@@ -5567,7 +5579,7 @@ Dumplings were good, rest was meh."</div>
 </tr>
         
 <tr class="london">
-<td style="text-align: right">445.</td>
+<td style="text-align: right">446.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Jack The Chipper&sll=51.5161676,-0.06984969999999999&ll=51.5161676,-0.06984969999999999" target="_blank">Jack The Chipper</a></div>
     <div style="white-space: pre;">$$  |  London</div>
@@ -5579,7 +5591,7 @@ Dumplings were good, rest was meh."</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">446.</td>
+<td style="text-align: right">447.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Honest Indian Restaurant&sll=40.7288492,-74.00083939999999&ll=40.7288492,-74.00083939999999" target="_blank">Honest Indian Restaurant</a></div>
     <div style="white-space: pre;">$$  |  South Village, New York, NY</div>
@@ -5591,7 +5603,7 @@ Dumplings were good, rest was meh."</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">447.</td>
+<td style="text-align: right">448.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Leo's Bagels&sll=40.7049369,-74.0097345&ll=40.7049369,-74.0097345" target="_blank">Leo's Bagels</a></div>
     <div style="white-space: pre;">$  |  Financial District, New York, NY</div>
@@ -5603,7 +5615,7 @@ Dumplings were good, rest was meh."</div>
 </tr>
         
 <tr class="other">
-<td style="text-align: right">448.</td>
+<td style="text-align: right">449.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Nasha&sll=30.1697498,-97.78848289999999&ll=30.1697498,-97.78848289999999" target="_blank">Nasha</a></div>
     <div style="white-space: pre;">South Austin, Austin, TX</div>
@@ -5615,7 +5627,7 @@ Dumplings were good, rest was meh."</div>
 </tr>
         
 <tr class="paris">
-<td style="text-align: right">449.</td>
+<td style="text-align: right">450.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Jixiao’s Buns&sll=48.8540473,2.3432704&ll=48.8540473,2.3432704" target="_blank">Jixiao’s Buns</a></div>
     <div style="white-space: pre;">$  |  Monnaie, Paris</div>
@@ -5627,7 +5639,7 @@ Dumplings were good, rest was meh."</div>
 </tr>
         
 <tr class="bay">
-<td style="text-align: right">450.</td>
+<td style="text-align: right">451.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Top Dog&sll=37.8678571,-122.25738&ll=37.8678571,-122.25738" target="_blank">Top Dog</a></div>
     <div style="white-space: pre;">$  |  Southside, Berkeley, CA</div>
@@ -5639,7 +5651,7 @@ Dumplings were good, rest was meh."</div>
 </tr>
         
 <tr class="singapore">
-<td style="text-align: right">451.</td>
+<td style="text-align: right">452.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=The Hainan Story Chapter One (Hotel Boss)&sll=1.3054275,103.8602641&ll=1.3054275,103.8602641" target="_blank">The Hainan Story Chapter One (Hotel Boss)</a></div>
     <div style="white-space: pre;">Kampong Glam, Singapore</div>
@@ -5651,7 +5663,7 @@ Dumplings were good, rest was meh."</div>
 </tr>
         
 <tr class="other">
-<td style="text-align: right">452.</td>
+<td style="text-align: right">453.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Café Loki&sll=64.14240269999999,-21.9288523&ll=64.14240269999999,-21.9288523" target="_blank">Café Loki</a></div>
     <div style="white-space: pre;">$$  |  Downtown, Reykjavík</div>
@@ -5663,7 +5675,7 @@ Dumplings were good, rest was meh."</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">453.</td>
+<td style="text-align: right">454.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=AMMI&sll=40.7430964,-74.00916959999999&ll=40.7430964,-74.00916959999999" target="_blank">AMMI</a></div>
     <div style="white-space: pre;">$$  |  New York, NY</div>
@@ -5675,7 +5687,7 @@ Dumplings were good, rest was meh."</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">454.</td>
+<td style="text-align: right">455.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=The Donut Pub&sll=40.7298007,-73.99288709999999&ll=40.7298007,-73.99288709999999" target="_blank">The Donut Pub</a></div>
     <div style="white-space: pre;">$$$  |  NoHo, New York, NY</div>
@@ -5687,7 +5699,7 @@ Dumplings were good, rest was meh."</div>
 </tr>
         
 <tr class="singapore">
-<td style="text-align: right">455.</td>
+<td style="text-align: right">456.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Hajmeer Kwaja Muslim Food&sll=1.280085,103.8448609&ll=1.280085,103.8448609" target="_blank">Hajmeer Kwaja Muslim Food</a></div>
     <div style="white-space: pre;">$  |  Chinatown, Singapore</div>
@@ -5699,7 +5711,7 @@ Dumplings were good, rest was meh."</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">456.</td>
+<td style="text-align: right">457.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Pisillo Italian Panini&sll=40.71055399999999,-74.007593&ll=40.71055399999999,-74.007593" target="_blank">Pisillo Italian Panini</a></div>
     <div style="white-space: pre;">$  |  Financial District, New York, NY</div>
@@ -5711,7 +5723,7 @@ Dumplings were good, rest was meh."</div>
 </tr>
         
 <tr class="singapore">
-<td style="text-align: right">457.</td>
+<td style="text-align: right">458.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=db Bistro & Oyster Bar by Daniel Boulud&sll=1.2859317,103.8594874&ll=1.2859317,103.8594874" target="_blank">db Bistro & Oyster Bar by Daniel Boulud</a></div>
     <div style="white-space: pre;">$$$  |  Downtown Core, Singapore</div>
@@ -5723,7 +5735,7 @@ Dumplings were good, rest was meh."</div>
 </tr>
         
 <tr class="bay">
-<td style="text-align: right">458.</td>
+<td style="text-align: right">459.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Boichik Bagels - 6th St. Factory&sll=37.8804841,-122.3012731&ll=37.8804841,-122.3012731" target="_blank">Boichik Bagels - 6th St. Factory</a></div>
     <div style="white-space: pre;">Northwest Berkeley, Berkeley, CA</div>
@@ -5735,7 +5747,7 @@ Dumplings were good, rest was meh."</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">459.</td>
+<td style="text-align: right">460.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Benihana&sll=40.76342989999999,-73.9766652&ll=40.76342989999999,-73.9766652" target="_blank">Benihana</a></div>
     <div style="white-space: pre;">$$$  |  Midtown West, New York, NY</div>
@@ -5747,7 +5759,7 @@ Dumplings were good, rest was meh."</div>
 </tr>
         
 <tr class="la">
-<td style="text-align: right">460.</td>
+<td style="text-align: right">461.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Tasty Noodle House&sll=34.0719585,-118.3656739&ll=34.0719585,-118.3656739" target="_blank">Tasty Noodle House</a></div>
     <div style="white-space: pre;">$  |  Beverly Grove, Los Angeles, CA</div>
@@ -5759,7 +5771,7 @@ Dumplings were good, rest was meh."</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">461.</td>
+<td style="text-align: right">462.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Brooklyn Dumpling Shop&sll=40.7275602,-73.9856935&ll=40.7275602,-73.9856935" target="_blank">Brooklyn Dumpling Shop</a></div>
     <div style="white-space: pre;">$$  |  East Village, New York, NY</div>
@@ -5771,7 +5783,7 @@ Dumplings were good, rest was meh."</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">462.</td>
+<td style="text-align: right">463.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Tino's Delicatessen&sll=40.8557948,-73.8871023&ll=40.8557948,-73.8871023" target="_blank">Tino's Delicatessen</a></div>
     <div style="white-space: pre;">$$  |  Belmont, New York, NY</div>
@@ -5783,7 +5795,7 @@ Dumplings were good, rest was meh."</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">463.</td>
+<td style="text-align: right">464.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=John's&sll=40.7316187,-74.00344679999999&ll=40.7316187,-74.00344679999999" target="_blank">John's</a></div>
     <div style="white-space: pre;">$$  |  South Village, New York, NY</div>
@@ -5795,7 +5807,7 @@ Dumplings were good, rest was meh."</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">464.</td>
+<td style="text-align: right">465.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Deep Purpl - Acai Bowls&sll=40.73011,-74.002515&ll=40.73011,-74.002515" target="_blank">Deep Purpl - Acai Bowls</a></div>
     <div style="white-space: pre;">South Village, New York, NY</div>
@@ -5807,7 +5819,7 @@ Dumplings were good, rest was meh."</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">465.</td>
+<td style="text-align: right">466.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Don Poke&sll=40.7356406,-73.9940833&ll=40.7356406,-73.9940833" target="_blank">Don Poke</a></div>
     <div style="white-space: pre;">$  |  Greenwich Village, New York, NY</div>
@@ -5819,7 +5831,7 @@ Dumplings were good, rest was meh."</div>
 </tr>
         
 <tr class="singapore">
-<td style="text-align: right">466.</td>
+<td style="text-align: right">467.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Genki Sushi Chinatown Point&sll=1.2852093,103.8447228&ll=1.2852093,103.8447228" target="_blank">Genki Sushi Chinatown Point</a></div>
     <div style="white-space: pre;">$$  |  Outram, Singapore</div>
@@ -5831,7 +5843,7 @@ Dumplings were good, rest was meh."</div>
 </tr>
         
 <tr class="georgia">
-<td style="text-align: right">467.</td>
+<td style="text-align: right">468.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=პაოლო - Paolo&sll=42.2705163,42.7022354&ll=42.2705163,42.7022354" target="_blank">პაოლო - Paolo</a></div>
     <div style="white-space: pre;">$$  |  Kutaisi</div>
@@ -5843,7 +5855,7 @@ Dumplings were good, rest was meh."</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">468.</td>
+<td style="text-align: right">469.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Sapthagiri Taste Of India&sll=40.7350028,-74.062476&ll=40.7350028,-74.062476" target="_blank">Sapthagiri Taste Of India</a></div>
     <div style="white-space: pre;">$  |  Journal Square, Jersey City, NJ</div>
@@ -5855,7 +5867,7 @@ Dumplings were good, rest was meh."</div>
 </tr>
         
 <tr class="bay">
-<td style="text-align: right">469.</td>
+<td style="text-align: right">470.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=MOD Pizza&sll=37.3356557,-122.0146635&ll=37.3356557,-122.0146635" target="_blank">MOD Pizza</a></div>
     <div style="white-space: pre;">$  |  Cupertino, CA</div>
@@ -5867,7 +5879,7 @@ Dumplings were good, rest was meh."</div>
 </tr>
         
 <tr class="japan">
-<td style="text-align: right">470.</td>
+<td style="text-align: right">471.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Tsunahachi&sll=35.69084590000001,139.7034867&ll=35.69084590000001,139.7034867" target="_blank">Tsunahachi</a></div>
     <div style="white-space: pre;">$$$  |  Tokyo</div>
@@ -5879,7 +5891,7 @@ Dumplings were good, rest was meh."</div>
 </tr>
         
 <tr class="bay">
-<td style="text-align: right">471.</td>
+<td style="text-align: right">472.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Abe's Pizza&sll=37.8680438,-122.2592134&ll=37.8680438,-122.2592134" target="_blank">Abe's Pizza</a></div>
     <div style="white-space: pre;">$  |  Southside, Berkeley, CA</div>
@@ -5891,7 +5903,7 @@ Dumplings were good, rest was meh."</div>
 </tr>
         
 <tr class="la">
-<td style="text-align: right">472.</td>
+<td style="text-align: right">473.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Javier's&sll=34.0590869,-118.4207455&ll=34.0590869,-118.4207455" target="_blank">Javier's</a></div>
     <div style="white-space: pre;">$$$  |  Century City, Los Angeles, CA</div>
@@ -5903,7 +5915,7 @@ Dumplings were good, rest was meh."</div>
 </tr>
         
 <tr class="ny">
-<td style="text-align: right">473.</td>
+<td style="text-align: right">474.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Soy & Sake Asian Eats&sll=40.6418796,-73.7919802&ll=40.6418796,-73.7919802" target="_blank">Soy & Sake Asian Eats</a></div>
     <div style="white-space: pre;">$$  |  New York, NY</div>
@@ -5915,7 +5927,7 @@ Dumplings were good, rest was meh."</div>
 </tr>
         
 <tr class="la">
-<td style="text-align: right">474.</td>
+<td style="text-align: right">475.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=bb.q Chicken Sawtelle&sll=34.0387913,-118.4423428&ll=34.0387913,-118.4423428" target="_blank">bb.q Chicken Sawtelle</a></div>
     <div style="white-space: pre;">$$$  |  West Los Angeles, Los Angeles, CA</div>
@@ -5927,7 +5939,7 @@ Dumplings were good, rest was meh."</div>
 </tr>
         
 <tr class="bay">
-<td style="text-align: right">475.</td>
+<td style="text-align: right">476.</td>
 <td style="text-align: left; padding-right: 20px">
     <div><a href="https://maps.google.com/maps?q=Tasty Pot&sll=37.86872760000001,-122.2669248&ll=37.86872760000001,-122.2669248" target="_blank">Tasty Pot</a></div>
     <div style="white-space: pre;">$$  |  Downtown Berkeley, Berkeley, CA</div>
