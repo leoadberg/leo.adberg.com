@@ -1,8 +1,8 @@
 #!/usr/bin/python3 
 USER = "f69d5871-2932-4f68-9157-38b9733ff5a9"
 API = "https://backoffice-service-t57o3dxfca-nn.a.run.app/api"
+TOKEN       = f"{API}/token/refresh/"
 RESTAURANTS = f"{API}/get-ranking/?user={USER}&category=RES"
-SCORES      = f"{API}/scores/{USER}/"
 NOTES       = f"{API}/datauserbusinesstext-sparse/?field__name=NOTES&user={USER}"
 IMAGEURL    = f"{API}/user-business-photo/?user={USER}&business="
 OUTPUT = "food"
@@ -19,15 +19,37 @@ regions = [
     ("other", "Other", 0, 0, 10000),
 ]
 
-import urllib.request, json, math
+import urllib.request, json, math, os
 from tqdm.contrib.concurrent import process_map
 
-def getImages(r, retries=4):
+assert "BELI_AUTH" in os.environ
+
+def get_token():
+    req = urllib.request.Request(TOKEN)
+    req.add_header("content-type", "application/json")
+    req.data = bytes('{"refresh": "' + os.environ["BELI_AUTH"] + '"}', encoding='utf8')
+    with urllib.request.urlopen(req, timeout=4) as res:
+        return json.load(res)["access"]
+
+
+def get(url, token, retries=1):
+    try:
+        req = urllib.request.Request(url)
+        req.add_header("authorization", "Bearer " + token)
+        with urllib.request.urlopen(req, timeout=4) as res:
+            return json.load(res)
+    except Exception as e:
+        if retries > 0:
+            return get(url, retries-1)
+        print(f"Failed to get {url=}")
+        raise
+
+
+def getImages(tup, retries=4):
+    r, token = tup
     try:
         id = r["business"]["id"]
-        with urllib.request.urlopen(IMAGEURL+str(id), timeout=2) as imageurl:
-            imagedata = json.load(imageurl)
-        return imagedata["results"]
+        return get(IMAGEURL+str(id), token)["results"]
     except Exception as e:
         if retries > 0:
             return getImages(r, retries-1)
@@ -35,32 +57,22 @@ def getImages(r, retries=4):
         return []
 
 if __name__ == "__main__":
-    with urllib.request.urlopen(RESTAURANTS) as url:
-        data = json.load(url)
-        data = data["results"]
+    token = get_token()
+    data = get(RESTAURANTS, token)["results"]
 
-    with urllib.request.urlopen(SCORES) as url:
-        scores = json.load(url)
-        scoremap = {}
-        for item in scores:
-            if item["user_id"] == USER:
-                scoremap[item["business_id"]] = item["value"]
-
-    with urllib.request.urlopen(NOTES) as url:
-        notes = json.load(url)
-        notes = notes["results"]
-        notesmap = {}
-        for item in notes:
-            if item["user"] == USER:
-                notesmap[item["business"]] = item["value"]
+    notes = get(NOTES, token)
+    notes = notes["results"]
+    notesmap = {}
+    for item in notes:
+        if item["user"] == USER:
+            notesmap[item["business"]] = item["value"]
 
     for item in data:
         business_id = item["business"]["id"]
-        item["score"] = scoremap[business_id]
         if business_id in notesmap:
             item["notes"] = notesmap[business_id]
 
-    for i, im in enumerate(process_map(getImages, data, max_workers=50)):
+    for i, im in enumerate(process_map(getImages, [(r, token) for r in data], max_workers=50)):
         data[i]["images"] = im
 
     data.sort(key=lambda r: (-r["score"], r["business"]["name"]))
