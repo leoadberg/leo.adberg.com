@@ -19,6 +19,7 @@ jobs:
       - run: pip install tqdm
 
       - name: scrape
+        BELI_AUTH: ${{ vars.BELI_AUTH }}
         run: |
           python ./scrape_beli.py
 
