@@ -7,6 +7,7 @@ on:
 jobs:
   date:
     runs-on: ubuntu-latest
+    environment: Beli Auth
     steps:
       # Checkout the branch
       - name: checkout
